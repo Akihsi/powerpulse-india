@@ -1,0 +1,416 @@
+region_code,region,state,year,days_reported,days_with_shortfall,avg_unmet_mw,max_unmet_mw,avg_unmet_pct_of_demand,shortfall_days_pct
+SR,Southern,Andhra Pradesh,2013,271,156,807.3,3800.0,6.561,57.6
+SR,Southern,Andhra Pradesh,2014,354,248,472.1,3800.0,5.013,70.1
+SR,Southern,Andhra Pradesh,2015,351,12,3.5,400.0,0.053,3.4
+SR,Southern,Andhra Pradesh,2016,350,0,0.0,0.0,0.0,0.0
+SR,Southern,Andhra Pradesh,2017,334,1,0.9,300.0,0.012,0.3
+SR,Southern,Andhra Pradesh,2018,357,1,0.0,6.0,0.0,0.3
+SR,Southern,Andhra Pradesh,2019,360,2,1.7,600.0,0.017,0.6
+SR,Southern,Andhra Pradesh,2020,316,0,0.0,0.0,0.0,0.0
+SR,Southern,Andhra Pradesh,2021,352,0,0.0,0.0,0.0,0.0
+SR,Southern,Andhra Pradesh,2022,361,30,59.3,1500.0,0.495,8.3
+SR,Southern,Andhra Pradesh,2023,364,2,1.0,208.0,0.009,0.5
+SR,Southern,Andhra Pradesh,2024,119,0,0.0,0.0,0.0,0.0
+NER,North-Eastern,Arunachal Pradesh,2013,271,269,5.1,32.0,5.019,99.3
+NER,North-Eastern,Arunachal Pradesh,2014,356,341,4.9,30.0,4.469,95.8
+NER,North-Eastern,Arunachal Pradesh,2015,350,325,3.2,25.0,3.102,92.9
+NER,North-Eastern,Arunachal Pradesh,2016,350,324,2.7,21.0,2.525,92.6
+NER,North-Eastern,Arunachal Pradesh,2017,335,317,2.9,18.0,2.597,94.6
+NER,North-Eastern,Arunachal Pradesh,2018,359,347,3.6,41.0,3.053,96.7
+NER,North-Eastern,Arunachal Pradesh,2019,361,351,2.3,9.0,1.902,97.2
+NER,North-Eastern,Arunachal Pradesh,2020,316,292,1.5,23.0,1.356,92.4
+NER,North-Eastern,Arunachal Pradesh,2021,352,160,0.8,5.0,0.603,45.5
+NER,North-Eastern,Arunachal Pradesh,2022,361,0,0.0,0.0,0.0,0.0
+NER,North-Eastern,Arunachal Pradesh,2023,364,0,0.0,0.0,0.0,0.0
+NER,North-Eastern,Arunachal Pradesh,2024,119,0,0.0,0.0,0.0,0.0
+NER,North-Eastern,Assam,2013,271,271,148.4,378.0,12.199,100.0
+NER,North-Eastern,Assam,2014,355,355,180.0,456.0,13.847,100.0
+NER,North-Eastern,Assam,2015,350,350,120.9,473.0,8.847,100.0
+NER,North-Eastern,Assam,2016,350,341,70.0,340.0,4.783,97.4
+NER,North-Eastern,Assam,2017,335,328,76.5,417.0,4.867,97.9
+NER,North-Eastern,Assam,2018,359,359,64.6,305.0,4.014,100.0
+NER,North-Eastern,Assam,2019,361,360,69.3,314.0,4.223,99.7
+NER,North-Eastern,Assam,2020,316,307,47.2,410.0,3.034,97.2
+NER,North-Eastern,Assam,2021,352,118,9.7,301.0,0.621,33.5
+NER,North-Eastern,Assam,2022,361,1,0.3,120.0,0.019,0.3
+NER,North-Eastern,Assam,2023,364,28,11.5,414.0,0.507,7.7
+NER,North-Eastern,Assam,2024,119,14,14.1,215.0,0.882,11.8
+ER,Eastern,Bihar,2013,270,210,262.7,1200.0,11.608,77.8
+ER,Eastern,Bihar,2014,355,261,186.6,800.0,7.22,73.5
+ER,Eastern,Bihar,2015,347,200,98.2,550.0,3.208,57.6
+ER,Eastern,Bihar,2016,350,155,72.5,500.0,2.042,44.3
+ER,Eastern,Bihar,2017,334,56,23.7,300.0,0.597,16.8
+ER,Eastern,Bihar,2018,359,5,1.5,350.0,0.035,1.4
+ER,Eastern,Bihar,2019,361,1,0.1,50.0,0.003,0.3
+ER,Eastern,Bihar,2020,316,4,1.5,285.0,0.031,1.3
+ER,Eastern,Bihar,2021,352,9,12.0,1738.0,0.212,2.6
+ER,Eastern,Bihar,2022,361,101,124.5,1698.0,1.857,28.0
+ER,Eastern,Bihar,2023,364,112,81.6,1092.0,1.278,30.8
+ER,Eastern,Bihar,2024,119,29,75.3,988.0,1.373,24.4
+NR,Northern,Chandigarh,2013,271,0,0.0,0.0,0.0,0.0
+NR,Northern,Chandigarh,2014,354,0,0.0,0.0,0.0,0.0
+NR,Northern,Chandigarh,2015,351,0,0.0,0.0,0.0,0.0
+NR,Northern,Chandigarh,2016,350,0,0.0,0.0,0.0,0.0
+NR,Northern,Chandigarh,2017,335,0,0.0,0.0,0.0,0.0
+NR,Northern,Chandigarh,2018,359,0,0.0,0.0,0.0,0.0
+NR,Northern,Chandigarh,2019,362,0,0.0,0.0,0.0,0.0
+NR,Northern,Chandigarh,2020,316,0,0.0,0.0,0.0,0.0
+NR,Northern,Chandigarh,2021,352,0,0.0,0.0,0.0,0.0
+NR,Northern,Chandigarh,2022,361,0,0.0,0.0,0.0,0.0
+NR,Northern,Chandigarh,2023,364,0,0.0,0.0,0.0,0.0
+NR,Northern,Chandigarh,2024,119,0,0.0,0.0,0.0,0.0
+WR,Western,Chhattisgarh,2013,271,271,49.7,604.0,1.656,100.0
+WR,Western,Chhattisgarh,2014,355,345,71.3,641.0,2.274,97.2
+WR,Western,Chhattisgarh,2015,352,289,92.3,514.0,2.678,82.1
+WR,Western,Chhattisgarh,2016,350,85,26.3,417.0,0.748,24.3
+WR,Western,Chhattisgarh,2017,335,26,9.4,362.0,0.26,7.8
+WR,Western,Chhattisgarh,2018,359,9,2.7,234.0,0.073,2.5
+WR,Western,Chhattisgarh,2019,361,7,0.9,99.0,0.024,1.9
+WR,Western,Chhattisgarh,2020,316,3,0.6,133.0,0.014,0.9
+WR,Western,Chhattisgarh,2021,352,24,3.6,308.0,0.081,6.8
+WR,Western,Chhattisgarh,2022,361,11,2.4,268.0,0.049,3.0
+WR,Western,Chhattisgarh,2023,363,23,3.2,191.0,0.062,6.3
+WR,Western,Chhattisgarh,2024,119,11,7.4,244.0,0.136,9.2
+WR,Western,Dadra and Nagar Haveli,2013,271,150,2.9,103.0,0.456,55.4
+WR,Western,Dadra and Nagar Haveli,2014,355,129,1.5,61.0,0.229,36.3
+WR,Western,Dadra and Nagar Haveli,2015,352,0,0.0,0.0,0.0,0.0
+WR,Western,Dadra and Nagar Haveli,2016,350,0,0.0,0.0,0.0,0.0
+WR,Western,Dadra and Nagar Haveli,2017,335,0,0.0,0.0,0.0,0.0
+WR,Western,Dadra and Nagar Haveli,2018,359,0,0.0,0.0,0.0,0.0
+WR,Western,Dadra and Nagar Haveli,2019,361,0,0.0,0.0,0.0,0.0
+WR,Western,Dadra and Nagar Haveli,2020,316,0,0.0,0.0,0.0,0.0
+WR,Western,Dadra and Nagar Haveli,2021,352,0,0.0,0.0,0.0,0.0
+WR,Western,Dadra and Nagar Haveli,2022,150,7,4.2,120.0,0.485,4.7
+WR,Western,Daman and Diu,2013,271,100,0.5,3.0,0.211,36.9
+WR,Western,Daman and Diu,2014,355,95,0.3,3.0,0.125,26.8
+WR,Western,Daman and Diu,2015,352,0,0.0,0.0,0.0,0.0
+WR,Western,Daman and Diu,2016,350,0,0.0,0.0,0.0,0.0
+WR,Western,Daman and Diu,2017,335,0,0.0,0.0,0.0,0.0
+WR,Western,Daman and Diu,2018,359,0,0.0,0.0,0.0,0.0
+WR,Western,Daman and Diu,2019,361,0,0.0,0.0,0.0,0.0
+WR,Western,Daman and Diu,2020,316,0,0.0,0.0,0.0,0.0
+WR,Western,Daman and Diu,2021,352,0,0.0,0.0,0.0,0.0
+WR,Western,Daman and Diu,2022,150,0,0.0,0.0,0.0,0.0
+NR,Northern,Delhi,2013,271,55,7.7,226.0,0.181,20.3
+NR,Northern,Delhi,2014,350,117,13.2,249.0,0.327,33.4
+NR,Northern,Delhi,2015,351,97,8.2,417.0,0.2,27.6
+NR,Northern,Delhi,2016,350,61,2.6,113.0,0.062,17.4
+NR,Northern,Delhi,2017,335,25,1.0,52.0,0.02,7.5
+NR,Northern,Delhi,2018,359,9,0.3,54.0,0.006,2.5
+NR,Northern,Delhi,2019,361,0,0.0,0.0,0.0,0.0
+NR,Northern,Delhi,2020,316,1,0.0,2.0,0.0,0.3
+NR,Northern,Delhi,2021,352,1,0.0,1.0,0.0,0.3
+NR,Northern,Delhi,2022,361,0,0.0,0.0,0.0,0.0
+NR,Northern,Delhi,2023,364,0,0.0,0.0,0.0,0.0
+NR,Northern,Delhi,2024,119,0,0.0,0.0,0.0,0.0
+WR,Western,Goa,2013,271,166,12.5,100.0,2.971,61.3
+WR,Western,Goa,2014,355,129,7.5,121.0,1.631,36.3
+WR,Western,Goa,2015,352,7,0.4,40.0,0.101,2.0
+WR,Western,Goa,2016,350,6,0.5,60.0,0.097,1.7
+WR,Western,Goa,2017,335,0,0.0,0.0,0.0,0.0
+WR,Western,Goa,2018,359,1,0.1,25.0,0.013,0.3
+WR,Western,Goa,2019,362,9,0.6,30.0,0.104,2.5
+WR,Western,Goa,2020,316,2,0.1,22.0,0.017,0.6
+WR,Western,Goa,2021,352,8,0.7,50.0,0.118,2.3
+WR,Western,Goa,2022,361,8,0.4,35.0,0.065,2.2
+WR,Western,Goa,2023,364,3,0.2,40.0,0.03,0.8
+WR,Western,Goa,2024,119,1,0.1,15.0,0.02,0.8
+WR,Western,Gujarat,2013,270,244,49.7,692.0,0.473,90.4
+WR,Western,Gujarat,2014,355,190,20.3,130.0,0.169,53.5
+WR,Western,Gujarat,2015,352,94,7.8,116.0,0.06,26.7
+WR,Western,Gujarat,2016,350,78,3.5,50.0,0.027,22.3
+WR,Western,Gujarat,2017,335,15,0.8,32.0,0.005,4.5
+WR,Western,Gujarat,2018,359,2,2.7,974.0,0.016,0.6
+WR,Western,Gujarat,2019,361,0,0.0,0.0,0.0,0.0
+WR,Western,Gujarat,2020,316,0,0.0,0.0,0.0,0.0
+WR,Western,Gujarat,2021,352,24,16.1,1055.0,0.097,6.8
+WR,Western,Gujarat,2022,361,4,2.4,391.0,0.014,1.1
+WR,Western,Gujarat,2023,364,4,10.1,2123.0,0.043,1.1
+WR,Western,Gujarat,2024,119,0,0.0,0.0,0.0,0.0
+NR,Northern,Haryana,2013,271,74,57.4,713.0,0.975,27.3
+NR,Northern,Haryana,2014,354,90,71.2,1127.0,1.105,25.4
+NR,Northern,Haryana,2015,351,39,16.4,600.0,0.221,11.1
+NR,Northern,Haryana,2016,350,39,19.0,672.0,0.268,11.1
+NR,Northern,Haryana,2017,335,96,60.3,795.0,0.821,28.7
+NR,Northern,Haryana,2018,359,108,48.4,975.0,0.69,30.1
+NR,Northern,Haryana,2019,361,34,14.5,578.0,0.188,9.4
+NR,Northern,Haryana,2020,316,29,13.5,550.0,0.18,9.2
+NR,Northern,Haryana,2021,352,25,10.2,465.0,0.123,7.1
+NR,Northern,Haryana,2022,361,55,38.8,1355.0,0.469,15.2
+NR,Northern,Haryana,2023,364,37,31.3,928.0,0.328,10.2
+NR,Northern,Haryana,2024,119,14,16.1,350.0,0.183,11.8
+NR,Northern,Himachal Pradesh,2013,271,24,2.0,87.0,0.168,8.9
+NR,Northern,Himachal Pradesh,2014,347,52,5.5,186.0,0.414,15.0
+NR,Northern,Himachal Pradesh,2015,351,40,6.8,448.0,0.526,11.4
+NR,Northern,Himachal Pradesh,2016,350,35,1.8,120.0,0.132,10.0
+NR,Northern,Himachal Pradesh,2017,335,34,2.8,110.0,0.211,10.1
+NR,Northern,Himachal Pradesh,2018,359,50,3.0,68.0,0.209,13.9
+NR,Northern,Himachal Pradesh,2019,361,42,1.6,40.0,0.104,11.6
+NR,Northern,Himachal Pradesh,2020,316,19,1.6,65.0,0.109,6.0
+NR,Northern,Himachal Pradesh,2021,352,23,1.4,76.0,0.082,6.5
+NR,Northern,Himachal Pradesh,2022,361,19,1.6,85.0,0.094,5.3
+NR,Northern,Himachal Pradesh,2023,364,26,1.3,50.0,0.075,7.1
+NR,Northern,Himachal Pradesh,2024,119,9,0.8,27.0,0.044,7.6
+NR,Northern,Jammu and Kashmir,2013,271,271,99.9,100.0,5.966,100.0
+NR,Northern,Jammu and Kashmir,2014,351,268,104.3,601.0,5.479,76.4
+NR,Northern,Jammu and Kashmir,2015,350,350,424.0,575.0,18.229,100.0
+NR,Northern,Jammu and Kashmir,2016,349,349,470.0,1108.0,19.968,100.0
+NR,Northern,Jammu and Kashmir,2017,335,335,498.7,672.0,19.996,100.0
+NR,Northern,Jammu and Kashmir,2018,359,359,520.9,1100.0,19.883,100.0
+NR,Northern,Jammu and Kashmir,2019,361,361,553.3,1049.0,19.951,100.0
+NR,Northern,Jammu and Kashmir,2020,316,236,414.6,1219.0,14.512,74.7
+NR,Northern,Jammu and Kashmir,2021,352,334,297.5,600.0,10.273,94.9
+NR,Northern,Jammu and Kashmir,2022,361,159,97.0,330.0,3.432,44.0
+NR,Northern,Jammu and Kashmir,2023,364,96,38.6,550.0,1.438,26.4
+NR,Northern,Jammu and Kashmir,2024,119,20,30.8,550.0,0.999,16.8
+ER,Eastern,Jharkhand,2013,271,17,6.1,199.0,0.578,6.3
+ER,Eastern,Jharkhand,2014,355,52,13.3,294.0,1.289,14.6
+ER,Eastern,Jharkhand,2015,351,29,7.3,241.0,0.661,8.3
+ER,Eastern,Jharkhand,2016,349,21,5.6,200.0,0.479,6.0
+ER,Eastern,Jharkhand,2017,335,11,2.7,156.0,0.225,3.3
+ER,Eastern,Jharkhand,2018,354,29,10.3,209.0,0.854,8.2
+ER,Eastern,Jharkhand,2019,361,15,5.9,292.0,0.485,4.2
+ER,Eastern,Jharkhand,2020,316,12,4.6,219.0,0.29,3.8
+ER,Eastern,Jharkhand,2021,352,40,19.0,480.0,1.156,11.4
+ER,Eastern,Jharkhand,2022,361,103,52.5,520.0,3.0,28.5
+ER,Eastern,Jharkhand,2023,364,111,48.4,419.0,2.752,30.5
+ER,Eastern,Jharkhand,2024,119,30,41.8,291.0,2.251,25.2
+SR,Southern,Karnataka,2013,271,269,510.3,1600.0,6.477,99.3
+SR,Southern,Karnataka,2014,354,351,462.5,1400.0,5.543,99.2
+SR,Southern,Karnataka,2015,351,340,678.8,2000.0,8.018,96.9
+SR,Southern,Karnataka,2016,350,147,225.5,1500.0,2.4,42.0
+SR,Southern,Karnataka,2017,334,4,7.2,1100.0,0.083,1.2
+SR,Southern,Karnataka,2018,357,1,0.1,24.0,0.001,0.3
+SR,Southern,Karnataka,2019,360,3,1.5,500.0,0.016,0.8
+SR,Southern,Karnataka,2020,316,0,0.0,0.0,0.0,0.0
+SR,Southern,Karnataka,2021,352,0,0.0,0.0,0.0,0.0
+SR,Southern,Karnataka,2022,361,0,0.0,0.0,0.0,0.0
+SR,Southern,Karnataka,2023,364,4,6.5,850.0,0.04,1.1
+SR,Southern,Karnataka,2024,119,0,0.0,0.0,0.0,0.0
+SR,Southern,Kerala,2013,271,233,236.3,950.0,7.201,86.0
+SR,Southern,Kerala,2014,355,311,182.7,763.0,5.364,87.6
+SR,Southern,Kerala,2015,351,189,67.5,550.0,1.971,53.8
+SR,Southern,Kerala,2016,350,32,12.1,350.0,0.317,9.1
+SR,Southern,Kerala,2017,334,4,1.0,100.0,0.03,1.2
+SR,Southern,Kerala,2018,357,20,12.6,500.0,0.348,5.6
+SR,Southern,Kerala,2019,357,4,0.9,180.0,0.022,1.1
+SR,Southern,Kerala,2020,315,5,1.5,240.0,0.039,1.6
+SR,Southern,Kerala,2021,352,8,2.2,250.0,0.059,2.3
+SR,Southern,Kerala,2022,361,4,2.0,350.0,0.043,1.1
+SR,Southern,Kerala,2023,364,2,0.6,200.0,0.014,0.5
+SR,Southern,Kerala,2024,119,2,6.4,450.0,0.107,1.7
+WR,Western,Madhya Pradesh,2013,271,177,15.3,323.0,0.231,65.3
+WR,Western,Madhya Pradesh,2014,354,168,36.1,1169.0,0.508,47.5
+WR,Western,Madhya Pradesh,2015,352,3,0.1,20.0,0.002,0.9
+WR,Western,Madhya Pradesh,2016,350,16,0.7,46.0,0.009,4.6
+WR,Western,Madhya Pradesh,2017,335,12,0.4,30.0,0.004,3.6
+WR,Western,Madhya Pradesh,2018,359,0,0.0,0.0,0.0,0.0
+WR,Western,Madhya Pradesh,2019,361,0,0.0,0.0,0.0,0.0
+WR,Western,Madhya Pradesh,2020,316,0,0.0,0.0,0.0,0.0
+WR,Western,Madhya Pradesh,2021,352,2,6.0,1177.0,0.057,0.6
+WR,Western,Madhya Pradesh,2022,361,10,12.8,881.0,0.104,2.8
+WR,Western,Madhya Pradesh,2023,364,4,4.0,734.0,0.027,1.1
+WR,Western,Madhya Pradesh,2024,119,9,22.1,628.0,0.129,7.6
+WR,Western,Maharashtra,2013,271,270,312.2,1034.0,1.886,99.6
+WR,Western,Maharashtra,2014,355,354,235.0,1159.0,1.265,99.7
+WR,Western,Maharashtra,2015,351,348,144.9,1235.0,0.761,99.1
+WR,Western,Maharashtra,2016,350,95,7.5,412.0,0.039,27.1
+WR,Western,Maharashtra,2017,335,42,64.2,2519.0,0.313,12.5
+WR,Western,Maharashtra,2018,359,22,26.4,1073.0,0.105,6.1
+WR,Western,Maharashtra,2019,361,2,0.1,12.0,0.0,0.6
+WR,Western,Maharashtra,2020,316,0,0.0,0.0,0.0,0.0
+WR,Western,Maharashtra,2021,352,0,0.0,0.0,0.0,0.0
+WR,Western,Maharashtra,2022,361,13,27.0,2293.0,0.092,3.6
+WR,Western,Maharashtra,2023,364,14,28.9,2986.0,0.102,3.8
+WR,Western,Maharashtra,2024,119,2,5.3,461.0,0.019,1.7
+NER,North-Eastern,Manipur,2013,271,268,4.6,25.0,4.362,98.9
+NER,North-Eastern,Manipur,2014,355,349,6.0,53.0,4.985,98.3
+NER,North-Eastern,Manipur,2015,350,312,3.3,33.0,2.514,89.1
+NER,North-Eastern,Manipur,2016,350,312,2.8,36.0,2.15,89.1
+NER,North-Eastern,Manipur,2017,335,322,3.1,17.0,2.057,96.1
+NER,North-Eastern,Manipur,2018,359,343,3.9,29.0,2.313,95.5
+NER,North-Eastern,Manipur,2019,361,356,3.1,48.0,1.781,98.6
+NER,North-Eastern,Manipur,2020,316,301,1.8,12.0,0.959,95.3
+NER,North-Eastern,Manipur,2021,352,185,1.2,23.0,0.573,52.6
+NER,North-Eastern,Manipur,2022,361,15,1.1,49.0,0.508,4.2
+NER,North-Eastern,Manipur,2023,364,18,0.6,34.0,0.272,4.9
+NER,North-Eastern,Manipur,2024,119,25,3.6,33.0,1.528,21.0
+NER,North-Eastern,Meghalaya,2013,270,259,7.7,46.0,2.967,95.9
+NER,North-Eastern,Meghalaya,2014,355,328,8.4,40.0,3.035,92.4
+NER,North-Eastern,Meghalaya,2015,350,286,2.3,25.0,0.762,81.7
+NER,North-Eastern,Meghalaya,2016,350,87,1.3,28.0,0.458,24.9
+NER,North-Eastern,Meghalaya,2017,335,28,0.7,49.0,0.232,8.4
+NER,North-Eastern,Meghalaya,2018,359,119,1.7,50.0,0.569,33.1
+NER,North-Eastern,Meghalaya,2019,361,69,1.6,35.0,0.477,19.1
+NER,North-Eastern,Meghalaya,2020,316,49,0.4,11.0,0.121,15.5
+NER,North-Eastern,Meghalaya,2021,352,23,2.3,95.0,0.673,6.5
+NER,North-Eastern,Meghalaya,2022,361,17,1.9,88.0,0.579,4.7
+NER,North-Eastern,Meghalaya,2023,364,170,13.3,92.0,3.806,46.7
+NER,North-Eastern,Meghalaya,2024,119,12,3.4,40.0,0.927,10.1
+NER,North-Eastern,Mizoram,2013,270,267,3.9,17.0,6.392,98.9
+NER,North-Eastern,Mizoram,2014,356,345,3.9,25.0,5.106,96.9
+NER,North-Eastern,Mizoram,2015,350,318,2.3,34.0,2.963,90.9
+NER,North-Eastern,Mizoram,2016,350,309,2.1,24.0,2.618,88.3
+NER,North-Eastern,Mizoram,2017,335,304,2.1,14.0,2.688,90.7
+NER,North-Eastern,Mizoram,2018,359,336,2.7,52.0,3.062,93.6
+NER,North-Eastern,Mizoram,2019,361,350,2.0,9.0,2.123,97.0
+NER,North-Eastern,Mizoram,2020,316,273,1.3,23.0,1.359,86.4
+NER,North-Eastern,Mizoram,2021,352,164,0.8,14.0,0.756,46.6
+NER,North-Eastern,Mizoram,2022,361,0,0.0,0.0,0.0,0.0
+NER,North-Eastern,Mizoram,2023,364,0,0.0,0.0,0.0,0.0
+NER,North-Eastern,Mizoram,2024,119,0,0.0,0.0,0.0,0.0
+NER,North-Eastern,Nagaland,2013,271,267,4.0,28.0,4.398,98.5
+NER,North-Eastern,Nagaland,2014,355,339,4.3,41.0,4.029,95.5
+NER,North-Eastern,Nagaland,2015,350,343,3.4,24.0,3.04,98.0
+NER,North-Eastern,Nagaland,2016,350,317,3.0,26.0,2.867,90.6
+NER,North-Eastern,Nagaland,2017,335,315,2.7,10.0,2.388,94.0
+NER,North-Eastern,Nagaland,2018,359,354,3.7,23.0,2.991,98.6
+NER,North-Eastern,Nagaland,2019,361,359,2.5,9.0,2.002,99.4
+NER,North-Eastern,Nagaland,2020,316,292,1.5,11.0,1.21,92.4
+NER,North-Eastern,Nagaland,2021,352,180,1.0,14.0,0.711,51.1
+NER,North-Eastern,Nagaland,2022,361,3,0.1,24.0,0.068,0.8
+NER,North-Eastern,Nagaland,2023,364,0,0.0,0.0,0.0,0.0
+NER,North-Eastern,Nagaland,2024,119,0,0.0,0.0,0.0,0.0
+ER,Eastern,Odisha,2013,271,33,23.5,350.0,0.636,12.2
+ER,Eastern,Odisha,2014,353,59,32.1,500.0,0.848,16.7
+ER,Eastern,Odisha,2015,349,55,26.5,400.0,0.725,15.8
+ER,Eastern,Odisha,2016,350,4,2.0,200.0,0.049,1.1
+ER,Eastern,Odisha,2017,335,11,7.6,600.0,0.185,3.3
+ER,Eastern,Odisha,2018,351,20,9.9,400.0,0.201,5.7
+ER,Eastern,Odisha,2019,361,2,1.2,250.0,0.026,0.6
+ER,Eastern,Odisha,2020,316,1,1.6,508.0,0.036,0.3
+ER,Eastern,Odisha,2021,352,0,0.0,0.0,0.0,0.0
+ER,Eastern,Odisha,2022,361,7,4.0,350.0,0.065,1.9
+ER,Eastern,Odisha,2023,364,3,1.5,220.0,0.026,0.8
+ER,Eastern,Odisha,2024,119,1,1.7,207.0,0.035,0.8
+SR,Southern,Puducherry,2013,271,64,7.1,70.0,2.132,23.6
+SR,Southern,Puducherry,2014,355,72,7.3,624.0,1.842,20.3
+SR,Southern,Puducherry,2015,350,24,1.3,55.0,0.39,6.9
+SR,Southern,Puducherry,2016,350,2,0.1,15.0,0.026,0.6
+SR,Southern,Puducherry,2017,334,1,0.1,35.0,0.028,0.3
+SR,Southern,Puducherry,2018,356,30,1.9,45.0,0.504,8.4
+SR,Southern,Puducherry,2019,358,13,0.9,50.0,0.222,3.6
+SR,Southern,Puducherry,2020,316,0,0.0,0.0,0.0,0.0
+SR,Southern,Puducherry,2021,352,3,0.2,20.0,0.039,0.9
+SR,Southern,Puducherry,2022,361,2,0.1,40.0,0.026,0.6
+SR,Southern,Puducherry,2023,364,3,0.3,50.0,0.056,0.8
+SR,Southern,Puducherry,2024,119,0,0.0,0.0,0.0,0.0
+NR,Northern,Punjab,2013,271,53,95.8,1200.0,1.115,19.6
+NR,Northern,Punjab,2014,348,52,105.7,1835.0,1.309,14.9
+NR,Northern,Punjab,2015,351,6,5.7,885.0,0.095,1.7
+NR,Northern,Punjab,2016,350,1,0.2,84.0,0.003,0.3
+NR,Northern,Punjab,2017,335,0,0.0,0.0,0.0,0.0
+NR,Northern,Punjab,2018,359,7,2.2,160.0,0.028,1.9
+NR,Northern,Punjab,2019,361,0,0.0,0.0,0.0,0.0
+NR,Northern,Punjab,2020,316,4,3.1,500.0,0.058,1.3
+NR,Northern,Punjab,2021,352,21,37.3,2295.0,0.369,6.0
+NR,Northern,Punjab,2022,361,19,20.6,2050.0,0.26,5.3
+NR,Northern,Punjab,2023,364,3,1.9,345.0,0.027,0.8
+NR,Northern,Punjab,2024,119,0,0.0,0.0,0.0,0.0
+NR,Northern,Rajasthan,2013,271,32,24.9,905.0,0.346,11.8
+NR,Northern,Rajasthan,2014,354,64,91.6,2888.0,0.981,18.1
+NR,Northern,Rajasthan,2015,351,23,29.9,2856.0,0.315,6.6
+NR,Northern,Rajasthan,2016,350,68,59.4,971.0,0.618,19.4
+NR,Northern,Rajasthan,2017,335,82,93.4,3008.0,0.931,24.5
+NR,Northern,Rajasthan,2018,359,59,89.1,2663.0,0.793,16.4
+NR,Northern,Rajasthan,2019,361,15,9.0,736.0,0.071,4.2
+NR,Northern,Rajasthan,2020,316,8,5.6,484.0,0.045,2.5
+NR,Northern,Rajasthan,2021,352,24,40.6,2894.0,0.291,6.8
+NR,Northern,Rajasthan,2022,361,49,48.6,2229.0,0.345,13.6
+NR,Northern,Rajasthan,2023,364,37,32.9,2078.0,0.201,10.2
+NR,Northern,Rajasthan,2024,119,4,3.2,302.0,0.018,3.4
+ER,Eastern,Sikkim,2013,271,0,0.0,0.0,0.0,0.0
+ER,Eastern,Sikkim,2014,355,0,0.0,0.0,0.0,0.0
+ER,Eastern,Sikkim,2015,351,0,0.0,0.0,0.0,0.0
+ER,Eastern,Sikkim,2016,350,0,0.0,0.0,0.0,0.0
+ER,Eastern,Sikkim,2017,335,0,0.0,0.0,0.0,0.0
+ER,Eastern,Sikkim,2018,359,0,0.0,0.0,0.0,0.0
+ER,Eastern,Sikkim,2019,361,0,0.0,0.0,0.0,0.0
+ER,Eastern,Sikkim,2020,316,1,0.1,35.0,0.068,0.3
+ER,Eastern,Sikkim,2021,352,0,0.0,0.0,0.0,0.0
+ER,Eastern,Sikkim,2022,361,0,0.0,0.0,0.0,0.0
+ER,Eastern,Sikkim,2023,364,0,0.0,0.0,0.0,0.0
+ER,Eastern,Sikkim,2024,119,0,0.0,0.0,0.0,0.0
+SR,Southern,Tamil Nadu,2013,270,269,930.7,2700.0,7.726,99.6
+SR,Southern,Tamil Nadu,2014,354,241,630.3,2910.0,5.084,68.1
+SR,Southern,Tamil Nadu,2015,351,160,333.9,2333.0,2.643,45.6
+SR,Southern,Tamil Nadu,2016,350,1,0.1,30.0,0.001,0.3
+SR,Southern,Tamil Nadu,2017,334,0,0.0,0.0,0.0,0.0
+SR,Southern,Tamil Nadu,2018,357,1,1.9,671.0,0.013,0.3
+SR,Southern,Tamil Nadu,2019,361,2,0.2,68.0,0.001,0.6
+SR,Southern,Tamil Nadu,2020,316,0,0.0,0.0,0.0,0.0
+SR,Southern,Tamil Nadu,2021,352,0,0.0,0.0,0.0,0.0
+SR,Southern,Tamil Nadu,2022,361,0,0.0,0.0,0.0,0.0
+SR,Southern,Tamil Nadu,2023,364,0,0.0,0.0,0.0,0.0
+SR,Southern,Tamil Nadu,2024,119,0,0.0,0.0,0.0,0.0
+SR,Southern,Telangana,2014,211,178,441.7,2000.0,6.709,84.4
+SR,Southern,Telangana,2015,350,107,71.0,800.0,1.122,30.6
+SR,Southern,Telangana,2016,350,2,0.1,22.0,0.001,0.6
+SR,Southern,Telangana,2017,334,0,0.0,0.0,0.0,0.0
+SR,Southern,Telangana,2018,357,1,0.1,27.0,0.001,0.3
+SR,Southern,Telangana,2019,359,1,0.0,5.0,0.0,0.3
+SR,Southern,Telangana,2020,316,0,0.0,0.0,0.0,0.0
+SR,Southern,Telangana,2021,352,0,0.0,0.0,0.0,0.0
+SR,Southern,Telangana,2022,361,0,0.0,0.0,0.0,0.0
+SR,Southern,Telangana,2023,364,0,0.0,0.0,0.0,0.0
+SR,Southern,Telangana,2024,119,0,0.0,0.0,0.0,0.0
+,,Total,2013,270,270,5684.7,12251.0,4.328,100.0
+,,Total,2014,350,350,5710.2,12204.0,4.043,100.0
+,,Total,2015,349,349,4905.6,9175.0,3.359,100.0
+,,Total,2016,349,349,1565.0,4379.0,1.04,100.0
+,,Total,2017,333,333,1205.6,6011.0,0.751,100.0
+,,Total,2018,356,356,1010.3,4125.0,0.596,100.0
+,,Total,2019,361,361,873.0,3505.0,0.501,100.0
+,,Total,2020,316,316,555.9,2235.0,0.329,100.0
+,,Total,2021,352,348,522.3,4010.0,0.277,98.9
+,,Total,2022,361,318,632.4,6517.0,0.304,88.1
+,,Total,2023,364,316,383.0,5083.0,0.171,86.8
+,,Total,2024,119,72,251.0,1599.0,0.11,60.5
+NER,North-Eastern,Tripura,2013,271,263,21.1,72.0,10.018,97.0
+NER,North-Eastern,Tripura,2014,355,308,11.8,75.0,5.135,86.8
+NER,North-Eastern,Tripura,2015,350,296,6.4,90.0,2.914,84.6
+NER,North-Eastern,Tripura,2016,350,221,2.6,63.0,1.138,63.1
+NER,North-Eastern,Tripura,2017,335,257,4.2,69.0,1.902,76.7
+NER,North-Eastern,Tripura,2018,359,302,4.9,118.0,2.1,84.1
+NER,North-Eastern,Tripura,2019,361,302,4.7,25.0,1.759,83.7
+NER,North-Eastern,Tripura,2020,316,258,3.0,70.0,1.179,81.6
+NER,North-Eastern,Tripura,2021,352,115,1.1,45.0,0.4,32.7
+NER,North-Eastern,Tripura,2022,361,2,0.1,10.0,0.017,0.6
+NER,North-Eastern,Tripura,2023,364,0,0.0,0.0,0.0,0.0
+NER,North-Eastern,Tripura,2024,119,0,0.0,0.0,0.0,0.0
+NR,Northern,Uttar Pradesh,2013,271,268,1838.1,3925.0,15.11,98.9
+NR,Northern,Uttar Pradesh,2014,349,348,2343.7,6120.0,17.601,99.7
+NR,Northern,Uttar Pradesh,2015,350,346,2684.5,5015.0,18.683,98.9
+NR,Northern,Uttar Pradesh,2016,349,217,547.8,3645.0,4.082,62.2
+NR,Northern,Uttar Pradesh,2017,333,182,325.0,2590.0,1.908,54.7
+NR,Northern,Uttar Pradesh,2018,359,167,185.0,2220.0,1.166,46.5
+NR,Northern,Uttar Pradesh,2019,361,124,194.4,2635.0,1.072,34.3
+NR,Northern,Uttar Pradesh,2020,316,58,48.6,870.0,0.283,18.4
+NR,Northern,Uttar Pradesh,2021,352,51,50.5,1500.0,0.246,14.5
+NR,Northern,Uttar Pradesh,2022,361,88,119.1,1440.0,0.53,24.4
+NR,Northern,Uttar Pradesh,2023,364,55,53.6,1600.0,0.226,15.1
+NR,Northern,Uttar Pradesh,2024,119,6,5.9,360.0,0.029,5.0
+NR,Northern,Uttarakhand,2013,271,186,78.8,355.0,4.737,68.6
+NR,Northern,Uttarakhand,2014,351,282,84.9,575.0,4.84,80.3
+NR,Northern,Uttarakhand,2015,351,194,50.4,305.0,2.757,55.3
+NR,Northern,Uttarakhand,2016,350,80,14.0,150.0,0.743,22.9
+NR,Northern,Uttarakhand,2017,335,20,7.5,230.0,0.397,6.0
+NR,Northern,Uttarakhand,2018,359,27,7.2,155.0,0.368,7.5
+NR,Northern,Uttarakhand,2019,361,2,0.4,110.0,0.019,0.6
+NR,Northern,Uttarakhand,2020,316,0,0.0,0.0,0.0,0.0
+NR,Northern,Uttarakhand,2021,352,9,3.2,300.0,0.162,2.6
+NR,Northern,Uttarakhand,2022,361,45,10.8,230.0,0.503,12.5
+NR,Northern,Uttarakhand,2023,364,42,11.7,220.0,0.524,11.5
+NR,Northern,Uttarakhand,2024,119,14,12.7,240.0,0.508,11.8
+ER,Eastern,West Bengal,2013,270,147,19.1,273.0,0.285,54.4
+ER,Eastern,West Bengal,2014,354,162,17.0,500.0,0.245,45.8
+ER,Eastern,West Bengal,2015,350,50,3.3,80.0,0.049,14.3
+ER,Eastern,West Bengal,2016,349,19,1.5,73.0,0.021,5.4
+ER,Eastern,West Bengal,2017,335,2,0.1,29.0,0.002,0.6
+ER,Eastern,West Bengal,2018,359,0,0.0,0.0,0.0,0.0
+ER,Eastern,West Bengal,2019,361,0,0.0,0.0,0.0,0.0
+ER,Eastern,West Bengal,2020,316,1,1.2,369.0,0.015,0.3
+ER,Eastern,West Bengal,2021,352,0,0.0,0.0,0.0,0.0
+ER,Eastern,West Bengal,2022,361,0,0.0,0.0,0.0,0.0
+ER,Eastern,West Bengal,2023,364,0,0.0,0.0,0.0,0.0
+ER,Eastern,West Bengal,2024,119,0,0.0,0.0,0.0,0.0

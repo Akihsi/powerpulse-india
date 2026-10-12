@@ -1,0 +1,138 @@
+{
+  "mode": "real",
+  "raw_dir": "/Users/nitingupta/Desktop/projects/powerpulse-india/data/raw",
+  "national_file_diagnostics": {
+    "corrected_daily_energy_met_MU.csv": {
+      "raw_rows": 3955,
+      "exact_duplicate_rows_removed": 43,
+      "duplicate_date_groups_before_resolution": 12,
+      "conflicting_date_groups_audited": 12,
+      "conflicting_state_date_cells_set_to_null": 204,
+      "unique_dates_after_resolution": 3900
+    },
+    "corrected_peak_met_MW.csv": {
+      "raw_rows": 3955,
+      "exact_duplicate_rows_removed": 43,
+      "duplicate_date_groups_before_resolution": 12,
+      "conflicting_date_groups_audited": 12,
+      "conflicting_state_date_cells_set_to_null": 216,
+      "unique_dates_after_resolution": 3900
+    },
+    "peak_unmet_MW.csv": {
+      "raw_rows": 3955,
+      "exact_duplicate_rows_removed": 47,
+      "duplicate_date_groups_before_resolution": 8,
+      "conflicting_date_groups_audited": 8,
+      "conflicting_state_date_cells_set_to_null": 82,
+      "unique_dates_after_resolution": 3900
+    }
+  },
+  "demand_rows_raw_long": 144300,
+  "non_state_columns_dropped": [
+    "AMNSIL",
+    "Damodar Valley Corporation"
+  ],
+  "invalid_measurement_rows_audited": 95,
+  "invalid_values_set_to_null": {
+    "energy_non_positive": 6,
+    "peak_met_non_positive": 0,
+    "peak_unmet_negative": 89
+  },
+  "states_with_no_usable_electricity_data": [
+    "Andaman and Nicobar Islands",
+    "Ladakh",
+    "Lakshadweep"
+  ],
+  "demand_rows_clean": 134626,
+  "demand_first_date": "2013-01-01",
+  "demand_last_date": "2024-04-28",
+  "demand_states": 34,
+  "demand_missing_values": {
+    "energy_met_mu": 140,
+    "peak_met_mw": 146,
+    "peak_unmet_mw": 124
+  },
+  "weather_files": 36,
+  "weather_rows_raw": 595812,
+  "weather_kelvin_to_celsius": [
+    "temp_min",
+    "temp_mean",
+    "temp_max",
+    "dewpoint_min",
+    "dewpoint_mean",
+    "dewpoint_max",
+    "utci_min",
+    "utci_mean",
+    "utci_max"
+  ],
+  "weather_solar_converted_J_to_W_per_m2": [
+    "solar_min",
+    "solar_mean",
+    "solar_max"
+  ],
+  "weather_exact_duplicate_rows_removed": 0,
+  "weather_rows_clean": 595812,
+  "weather_columns": [
+    "wind_u_min",
+    "wind_u_mean",
+    "wind_u_max",
+    "wind_v_min",
+    "wind_v_mean",
+    "wind_v_max",
+    "temp_min",
+    "temp_mean",
+    "temp_max",
+    "dewpoint_min",
+    "dewpoint_mean",
+    "dewpoint_max",
+    "solar_min",
+    "solar_mean",
+    "solar_max",
+    "cloud_min",
+    "cloud_mean",
+    "cloud_max",
+    "utci_min",
+    "utci_mean",
+    "utci_max",
+    "wind_speed_mean"
+  ],
+  "weather_missing_values": {
+    "wind_u_min": 35,
+    "wind_u_mean": 35,
+    "wind_u_max": 35,
+    "wind_v_min": 36,
+    "wind_v_mean": 36,
+    "wind_v_max": 36,
+    "temp_min": 36,
+    "temp_mean": 36,
+    "temp_max": 36,
+    "dewpoint_min": 36,
+    "dewpoint_mean": 36,
+    "dewpoint_max": 36,
+    "solar_min": 71,
+    "solar_mean": 71,
+    "solar_max": 71,
+    "cloud_min": 36,
+    "cloud_mean": 36,
+    "cloud_max": 36,
+    "utci_min": 3151,
+    "utci_mean": 3151,
+    "utci_max": 3151,
+    "wind_speed_mean": 36
+  },
+  "demand_date_state_keys": 134626,
+  "joined_date_state_keys": 134626,
+  "joined_rows": 134626,
+  "joined_rows_without_weather": 3957,
+  "states_without_weather_file": [
+    "Total"
+  ],
+  "step_times_seconds": {
+    "read + unpivot the 3 national files": 19.76,
+    "write demand_long.parquet": 2.69,
+    "read the per-state weather files": 3.01,
+    "write weather_clean.parquet": 4.3,
+    "join demand with weather": 2.87
+  },
+  "data_is_synthetic": false
+}

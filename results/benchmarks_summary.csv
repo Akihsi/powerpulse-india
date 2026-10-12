@@ -1,0 +1,27 @@
+experiment,variant,median_s,min_s,max_s,runs,rows,note
+startup,Spark session start-up (JVM),3.3341,3.3341,3.3341,1,,one-off cost Pandas does not have
+A_format,size on disk CSV (MB),208.8421,208.8421,208.8421,1,,"value is MB, not seconds"
+A_format,size on disk Parquet (MB),101.3785,101.3785,101.3785,1,,"value is MB, not seconds"
+A_format,CSV (inferSchema),1.4772,1.4247,1.6585,3,595812.0,
+A_format,CSV (explicit schema),0.3461,0.3286,0.4055,3,595812.0,
+A_format,Parquet,0.3716,0.3318,1.3986,3,595812.0,
+B_cache,no cache (repeat query),0.2439,0.2161,0.322,5,595812.0,
+B_cache,with cache - 1st run (fills cache),1.15,1.15,1.15,1,595812.0,
+B_cache,with cache - later runs,0.1113,0.0859,0.2356,5,595812.0,
+C_partitions,shuffle.partitions=1,0.1126,0.0907,0.3563,3,595812.0,
+C_partitions,shuffle.partitions=2,0.0899,0.0683,0.1208,3,595812.0,
+C_partitions,shuffle.partitions=4,0.0642,0.0622,0.0736,3,595812.0,
+C_partitions,shuffle.partitions=8,0.0828,0.0699,0.0859,3,595812.0,
+C_partitions,shuffle.partitions=16,0.1783,0.1193,0.4179,3,595812.0,
+C_partitions,shuffle.partitions=64,0.2128,0.17,0.2623,3,595812.0,
+C_partitions,shuffle.partitions=200,0.4872,0.4673,0.5898,3,595812.0,
+D_pandas_spark,Pandas + Parquet,0.0709,0.0692,0.0746,3,595812.0,
+D_pandas_spark,Spark + Parquet,0.3349,0.2672,0.3776,3,595812.0,
+D_pandas_spark,Pandas + CSV,0.7387,0.7184,0.8145,3,595812.0,
+D_pandas_spark,Spark + CSV,0.3272,0.3245,0.3312,3,595812.0,
+E_scale,"Spark x1 (595,812 rows)",0.13,0.1204,0.1456,3,595812.0,replicated copy - stress test only
+E_scale,"Pandas x1 (595,812 rows)",0.03,0.0299,0.0326,3,595812.0,replicated copy - stress test only
+E_scale,"Spark x2 (1,191,624 rows)",0.1154,0.1108,0.158,3,1191624.0,replicated copy - stress test only
+E_scale,"Pandas x2 (1,191,624 rows)",0.053,0.0523,0.0535,3,1191624.0,replicated copy - stress test only
+E_scale,"Spark x4 (2,383,248 rows)",0.1405,0.1345,0.1832,3,2383248.0,replicated copy - stress test only
+E_scale,"Pandas x4 (2,383,248 rows)",0.1091,0.1021,0.1164,3,2383248.0,replicated copy - stress test only

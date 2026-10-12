@@ -1,0 +1,14 @@
+data/raw/*
+data/sample_raw/
+data/processed/*
+data/sample_processed/
+results_sample/
+__pycache__/
+*.pyc
+.venv/
+spark-warehouse/
+metastore_db/
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+.DS_Store
+/venv/

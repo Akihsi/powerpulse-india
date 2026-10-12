@@ -1,0 +1,35 @@
+state,region_code,region,n_days,avg_temp_c,corr_temp_energy_raw,corr_temp_relative_energy
+West Bengal,ER,Eastern,3188,25.83,0.742,0.864
+Delhi,NR,Northern,3187,24.95,0.791,0.816
+Kerala,SR,Southern,3188,26.2,0.487,0.772
+Assam,NER,North-Eastern,3188,24.14,0.609,0.766
+Uttar Pradesh,NR,Northern,3186,25.42,0.519,0.74
+Punjab,NR,Northern,3187,24.26,0.678,0.734
+Tamil Nadu,SR,Southern,3188,27.68,0.539,0.725
+Puducherry,SR,Southern,3190,28.32,0.408,0.724
+Chandigarh,NR,Northern,3188,23.88,0.714,0.722
+Haryana,NR,Northern,3188,24.99,0.614,0.678
+Odisha,ER,Eastern,3188,26.27,0.323,0.639
+Bihar,ER,Eastern,3188,25.76,0.357,0.632
+Tripura,NER,North-Eastern,3185,25.28,0.503,0.605
+Maharashtra,WR,Western,3189,26.65,0.313,0.581
+Chhattisgarh,WR,Western,3188,25.95,0.356,0.569
+Goa,WR,Western,3189,25.84,0.302,0.531
+Uttarakhand,NR,Northern,3187,11.86,0.382,0.472
+Gujarat,WR,Western,3189,27.41,0.268,0.472
+Karnataka,SR,Southern,3188,25.71,0.264,0.365
+Andhra Pradesh,SR,Southern,3189,27.89,0.231,0.329
+Jharkhand,ER,Eastern,3188,25.04,0.136,0.209
+Daman and Diu,WR,Western,2465,26.78,0.119,0.16
+Nagaland,NER,North-Eastern,3190,20.19,0.116,0.093
+Telangana,SR,Southern,2833,27.64,-0.002,0.053
+Dadra and Nagar Haveli,WR,Western,2463,26.78,0.013,0.044
+Arunachal Pradesh,NER,North-Eastern,3190,13.36,0.011,-0.038
+Himachal Pradesh,NR,Northern,3187,5.5,-0.027,-0.062
+Rajasthan,NR,Northern,3187,26.47,-0.084,-0.133
+Madhya Pradesh,WR,Western,3189,25.65,-0.308,-0.432
+Mizoram,NER,North-Eastern,3190,22.52,-0.173,-0.44
+Manipur,NER,North-Eastern,3190,20.5,-0.297,-0.467
+Sikkim,ER,Eastern,3188,5.51,-0.454,-0.499
+Meghalaya,NER,North-Eastern,3188,22.12,-0.405,-0.582
+Jammu and Kashmir,NR,Northern,3187,-1.53,-0.332,-0.595

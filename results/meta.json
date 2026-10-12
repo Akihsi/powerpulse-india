@@ -1,0 +1,5 @@
+{
+  "temp_mean_col": "temp_mean",
+  "temp_max_col": "temp_max",
+  "min_days_full_year": 330
+}

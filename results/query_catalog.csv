@@ -1,0 +1,14 @@
+query,output_file,technique,what_it_answers,result_rows,seconds
+Q1 Annual state demand,q1_annual_state_demand.csv,Spark SQL GROUP BY + window lag (YoY),How much electricity each state received per year and how fast it grows (only years with >= 330 reported days count as full years),415,0.6
+Q2 Top 10 peak days per state,q2_top_peak_days_by_state.csv,Window function row_number(),"The ten days with the highest peak power supplied in each state, with the day's mean temperature",350,0.52
+Q2 Season of each state's 30 highest peaks,q2_peak_season_share.csv,Window function + group-by,In which season does each state hit its highest peaks,72,0.39
+Q2 Highest all-India days (sum of state peaks),q2_national_peak_days.csv,Group-by + filter + sort,"Days with the highest SUM of state-level peaks. Note: state peaks happen at different hours, so this is not the same as the simultaneous national peak",15,0.09
+Q3 Unmet peak demand by state and year,q3_unmet_by_state_year.csv,Filtering + conditional aggregation,How often and how severely each state's peak demand was not fully met,415,0.23
+Q3 Unmet peak demand by grid region,q3_unmet_by_region_year.csv,Group-by aggregation,Regional shortfall pattern over the years,72,0.17
+Q4 Temperature-demand correlation per state,q4_temp_demand_correlation.csv,Window function (de-trending) + corr() aggregate,Observed association between daily mean temperature and demand. 'relative' divides each day by the state's average of that year to remove growth and state size. Association only - not proof of causation,34,0.53
+Q4 Relative demand by temperature band,q4_demand_by_temperature_bin.csv,Join-derived feature + binning + group-by,Average relative demand in 5 degC temperature bands for each grid region,38,0.32
+Q5 Monthly demand by state and year,q5_monthly_state_year.csv,Spark SQL + date functions,Month-by-month average daily demand for every state and year (heatmaps),4663,0.25
+Q5 Season comparison by region,q5_season_by_region.csv,Group-by on derived season column,How much busier than an average day is each season in each region,20,0.39
+Q5 Weekday vs weekend demand,q5_weekend_effect.csv,Pivot aggregation,How much lower (or higher) demand is on weekends than on weekdays in each state,34,0.48
+Extra: Region monthly totals,x_region_monthly.csv,Group-by,Monthly energy per grid region,810,0.26
+Extra: All-India daily total with 30-day rolling mean,x_national_daily.csv,Window function (rolling average),All-India daily energy supplied (sum over states) and its 30-day rolling mean,3900,0.15

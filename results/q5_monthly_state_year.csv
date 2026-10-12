@@ -1,0 +1,4664 @@
+state,region_code,year,month,avg_daily_mu,avg_temp_c,n_days
+Andhra Pradesh,SR,2013,1,252.44,25.24,7
+Andhra Pradesh,SR,2013,3,253.7,30.42,1
+Andhra Pradesh,SR,2013,4,244.52,30.71,30
+Andhra Pradesh,SR,2013,5,240.07,32.35,30
+Andhra Pradesh,SR,2013,6,221.93,29.11,27
+Andhra Pradesh,SR,2013,7,220.49,27.14,29
+Andhra Pradesh,SR,2013,8,245.43,27.59,28
+Andhra Pradesh,SR,2013,9,250.27,27.38,27
+Andhra Pradesh,SR,2013,10,226.91,26.71,30
+Andhra Pradesh,SR,2013,11,228.22,24.71,30
+Andhra Pradesh,SR,2013,12,240.86,22.91,31
+Andhra Pradesh,SR,2014,1,263.62,23.59,24
+Andhra Pradesh,SR,2014,2,265.94,25.02,28
+Andhra Pradesh,SR,2014,3,269.45,27.98,31
+Andhra Pradesh,SR,2014,4,265.35,30.75,28
+Andhra Pradesh,SR,2014,5,243.46,31.47,31
+Andhra Pradesh,SR,2014,6,130.62,31.4,30
+Andhra Pradesh,SR,2014,7,129.4,28.48,31
+Andhra Pradesh,SR,2014,8,137.72,28.55,31
+Andhra Pradesh,SR,2014,9,133.35,27.95,30
+Andhra Pradesh,SR,2014,10,123.65,27.39,31
+Andhra Pradesh,SR,2014,11,127.36,25.13,30
+Andhra Pradesh,SR,2014,12,131.29,23.5,30
+Andhra Pradesh,SR,2015,1,135.21,23.56,31
+Andhra Pradesh,SR,2015,2,142.55,25.43,28
+Andhra Pradesh,SR,2015,3,145.45,28.64,30
+Andhra Pradesh,SR,2015,4,139.72,29.92,29
+Andhra Pradesh,SR,2015,5,145.44,32.25,30
+Andhra Pradesh,SR,2015,6,130.62,29.19,27
+Andhra Pradesh,SR,2015,7,146.43,30.03,28
+Andhra Pradesh,SR,2015,8,139.19,28.65,31
+Andhra Pradesh,SR,2015,9,129.74,28.16,27
+Andhra Pradesh,SR,2015,10,140.85,27.98,30
+Andhra Pradesh,SR,2015,11,122.29,25.09,30
+Andhra Pradesh,SR,2015,12,125.61,24.44,31
+Andhra Pradesh,SR,2016,1,130.26,24.18,31
+Andhra Pradesh,SR,2016,2,145.66,26.95,28
+Andhra Pradesh,SR,2016,3,154.67,29.62,28
+Andhra Pradesh,SR,2016,4,158.4,32.44,29
+Andhra Pradesh,SR,2016,5,143.48,31.94,30
+Andhra Pradesh,SR,2016,6,132.7,29.17,27
+Andhra Pradesh,SR,2016,7,137.97,28.52,29
+Andhra Pradesh,SR,2016,8,157.13,29.04,31
+Andhra Pradesh,SR,2016,9,146.24,27.73,30
+Andhra Pradesh,SR,2016,10,156.17,28.15,30
+Andhra Pradesh,SR,2016,11,156.09,25.76,27
+Andhra Pradesh,SR,2016,12,138.95,24.13,30
+Andhra Pradesh,SR,2017,1,147.07,24.27,29
+Andhra Pradesh,SR,2017,2,160.43,26.71,17
+Andhra Pradesh,SR,2017,3,163.24,29.59,21
+Andhra Pradesh,SR,2017,4,165.65,32.32,28
+Andhra Pradesh,SR,2017,5,160.37,32.68,30
+Andhra Pradesh,SR,2017,6,145.53,29.87,29
+Andhra Pradesh,SR,2017,7,152.68,29.11,30
+Andhra Pradesh,SR,2017,8,151.0,28.26,31
+Andhra Pradesh,SR,2017,9,152.41,28.2,30
+Andhra Pradesh,SR,2017,10,149.05,27.46,31
+Andhra Pradesh,SR,2017,11,160.98,26.1,28
+Andhra Pradesh,SR,2017,12,159.43,23.92,31
+Andhra Pradesh,SR,2018,1,165.17,23.9,31
+Andhra Pradesh,SR,2018,2,171.05,25.65,28
+Andhra Pradesh,SR,2018,3,177.45,28.91,31
+Andhra Pradesh,SR,2018,4,178.87,31.02,30
+Andhra Pradesh,SR,2018,5,173.71,31.64,31
+Andhra Pradesh,SR,2018,6,169.2,30.13,30
+Andhra Pradesh,SR,2018,7,165.68,28.71,31
+Andhra Pradesh,SR,2018,8,172.7,28.07,26
+Andhra Pradesh,SR,2018,9,178.69,28.66,30
+Andhra Pradesh,SR,2018,10,188.84,28.11,31
+Andhra Pradesh,SR,2018,11,181.09,26.23,29
+Andhra Pradesh,SR,2018,12,164.37,24.22,31
+Andhra Pradesh,SR,2019,1,161.12,23.23,31
+Andhra Pradesh,SR,2019,2,177.97,26.64,26
+Andhra Pradesh,SR,2019,3,196.16,29.86,31
+Andhra Pradesh,SR,2019,4,190.37,31.62,30
+Andhra Pradesh,SR,2019,5,195.11,33.18,31
+Andhra Pradesh,SR,2019,6,188.31,31.49,29
+Andhra Pradesh,SR,2019,7,172.59,29.1,31
+Andhra Pradesh,SR,2019,8,170.7,28.28,31
+Andhra Pradesh,SR,2019,9,164.81,27.65,30
+Andhra Pradesh,SR,2019,10,156.79,26.94,30
+Andhra Pradesh,SR,2019,11,168.31,26.15,30
+Andhra Pradesh,SR,2019,12,160.76,24.09,31
+Andhra Pradesh,SR,2020,1,173.22,24.68,31
+Andhra Pradesh,SR,2020,2,190.87,25.89,29
+Andhra Pradesh,SR,2020,3,186.36,28.82,31
+Andhra Pradesh,SR,2020,4,159.89,30.71,29
+Andhra Pradesh,SR,2020,5,179.54,32.18,30
+Andhra Pradesh,SR,2020,6,170.26,30.03,28
+Andhra Pradesh,SR,2020,7,153.56,28.18,30
+Andhra Pradesh,SR,2020,8,162.13,27.74,18
+Andhra Pradesh,SR,2020,9,172.86,28.03,14
+Andhra Pradesh,SR,2020,10,161.17,27.24,22
+Andhra Pradesh,SR,2020,11,160.78,25.25,26
+Andhra Pradesh,SR,2020,12,156.85,23.27,28
+Andhra Pradesh,SR,2021,1,172.02,24.34,31
+Andhra Pradesh,SR,2021,2,188.81,25.02,27
+Andhra Pradesh,SR,2021,3,212.79,28.7,30
+Andhra Pradesh,SR,2021,4,211.51,30.76,27
+Andhra Pradesh,SR,2021,5,189.22,30.91,30
+Andhra Pradesh,SR,2021,6,184.72,29.64,27
+Andhra Pradesh,SR,2021,7,170.87,28.05,30
+Andhra Pradesh,SR,2021,8,196.33,28.29,31
+Andhra Pradesh,SR,2021,9,189.51,28.06,28
+Andhra Pradesh,SR,2021,10,188.05,28.02,30
+Andhra Pradesh,SR,2021,11,153.85,25.26,30
+Andhra Pradesh,SR,2021,12,163.58,23.81,31
+Andhra Pradesh,SR,2022,1,179.33,24.02,31
+Andhra Pradesh,SR,2022,2,199.36,25.41,28
+Andhra Pradesh,SR,2022,3,220.78,28.98,31
+Andhra Pradesh,SR,2022,4,212.18,31.11,29
+Andhra Pradesh,SR,2022,5,195.54,30.59,31
+Andhra Pradesh,SR,2022,6,204.55,30.16,29
+Andhra Pradesh,SR,2022,7,184.59,27.8,31
+Andhra Pradesh,SR,2022,8,196.63,28.11,31
+Andhra Pradesh,SR,2022,9,199.82,27.82,30
+Andhra Pradesh,SR,2022,10,178.1,26.56,31
+Andhra Pradesh,SR,2022,11,182.63,24.98,29
+Andhra Pradesh,SR,2022,12,179.23,24.5,30
+Andhra Pradesh,SR,2023,1,197.62,23.85,31
+Andhra Pradesh,SR,2023,2,220.89,26.27,28
+Andhra Pradesh,SR,2023,3,216.53,27.79,30
+Andhra Pradesh,SR,2023,4,231.55,30.85,30
+Andhra Pradesh,SR,2023,5,221.61,31.39,31
+Andhra Pradesh,SR,2023,6,237.1,31.81,30
+Andhra Pradesh,SR,2023,7,204.27,28.26,31
+Andhra Pradesh,SR,2023,8,231.45,29.57,31
+Andhra Pradesh,SR,2023,9,218.34,28.59,30
+Andhra Pradesh,SR,2023,10,234.84,28.87,31
+Andhra Pradesh,SR,2023,11,209.88,26.34,30
+Andhra Pradesh,SR,2023,12,185.68,23.89,31
+Andhra Pradesh,SR,2024,1,208.17,24.55,31
+Andhra Pradesh,SR,2024,2,229.57,26.92,29
+Andhra Pradesh,SR,2024,3,237.05,29.57,31
+Andhra Pradesh,SR,2024,4,244.29,32.16,28
+Arunachal Pradesh,NER,2013,1,1.64,4.8,7
+Arunachal Pradesh,NER,2013,3,1.4,10.39,1
+Arunachal Pradesh,NER,2013,4,1.08,12.28,30
+Arunachal Pradesh,NER,2013,5,1.3,15.55,30
+Arunachal Pradesh,NER,2013,6,1.24,19.12,27
+Arunachal Pradesh,NER,2013,7,1.16,19.06,30
+Arunachal Pradesh,NER,2013,8,1.23,19.37,28
+Arunachal Pradesh,NER,2013,9,1.27,18.06,27
+Arunachal Pradesh,NER,2013,10,1.34,14.41,30
+Arunachal Pradesh,NER,2013,11,1.44,9.48,30
+Arunachal Pradesh,NER,2013,12,1.62,5.53,31
+Arunachal Pradesh,NER,2014,1,1.51,5.3,24
+Arunachal Pradesh,NER,2014,2,1.5,6.51,28
+Arunachal Pradesh,NER,2014,3,1.5,9.8,31
+Arunachal Pradesh,NER,2014,4,1.43,12.8,29
+Arunachal Pradesh,NER,2014,5,1.46,15.24,31
+Arunachal Pradesh,NER,2014,6,1.58,18.88,30
+Arunachal Pradesh,NER,2014,7,1.63,19.52,31
+Arunachal Pradesh,NER,2014,8,1.74,18.56,31
+Arunachal Pradesh,NER,2014,9,1.8,17.77,30
+Arunachal Pradesh,NER,2014,10,1.72,14.7,31
+Arunachal Pradesh,NER,2014,11,1.79,10.56,30
+Arunachal Pradesh,NER,2014,12,1.85,7.08,30
+Arunachal Pradesh,NER,2015,1,1.71,5.42,31
+Arunachal Pradesh,NER,2015,2,1.84,6.89,28
+Arunachal Pradesh,NER,2015,3,1.49,10.63,30
+Arunachal Pradesh,NER,2015,4,1.18,12.4,28
+Arunachal Pradesh,NER,2015,5,1.17,15.8,30
+Arunachal Pradesh,NER,2015,6,1.18,18.16,27
+Arunachal Pradesh,NER,2015,7,1.21,19.37,28
+Arunachal Pradesh,NER,2015,8,1.41,18.68,31
+Arunachal Pradesh,NER,2015,9,1.73,18.28,27
+Arunachal Pradesh,NER,2015,10,1.86,14.99,30
+Arunachal Pradesh,NER,2015,11,1.93,10.37,30
+Arunachal Pradesh,NER,2015,12,1.71,5.56,31
+Arunachal Pradesh,NER,2016,1,1.93,4.11,31
+Arunachal Pradesh,NER,2016,2,1.99,7.98,28
+Arunachal Pradesh,NER,2016,3,1.99,10.37,28
+Arunachal Pradesh,NER,2016,4,1.76,13.14,29
+Arunachal Pradesh,NER,2016,5,1.68,15.58,30
+Arunachal Pradesh,NER,2016,6,1.89,18.74,27
+Arunachal Pradesh,NER,2016,7,1.85,18.63,29
+Arunachal Pradesh,NER,2016,8,1.98,20.44,31
+Arunachal Pradesh,NER,2016,9,1.94,18.07,30
+Arunachal Pradesh,NER,2016,10,1.99,15.78,31
+Arunachal Pradesh,NER,2016,11,1.91,11.49,27
+Arunachal Pradesh,NER,2016,12,1.98,8.39,30
+Arunachal Pradesh,NER,2017,1,2.06,5.67,29
+Arunachal Pradesh,NER,2017,2,2.02,8.1,17
+Arunachal Pradesh,NER,2017,3,2.0,9.67,21
+Arunachal Pradesh,NER,2017,4,1.95,13.37,28
+Arunachal Pradesh,NER,2017,5,1.97,15.85,30
+Arunachal Pradesh,NER,2017,6,1.92,18.61,29
+Arunachal Pradesh,NER,2017,7,1.96,19.55,30
+Arunachal Pradesh,NER,2017,8,2.09,19.66,31
+Arunachal Pradesh,NER,2017,9,2.15,18.73,30
+Arunachal Pradesh,NER,2017,10,2.34,15.84,31
+Arunachal Pradesh,NER,2017,11,2.3,11.01,28
+Arunachal Pradesh,NER,2017,12,2.16,9.05,31
+Arunachal Pradesh,NER,2018,1,2.16,6.11,31
+Arunachal Pradesh,NER,2018,2,2.22,7.64,28
+Arunachal Pradesh,NER,2018,3,2.05,10.1,31
+Arunachal Pradesh,NER,2018,4,2.08,13.09,30
+Arunachal Pradesh,NER,2018,5,2.1,15.65,31
+Arunachal Pradesh,NER,2018,6,2.08,19.0,30
+Arunachal Pradesh,NER,2018,7,2.22,19.61,31
+Arunachal Pradesh,NER,2018,8,2.28,19.73,26
+Arunachal Pradesh,NER,2018,9,2.31,18.36,30
+Arunachal Pradesh,NER,2018,10,2.15,13.44,31
+Arunachal Pradesh,NER,2018,11,2.14,9.07,29
+Arunachal Pradesh,NER,2018,12,2.14,5.92,31
+Arunachal Pradesh,NER,2019,1,2.2,4.61,31
+Arunachal Pradesh,NER,2019,2,2.17,7.12,26
+Arunachal Pradesh,NER,2019,3,2.16,9.42,31
+Arunachal Pradesh,NER,2019,4,2.12,13.1,30
+Arunachal Pradesh,NER,2019,5,2.1,15.14,31
+Arunachal Pradesh,NER,2019,6,2.21,18.94,29
+Arunachal Pradesh,NER,2019,7,2.25,18.8,31
+Arunachal Pradesh,NER,2019,8,2.26,20.31,31
+Arunachal Pradesh,NER,2019,9,2.15,17.9,30
+Arunachal Pradesh,NER,2019,10,2.12,14.83,30
+Arunachal Pradesh,NER,2019,11,2.08,12.17,30
+Arunachal Pradesh,NER,2019,12,2.15,5.32,31
+Arunachal Pradesh,NER,2020,1,2.22,4.24,31
+Arunachal Pradesh,NER,2020,2,2.21,6.49,29
+Arunachal Pradesh,NER,2020,3,2.08,10.02,31
+Arunachal Pradesh,NER,2020,4,1.5,11.56,29
+Arunachal Pradesh,NER,2020,5,1.76,14.96,30
+Arunachal Pradesh,NER,2020,6,2.0,17.76,28
+Arunachal Pradesh,NER,2020,7,1.88,18.75,30
+Arunachal Pradesh,NER,2020,8,1.85,19.52,18
+Arunachal Pradesh,NER,2020,9,2.17,18.48,14
+Arunachal Pradesh,NER,2020,10,2.12,16.92,22
+Arunachal Pradesh,NER,2020,11,2.04,10.42,26
+Arunachal Pradesh,NER,2020,12,2.19,6.47,28
+Arunachal Pradesh,NER,2021,1,2.29,6.15,31
+Arunachal Pradesh,NER,2021,2,2.29,7.82,27
+Arunachal Pradesh,NER,2021,3,2.23,10.52,30
+Arunachal Pradesh,NER,2021,4,2.11,13.0,27
+Arunachal Pradesh,NER,2021,5,2.09,15.3,30
+Arunachal Pradesh,NER,2021,6,2.19,18.73,27
+Arunachal Pradesh,NER,2021,7,2.29,19.45,30
+Arunachal Pradesh,NER,2021,8,2.31,19.12,31
+Arunachal Pradesh,NER,2021,9,2.35,18.61,28
+Arunachal Pradesh,NER,2021,10,2.27,16.48,30
+Arunachal Pradesh,NER,2021,11,2.27,9.93,30
+Arunachal Pradesh,NER,2021,12,2.29,7.01,31
+Arunachal Pradesh,NER,2022,1,2.41,4.04,31
+Arunachal Pradesh,NER,2022,2,2.5,4.38,28
+Arunachal Pradesh,NER,2022,3,2.33,11.42,31
+Arunachal Pradesh,NER,2022,4,2.22,12.88,29
+Arunachal Pradesh,NER,2022,5,2.34,16.1,31
+Arunachal Pradesh,NER,2022,6,2.44,17.91,29
+Arunachal Pradesh,NER,2022,7,2.55,19.93,31
+Arunachal Pradesh,NER,2022,8,2.51,20.18,31
+Arunachal Pradesh,NER,2022,9,2.24,18.08,30
+Arunachal Pradesh,NER,2022,10,2.18,14.97,31
+Arunachal Pradesh,NER,2022,11,2.17,10.64,29
+Arunachal Pradesh,NER,2022,12,2.34,7.63,30
+Arunachal Pradesh,NER,2023,1,2.55,5.65,31
+Arunachal Pradesh,NER,2023,2,2.48,7.77,28
+Arunachal Pradesh,NER,2023,3,2.51,9.93,30
+Arunachal Pradesh,NER,2023,4,2.45,12.85,30
+Arunachal Pradesh,NER,2023,5,2.5,14.87,31
+Arunachal Pradesh,NER,2023,6,2.72,18.27,30
+Arunachal Pradesh,NER,2023,7,2.68,19.21,31
+Arunachal Pradesh,NER,2023,8,2.9,19.47,31
+Arunachal Pradesh,NER,2023,9,3.01,19.43,30
+Arunachal Pradesh,NER,2023,10,2.7,15.04,31
+Arunachal Pradesh,NER,2023,11,2.65,10.78,30
+Arunachal Pradesh,NER,2023,12,2.82,7.42,31
+Arunachal Pradesh,NER,2024,1,2.87,4.92,31
+Arunachal Pradesh,NER,2024,2,3.07,5.74,29
+Arunachal Pradesh,NER,2024,3,2.87,10.14,31
+Arunachal Pradesh,NER,2024,4,2.51,13.14,28
+Assam,NER,2013,1,18.63,15.75,7
+Assam,NER,2013,3,16.0,23.72,1
+Assam,NER,2013,4,16.01,24.61,30
+Assam,NER,2013,5,17.67,25.84,30
+Assam,NER,2013,6,21.48,28.9,27
+Assam,NER,2013,7,22.36,28.2,30
+Assam,NER,2013,8,22.23,28.13,28
+Assam,NER,2013,9,22.37,27.73,27
+Assam,NER,2013,10,20.83,25.05,30
+Assam,NER,2013,11,18.68,20.41,30
+Assam,NER,2013,12,17.85,17.07,31
+Assam,NER,2014,1,18.6,16.98,24
+Assam,NER,2014,2,18.1,18.2,28
+Assam,NER,2014,3,18.14,22.71,31
+Assam,NER,2014,4,19.7,26.44,28
+Assam,NER,2014,5,19.08,26.28,31
+Assam,NER,2014,6,22.87,28.22,30
+Assam,NER,2014,7,24.54,28.66,31
+Assam,NER,2014,8,23.51,27.7,31
+Assam,NER,2014,9,22.93,27.12,30
+Assam,NER,2014,10,23.51,25.76,31
+Assam,NER,2014,11,20.91,22.09,30
+Assam,NER,2014,12,21.03,18.13,30
+Assam,NER,2015,1,20.75,17.52,31
+Assam,NER,2015,2,19.8,19.37,28
+Assam,NER,2015,3,21.12,23.66,30
+Assam,NER,2015,4,19.95,23.91,28
+Assam,NER,2015,5,21.7,26.11,30
+Assam,NER,2015,6,23.03,27.26,27
+Assam,NER,2015,7,25.74,28.51,28
+Assam,NER,2015,8,25.19,27.68,31
+Assam,NER,2015,9,25.67,27.85,27
+Assam,NER,2015,10,24.47,25.89,30
+Assam,NER,2015,11,21.99,21.49,30
+Assam,NER,2015,12,20.23,17.01,31
+Assam,NER,2016,1,21.58,15.95,31
+Assam,NER,2016,2,21.29,19.76,28
+Assam,NER,2016,3,21.49,23.13,28
+Assam,NER,2016,4,19.22,24.51,29
+Assam,NER,2016,5,22.18,25.74,30
+Assam,NER,2016,6,27.33,28.28,27
+Assam,NER,2016,7,27.19,27.64,29
+Assam,NER,2016,8,30.37,29.39,31
+Assam,NER,2016,9,28.63,27.76,30
+Assam,NER,2016,10,26.44,26.44,30
+Assam,NER,2016,11,23.33,22.05,27
+Assam,NER,2016,12,21.67,19.06,30
+Assam,NER,2017,1,21.87,17.5,29
+Assam,NER,2017,2,21.43,19.88,17
+Assam,NER,2017,3,21.1,21.78,21
+Assam,NER,2017,4,20.48,24.27,28
+Assam,NER,2017,5,23.54,26.54,30
+Assam,NER,2017,6,27.45,27.99,29
+Assam,NER,2017,7,28.79,28.6,30
+Assam,NER,2017,8,29.77,28.45,31
+Assam,NER,2017,9,28.99,28.05,30
+Assam,NER,2017,10,27.32,26.09,31
+Assam,NER,2017,11,23.25,22.32,28
+Assam,NER,2017,12,22.71,19.12,31
+Assam,NER,2018,1,22.8,16.68,31
+Assam,NER,2018,2,23.01,19.51,28
+Assam,NER,2018,3,21.24,22.62,31
+Assam,NER,2018,4,22.45,24.68,30
+Assam,NER,2018,5,23.63,26.01,31
+Assam,NER,2018,6,29.92,28.46,30
+Assam,NER,2018,7,31.96,28.78,31
+Assam,NER,2018,8,32.6,28.7,26
+Assam,NER,2018,9,31.3,27.95,30
+Assam,NER,2018,10,25.89,24.69,31
+Assam,NER,2018,11,23.88,20.8,29
+Assam,NER,2018,12,23.0,17.75,31
+Assam,NER,2019,1,23.05,17.0,31
+Assam,NER,2019,2,22.85,19.02,26
+Assam,NER,2019,3,23.06,22.2,31
+Assam,NER,2019,4,23.36,24.88,30
+Assam,NER,2019,5,24.14,25.76,31
+Assam,NER,2019,6,31.2,28.57,29
+Assam,NER,2019,7,30.02,27.95,31
+Assam,NER,2019,8,34.73,29.65,31
+Assam,NER,2019,9,32.14,27.61,30
+Assam,NER,2019,10,26.89,25.38,30
+Assam,NER,2019,11,23.7,22.73,30
+Assam,NER,2019,12,21.46,17.22,31
+Assam,NER,2020,1,22.4,16.22,31
+Assam,NER,2020,2,22.3,18.7,29
+Assam,NER,2020,3,21.84,22.89,31
+Assam,NER,2020,4,18.06,24.43,29
+Assam,NER,2020,5,23.11,25.74,30
+Assam,NER,2020,6,29.02,27.53,28
+Assam,NER,2020,7,30.34,27.82,30
+Assam,NER,2020,8,33.63,28.79,18
+Assam,NER,2020,9,32.46,27.66,14
+Assam,NER,2020,10,31.46,27.09,22
+Assam,NER,2020,11,24.67,21.74,26
+Assam,NER,2020,12,23.71,17.56,28
+Assam,NER,2021,1,23.77,16.82,31
+Assam,NER,2021,2,24.17,19.76,27
+Assam,NER,2021,3,25.73,23.49,30
+Assam,NER,2021,4,27.84,25.8,27
+Assam,NER,2021,5,27.53,26.23,30
+Assam,NER,2021,6,33.26,27.91,27
+Assam,NER,2021,7,36.13,28.54,30
+Assam,NER,2021,8,36.38,28.09,31
+Assam,NER,2021,9,37.71,28.59,28
+Assam,NER,2021,10,34.6,26.98,30
+Assam,NER,2021,11,25.5,21.35,30
+Assam,NER,2021,12,24.4,18.37,31
+Assam,NER,2022,1,24.45,16.67,31
+Assam,NER,2022,2,24.67,17.14,28
+Assam,NER,2022,3,28.06,24.59,31
+Assam,NER,2022,4,25.96,24.27,29
+Assam,NER,2022,5,30.64,26.25,31
+Assam,NER,2022,6,33.04,27.0,29
+Assam,NER,2022,7,40.42,29.15,31
+Assam,NER,2022,8,42.78,29.26,31
+Assam,NER,2022,9,40.45,27.98,30
+Assam,NER,2022,10,32.59,25.46,31
+Assam,NER,2022,11,27.37,21.69,29
+Assam,NER,2022,12,25.51,18.54,30
+Assam,NER,2023,1,26.1,17.01,31
+Assam,NER,2023,2,26.13,20.08,28
+Assam,NER,2023,3,26.8,22.78,30
+Assam,NER,2023,4,30.19,25.53,30
+Assam,NER,2023,5,32.95,26.71,31
+Assam,NER,2023,6,37.81,27.89,30
+Assam,NER,2023,7,42.53,28.75,31
+Assam,NER,2023,8,42.36,28.42,31
+Assam,NER,2023,9,44.41,29.22,30
+Assam,NER,2023,10,35.21,25.9,31
+Assam,NER,2023,11,28.13,22.25,30
+Assam,NER,2023,12,26.24,19.07,31
+Assam,NER,2024,1,26.46,16.45,31
+Assam,NER,2024,2,27.68,18.53,29
+Assam,NER,2024,3,28.37,22.7,31
+Assam,NER,2024,4,33.16,26.05,28
+Bihar,ER,2013,1,39.81,13.87,7
+Bihar,ER,2013,3,32.7,27.87,1
+Bihar,ER,2013,4,32.19,29.65,30
+Bihar,ER,2013,5,37.29,31.28,30
+Bihar,ER,2013,6,39.98,30.23,27
+Bihar,ER,2013,7,41.64,30.02,30
+Bihar,ER,2013,8,40.9,29.25,28
+Bihar,ER,2013,9,40.82,29.19,27
+Bihar,ER,2013,10,39.36,26.12,30
+Bihar,ER,2013,11,39.76,20.89,30
+Bihar,ER,2013,12,37.98,17.34,31
+Bihar,ER,2014,1,41.18,15.62,24
+Bihar,ER,2014,2,40.58,17.91,28
+Bihar,ER,2014,3,40.83,24.48,31
+Bihar,ER,2014,4,45.91,30.45,28
+Bihar,ER,2014,5,43.94,32.12,31
+Bihar,ER,2014,6,45.04,31.85,30
+Bihar,ER,2014,7,46.1,29.83,31
+Bihar,ER,2014,8,45.49,29.38,31
+Bihar,ER,2014,9,48.33,28.68,30
+Bihar,ER,2014,10,51.29,26.33,31
+Bihar,ER,2014,11,49.29,21.25,30
+Bihar,ER,2014,12,50.49,15.98,30
+Bihar,ER,2015,1,52.97,15.84,31
+Bihar,ER,2015,2,54.01,20.49,28
+Bihar,ER,2015,3,52.18,24.73,30
+Bihar,ER,2015,4,50.13,28.16,28
+Bihar,ER,2015,5,57.46,32.03,30
+Bihar,ER,2015,6,57.85,31.69,27
+Bihar,ER,2015,7,59.14,29.53,28
+Bihar,ER,2015,8,62.54,29.42,31
+Bihar,ER,2015,9,65.55,29.68,27
+Bihar,ER,2015,10,66.84,27.25,30
+Bihar,ER,2015,11,62.84,23.07,30
+Bihar,ER,2015,12,64.42,17.6,31
+Bihar,ER,2016,1,64.39,16.46,31
+Bihar,ER,2016,2,62.89,21.15,28
+Bihar,ER,2016,3,62.31,26.6,28
+Bihar,ER,2016,4,65.91,32.53,29
+Bihar,ER,2016,5,64.24,30.56,30
+Bihar,ER,2016,6,68.8,31.52,27
+Bihar,ER,2016,7,68.7,29.24,29
+Bihar,ER,2016,8,70.0,29.99,31
+Bihar,ER,2016,9,68.29,28.43,30
+Bihar,ER,2016,10,68.86,27.16,30
+Bihar,ER,2016,11,62.7,21.96,27
+Bihar,ER,2016,12,59.15,17.44,30
+Bihar,ER,2017,1,61.7,16.54,29
+Bihar,ER,2017,2,60.96,20.01,17
+Bihar,ER,2017,3,62.44,24.35,21
+Bihar,ER,2017,4,68.2,29.76,28
+Bihar,ER,2017,5,70.9,31.17,30
+Bihar,ER,2017,6,78.48,31.36,29
+Bihar,ER,2017,7,73.25,29.21,30
+Bihar,ER,2017,8,77.51,29.52,31
+Bihar,ER,2017,9,84.12,29.84,30
+Bihar,ER,2017,10,79.9,27.48,31
+Bihar,ER,2017,11,62.78,22.26,28
+Bihar,ER,2017,12,63.51,18.14,31
+Bihar,ER,2018,1,72.32,14.11,31
+Bihar,ER,2018,2,68.02,20.34,28
+Bihar,ER,2018,3,75.08,26.09,31
+Bihar,ER,2018,4,79.99,29.19,30
+Bihar,ER,2018,5,85.43,30.74,31
+Bihar,ER,2018,6,89.27,32.02,30
+Bihar,ER,2018,7,88.56,30.22,31
+Bihar,ER,2018,8,89.43,29.36,26
+Bihar,ER,2018,9,92.81,29.31,30
+Bihar,ER,2018,10,85.41,26.24,31
+Bihar,ER,2018,11,73.1,21.96,29
+Bihar,ER,2018,12,70.95,16.76,31
+Bihar,ER,2019,1,74.26,16.32,31
+Bihar,ER,2019,2,69.51,19.38,26
+Bihar,ER,2019,3,75.03,24.46,31
+Bihar,ER,2019,4,86.59,29.71,30
+Bihar,ER,2019,5,99.55,32.64,31
+Bihar,ER,2019,6,101.6,33.11,29
+Bihar,ER,2019,7,92.26,29.98,31
+Bihar,ER,2019,8,106.37,30.28,31
+Bihar,ER,2019,9,97.61,28.43,30
+Bihar,ER,2019,10,85.01,26.22,30
+Bihar,ER,2019,11,71.81,22.85,30
+Bihar,ER,2019,12,69.55,15.83,31
+Bihar,ER,2020,1,78.78,15.6,31
+Bihar,ER,2020,2,73.86,18.53,29
+Bihar,ER,2020,3,69.43,23.88,31
+Bihar,ER,2020,4,77.46,28.33,29
+Bihar,ER,2020,5,88.73,29.55,30
+Bihar,ER,2020,6,99.66,29.46,28
+Bihar,ER,2020,7,105.46,29.18,30
+Bihar,ER,2020,8,110.23,30.02,18
+Bihar,ER,2020,9,109.55,28.94,14
+Bihar,ER,2020,10,105.67,27.77,22
+Bihar,ER,2020,11,74.0,21.31,26
+Bihar,ER,2020,12,79.65,16.73,28
+Bihar,ER,2021,1,87.8,15.58,31
+Bihar,ER,2021,2,85.61,20.03,27
+Bihar,ER,2021,3,93.46,26.01,30
+Bihar,ER,2021,4,108.63,29.69,27
+Bihar,ER,2021,5,94.75,28.61,30
+Bihar,ER,2021,6,107.81,29.32,27
+Bihar,ER,2021,7,121.08,29.72,30
+Bihar,ER,2021,8,117.49,29.17,31
+Bihar,ER,2021,9,115.23,29.2,28
+Bihar,ER,2021,10,94.65,27.03,30
+Bihar,ER,2021,11,74.41,21.42,30
+Bihar,ER,2021,12,76.23,17.76,31
+Bihar,ER,2022,1,85.53,15.45,31
+Bihar,ER,2022,2,82.22,17.98,28
+Bihar,ER,2022,3,99.3,26.33,31
+Bihar,ER,2022,4,116.04,30.87,29
+Bihar,ER,2022,5,111.85,30.63,31
+Bihar,ER,2022,6,120.8,31.27,29
+Bihar,ER,2022,7,128.82,31.05,31
+Bihar,ER,2022,8,126.84,30.09,31
+Bihar,ER,2022,9,121.9,28.91,30
+Bihar,ER,2022,10,105.76,26.57,31
+Bihar,ER,2022,11,81.84,21.93,29
+Bihar,ER,2022,12,82.76,17.75,30
+Bihar,ER,2023,1,94.31,15.5,31
+Bihar,ER,2023,2,88.46,20.56,28
+Bihar,ER,2023,3,91.84,25.05,30
+Bihar,ER,2023,4,112.41,29.88,30
+Bihar,ER,2023,5,119.68,31.11,31
+Bihar,ER,2023,6,134.92,33.39,30
+Bihar,ER,2023,7,139.3,30.84,31
+Bihar,ER,2023,8,136.74,29.75,31
+Bihar,ER,2023,9,136.46,29.76,30
+Bihar,ER,2023,10,113.25,26.92,31
+Bihar,ER,2023,11,87.67,23.16,30
+Bihar,ER,2023,12,83.51,18.57,31
+Bihar,ER,2024,1,96.75,14.59,31
+Bihar,ER,2024,2,88.48,19.04,29
+Bihar,ER,2024,3,92.89,24.23,31
+Bihar,ER,2024,4,127.21,31.49,28
+Chandigarh,NR,2013,1,3.79,7.54,7
+Chandigarh,NR,2013,3,3.1,23.32,1
+Chandigarh,NR,2013,4,3.99,26.7,30
+Chandigarh,NR,2013,5,5.27,32.29,30
+Chandigarh,NR,2013,6,5.36,30.64,27
+Chandigarh,NR,2013,7,5.74,29.39,30
+Chandigarh,NR,2013,8,5.3,28.16,28
+Chandigarh,NR,2013,9,4.9,27.45,27
+Chandigarh,NR,2013,10,3.95,25.02,30
+Chandigarh,NR,2013,11,3.21,17.85,30
+Chandigarh,NR,2013,12,3.42,13.5,31
+Chandigarh,NR,2014,1,3.72,12.59,24
+Chandigarh,NR,2014,2,3.5,14.01,28
+Chandigarh,NR,2014,3,3.24,19.14,31
+Chandigarh,NR,2014,4,3.62,25.72,28
+Chandigarh,NR,2014,5,4.9,30.56,31
+Chandigarh,NR,2014,6,6.06,33.77,30
+Chandigarh,NR,2014,7,5.87,29.71,31
+Chandigarh,NR,2014,8,5.9,29.73,31
+Chandigarh,NR,2014,9,5.0,28.25,30
+Chandigarh,NR,2014,10,3.84,24.78,31
+Chandigarh,NR,2014,11,3.32,19.12,30
+Chandigarh,NR,2014,12,3.72,12.86,29
+Chandigarh,NR,2015,1,4.02,11.75,31
+Chandigarh,NR,2015,2,3.48,17.05,28
+Chandigarh,NR,2015,3,3.32,19.74,30
+Chandigarh,NR,2015,4,3.97,26.45,28
+Chandigarh,NR,2015,5,5.34,32.37,30
+Chandigarh,NR,2015,6,5.7,31.82,27
+Chandigarh,NR,2015,7,5.83,29.41,28
+Chandigarh,NR,2015,8,5.57,28.54,31
+Chandigarh,NR,2015,9,5.25,27.93,27
+Chandigarh,NR,2015,10,3.98,25.29,30
+Chandigarh,NR,2015,11,3.29,19.95,30
+Chandigarh,NR,2015,12,3.49,14.02,31
+Chandigarh,NR,2016,1,3.76,12.65,31
+Chandigarh,NR,2016,2,3.51,17.17,28
+Chandigarh,NR,2016,3,3.28,22.62,28
+Chandigarh,NR,2016,4,4.39,29.67,29
+Chandigarh,NR,2016,5,5.56,32.18,30
+Chandigarh,NR,2016,6,6.2,32.68,27
+Chandigarh,NR,2016,7,5.98,29.47,29
+Chandigarh,NR,2016,8,5.55,28.81,31
+Chandigarh,NR,2016,9,5.45,29.09,30
+Chandigarh,NR,2016,10,3.98,26.33,30
+Chandigarh,NR,2016,11,3.19,19.8,27
+Chandigarh,NR,2016,12,3.35,15.28,30
+Chandigarh,NR,2017,1,3.68,13.39,29
+Chandigarh,NR,2017,2,3.34,16.99,17
+Chandigarh,NR,2017,3,3.35,21.55,21
+Chandigarh,NR,2017,4,4.45,29.81,28
+Chandigarh,NR,2017,5,5.63,32.33,30
+Chandigarh,NR,2017,6,5.66,31.41,29
+Chandigarh,NR,2017,7,6.08,30.46,30
+Chandigarh,NR,2017,8,5.49,29.01,31
+Chandigarh,NR,2017,9,4.98,27.71,30
+Chandigarh,NR,2017,10,3.88,25.47,31
+Chandigarh,NR,2017,11,3.12,18.06,28
+Chandigarh,NR,2017,12,3.32,14.56,31
+Chandigarh,NR,2018,1,3.58,12.85,31
+Chandigarh,NR,2018,2,3.23,17.46,28
+Chandigarh,NR,2018,3,3.1,23.17,31
+Chandigarh,NR,2018,4,3.99,28.12,30
+Chandigarh,NR,2018,5,5.26,31.93,31
+Chandigarh,NR,2018,6,5.89,31.91,30
+Chandigarh,NR,2018,7,5.71,29.69,31
+Chandigarh,NR,2018,8,5.55,28.73,26
+Chandigarh,NR,2018,9,4.7,26.97,30
+Chandigarh,NR,2018,10,3.46,23.09,31
+Chandigarh,NR,2018,11,3.1,18.6,29
+Chandigarh,NR,2018,12,3.4,12.85,31
+Chandigarh,NR,2019,1,3.73,12.45,31
+Chandigarh,NR,2019,2,3.46,14.93,27
+Chandigarh,NR,2019,3,3.1,19.42,31
+Chandigarh,NR,2019,4,3.92,28.08,30
+Chandigarh,NR,2019,5,4.95,31.2,31
+Chandigarh,NR,2019,6,6.03,33.39,29
+Chandigarh,NR,2019,7,5.66,29.38,31
+Chandigarh,NR,2019,8,5.55,29.11,31
+Chandigarh,NR,2019,9,5.57,28.26,30
+Chandigarh,NR,2019,10,3.7,24.11,30
+Chandigarh,NR,2019,11,3.36,19.17,30
+Chandigarh,NR,2019,12,4.04,11.91,31
+Chandigarh,NR,2020,1,4.38,12.1,31
+Chandigarh,NR,2020,2,3.68,15.84,29
+Chandigarh,NR,2020,3,2.93,19.81,31
+Chandigarh,NR,2020,4,2.52,26.32,29
+Chandigarh,NR,2020,5,3.8,30.28,30
+Chandigarh,NR,2020,6,5.38,31.78,28
+Chandigarh,NR,2020,7,5.83,29.94,30
+Chandigarh,NR,2020,8,5.56,29.15,18
+Chandigarh,NR,2020,9,5.52,29.34,14
+Chandigarh,NR,2020,10,3.65,25.8,22
+Chandigarh,NR,2020,11,3.03,17.92,26
+Chandigarh,NR,2020,12,3.66,12.9,28
+Chandigarh,NR,2021,1,4.01,12.7,31
+Chandigarh,NR,2021,2,3.37,17.38,27
+Chandigarh,NR,2021,3,3.2,23.61,30
+Chandigarh,NR,2021,4,3.48,26.96,27
+Chandigarh,NR,2021,5,4.08,29.09,30
+Chandigarh,NR,2021,6,5.7,31.01,27
+Chandigarh,NR,2021,7,6.46,30.1,30
+Chandigarh,NR,2021,8,6.02,28.92,31
+Chandigarh,NR,2021,9,5.58,28.04,28
+Chandigarh,NR,2021,10,4.09,24.85,30
+Chandigarh,NR,2021,11,2.99,18.57,30
+Chandigarh,NR,2021,12,3.55,13.42,31
+Chandigarh,NR,2022,1,4.05,12.24,31
+Chandigarh,NR,2022,2,3.47,14.9,28
+Chandigarh,NR,2022,3,3.48,23.87,31
+Chandigarh,NR,2022,4,4.9,30.42,29
+Chandigarh,NR,2022,5,5.92,31.53,31
+Chandigarh,NR,2022,6,6.57,32.7,29
+Chandigarh,NR,2022,7,6.56,29.83,31
+Chandigarh,NR,2022,8,6.6,29.8,31
+Chandigarh,NR,2022,9,5.87,28.6,30
+Chandigarh,NR,2022,10,3.91,24.59,31
+Chandigarh,NR,2022,11,3.31,19.42,29
+Chandigarh,NR,2022,12,3.78,13.82,30
+Chandigarh,NR,2023,1,4.6,12.27,31
+Chandigarh,NR,2023,2,3.48,18.09,28
+Chandigarh,NR,2023,3,3.29,21.31,30
+Chandigarh,NR,2023,4,4.04,26.35,30
+Chandigarh,NR,2023,5,4.96,28.78,31
+Chandigarh,NR,2023,6,6.09,30.62,30
+Chandigarh,NR,2023,7,6.32,29.07,31
+Chandigarh,NR,2023,8,6.88,29.1,31
+Chandigarh,NR,2023,9,6.5,28.42,30
+Chandigarh,NR,2023,10,4.09,23.85,31
+Chandigarh,NR,2023,11,3.4,18.95,30
+Chandigarh,NR,2023,12,3.8,13.79,31
+Chandigarh,NR,2024,1,5.11,10.28,31
+Chandigarh,NR,2024,2,4.01,15.09,29
+Chandigarh,NR,2024,3,3.5,20.43,31
+Chandigarh,NR,2024,4,4.34,26.36,28
+Chhattisgarh,WR,2013,1,63.29,19.98,7
+Chhattisgarh,WR,2013,3,72.7,29.78,1
+Chhattisgarh,WR,2013,4,70.01,30.1,30
+Chhattisgarh,WR,2013,5,69.22,34.31,30
+Chhattisgarh,WR,2013,6,58.06,27.7,27
+Chhattisgarh,WR,2013,7,62.86,26.04,30
+Chhattisgarh,WR,2013,8,59.24,25.73,28
+Chhattisgarh,WR,2013,9,65.79,26.56,27
+Chhattisgarh,WR,2013,10,57.8,24.47,30
+Chhattisgarh,WR,2013,11,55.34,21.22,30
+Chhattisgarh,WR,2013,12,60.48,19.01,31
+Chhattisgarh,WR,2014,1,65.55,20.04,24
+Chhattisgarh,WR,2014,2,66.43,21.66,28
+Chhattisgarh,WR,2014,3,70.26,25.9,31
+Chhattisgarh,WR,2014,4,77.81,30.65,28
+Chhattisgarh,WR,2014,5,69.37,31.77,31
+Chhattisgarh,WR,2014,6,65.2,31.16,30
+Chhattisgarh,WR,2014,7,65.65,26.8,31
+Chhattisgarh,WR,2014,8,67.86,26.64,31
+Chhattisgarh,WR,2014,9,69.31,26.17,30
+Chhattisgarh,WR,2014,10,68.34,25.09,31
+Chhattisgarh,WR,2014,11,62.8,21.84,30
+Chhattisgarh,WR,2014,12,65.44,18.46,30
+Chhattisgarh,WR,2015,1,67.13,18.48,31
+Chhattisgarh,WR,2015,2,75.5,22.99,28
+Chhattisgarh,WR,2015,3,79.89,26.12,30
+Chhattisgarh,WR,2015,4,80.21,29.01,29
+Chhattisgarh,WR,2015,5,77.77,33.19,30
+Chhattisgarh,WR,2015,6,69.56,29.0,27
+Chhattisgarh,WR,2015,7,74.76,27.18,28
+Chhattisgarh,WR,2015,8,77.05,26.78,31
+Chhattisgarh,WR,2015,9,79.7,27.2,27
+Chhattisgarh,WR,2015,10,84.74,26.36,30
+Chhattisgarh,WR,2015,11,66.96,23.43,30
+Chhattisgarh,WR,2015,12,68.94,20.57,31
+Chhattisgarh,WR,2016,1,73.0,19.81,31
+Chhattisgarh,WR,2016,2,80.18,24.55,28
+Chhattisgarh,WR,2016,3,79.73,27.78,28
+Chhattisgarh,WR,2016,4,87.24,33.26,29
+Chhattisgarh,WR,2016,5,74.5,32.74,30
+Chhattisgarh,WR,2016,6,72.89,30.81,27
+Chhattisgarh,WR,2016,7,74.9,26.65,29
+Chhattisgarh,WR,2016,8,74.76,26.61,31
+Chhattisgarh,WR,2016,9,77.55,26.47,30
+Chhattisgarh,WR,2016,10,71.04,25.12,30
+Chhattisgarh,WR,2016,11,64.38,21.42,27
+Chhattisgarh,WR,2016,12,67.17,19.2,30
+Chhattisgarh,WR,2017,1,72.04,19.65,29
+Chhattisgarh,WR,2017,2,78.41,23.41,17
+Chhattisgarh,WR,2017,3,83.48,27.31,21
+Chhattisgarh,WR,2017,4,92.05,33.0,28
+Chhattisgarh,WR,2017,5,81.57,33.89,30
+Chhattisgarh,WR,2017,6,74.89,30.0,29
+Chhattisgarh,WR,2017,7,78.89,26.74,30
+Chhattisgarh,WR,2017,8,86.41,26.94,31
+Chhattisgarh,WR,2017,9,86.87,27.36,30
+Chhattisgarh,WR,2017,10,79.95,26.19,31
+Chhattisgarh,WR,2017,11,68.68,22.48,28
+Chhattisgarh,WR,2017,12,71.31,19.68,31
+Chhattisgarh,WR,2018,1,73.08,19.0,31
+Chhattisgarh,WR,2018,2,73.7,23.22,28
+Chhattisgarh,WR,2018,3,83.19,27.87,31
+Chhattisgarh,WR,2018,4,84.92,30.48,30
+Chhattisgarh,WR,2018,5,83.66,32.59,31
+Chhattisgarh,WR,2018,6,78.81,29.64,30
+Chhattisgarh,WR,2018,7,80.9,26.5,31
+Chhattisgarh,WR,2018,8,84.9,26.05,26
+Chhattisgarh,WR,2018,9,90.08,26.62,30
+Chhattisgarh,WR,2018,10,97.94,25.81,31
+Chhattisgarh,WR,2018,11,78.59,23.03,29
+Chhattisgarh,WR,2018,12,73.82,18.46,31
+Chhattisgarh,WR,2019,1,78.68,18.41,31
+Chhattisgarh,WR,2019,2,84.68,22.47,26
+Chhattisgarh,WR,2019,3,92.44,26.9,31
+Chhattisgarh,WR,2019,4,101.29,31.49,30
+Chhattisgarh,WR,2019,5,93.22,34.07,31
+Chhattisgarh,WR,2019,6,87.69,31.76,29
+Chhattisgarh,WR,2019,7,92.94,27.14,31
+Chhattisgarh,WR,2019,8,90.79,26.37,31
+Chhattisgarh,WR,2019,9,88.8,26.32,30
+Chhattisgarh,WR,2019,10,80.7,25.31,30
+Chhattisgarh,WR,2019,11,72.31,22.71,30
+Chhattisgarh,WR,2019,12,75.32,19.5,31
+Chhattisgarh,WR,2020,1,76.88,19.11,31
+Chhattisgarh,WR,2020,2,80.07,20.75,29
+Chhattisgarh,WR,2020,3,80.22,25.23,31
+Chhattisgarh,WR,2020,4,74.54,29.48,29
+Chhattisgarh,WR,2020,5,76.53,31.82,30
+Chhattisgarh,WR,2020,6,77.52,28.17,28
+Chhattisgarh,WR,2020,7,94.8,27.47,30
+Chhattisgarh,WR,2020,8,85.37,26.46,18
+Chhattisgarh,WR,2020,9,92.78,27.72,14
+Chhattisgarh,WR,2020,10,82.37,26.12,22
+Chhattisgarh,WR,2020,11,72.22,22.7,26
+Chhattisgarh,WR,2020,12,82.05,19.77,28
+Chhattisgarh,WR,2021,1,90.03,21.01,31
+Chhattisgarh,WR,2021,2,95.36,22.35,27
+Chhattisgarh,WR,2021,3,105.8,27.83,30
+Chhattisgarh,WR,2021,4,107.84,30.83,27
+Chhattisgarh,WR,2021,5,84.62,30.38,30
+Chhattisgarh,WR,2021,6,83.71,27.64,27
+Chhattisgarh,WR,2021,7,94.89,26.9,30
+Chhattisgarh,WR,2021,8,105.45,27.09,31
+Chhattisgarh,WR,2021,9,91.73,26.53,28
+Chhattisgarh,WR,2021,10,93.35,26.17,30
+Chhattisgarh,WR,2021,11,76.23,22.88,30
+Chhattisgarh,WR,2021,12,78.61,19.49,31
+Chhattisgarh,WR,2022,1,81.71,18.57,31
+Chhattisgarh,WR,2022,2,95.33,21.63,28
+Chhattisgarh,WR,2022,3,110.8,28.24,31
+Chhattisgarh,WR,2022,4,120.69,32.73,29
+Chhattisgarh,WR,2022,5,104.91,32.46,31
+Chhattisgarh,WR,2022,6,101.11,30.63,29
+Chhattisgarh,WR,2022,7,99.77,26.75,31
+Chhattisgarh,WR,2022,8,100.65,26.77,31
+Chhattisgarh,WR,2022,9,106.33,26.63,30
+Chhattisgarh,WR,2022,10,95.67,24.97,31
+Chhattisgarh,WR,2022,11,86.48,21.46,29
+Chhattisgarh,WR,2022,12,96.47,20.79,30
+Chhattisgarh,WR,2023,1,105.17,20.54,31
+Chhattisgarh,WR,2023,2,112.38,23.35,28
+Chhattisgarh,WR,2023,3,111.44,25.98,30
+Chhattisgarh,WR,2023,4,114.51,29.18,30
+Chhattisgarh,WR,2023,5,103.62,31.23,31
+Chhattisgarh,WR,2023,6,106.49,32.11,30
+Chhattisgarh,WR,2023,7,108.26,27.65,31
+Chhattisgarh,WR,2023,8,115.88,27.05,31
+Chhattisgarh,WR,2023,9,105.76,26.82,30
+Chhattisgarh,WR,2023,10,110.12,25.81,31
+Chhattisgarh,WR,2023,11,89.81,23.33,30
+Chhattisgarh,WR,2023,12,89.75,19.36,30
+Chhattisgarh,WR,2024,1,103.24,19.98,31
+Chhattisgarh,WR,2024,2,119.07,23.35,29
+Chhattisgarh,WR,2024,3,127.34,27.07,31
+Chhattisgarh,WR,2024,4,132.36,30.49,28
+Dadra and Nagar Haveli,WR,2013,1,14.64,19.55,7
+Dadra and Nagar Haveli,WR,2013,3,13.2,27.41,1
+Dadra and Nagar Haveli,WR,2013,4,13.97,28.23,30
+Dadra and Nagar Haveli,WR,2013,5,13.7,30.01,30
+Dadra and Nagar Haveli,WR,2013,6,13.76,27.51,27
+Dadra and Nagar Haveli,WR,2013,7,13.92,26.03,30
+Dadra and Nagar Haveli,WR,2013,8,14.94,26.1,28
+Dadra and Nagar Haveli,WR,2013,9,14.83,26.85,27
+Dadra and Nagar Haveli,WR,2013,10,14.78,27.63,30
+Dadra and Nagar Haveli,WR,2013,11,14.25,26.63,30
+Dadra and Nagar Haveli,WR,2013,12,14.32,22.85,31
+Dadra and Nagar Haveli,WR,2014,1,14.75,22.18,24
+Dadra and Nagar Haveli,WR,2014,2,14.39,23.14,28
+Dadra and Nagar Haveli,WR,2014,3,13.77,26.54,31
+Dadra and Nagar Haveli,WR,2014,4,14.81,28.63,28
+Dadra and Nagar Haveli,WR,2014,5,15.27,30.03,31
+Dadra and Nagar Haveli,WR,2014,6,14.17,30.09,30
+Dadra and Nagar Haveli,WR,2014,7,14.97,27.22,31
+Dadra and Nagar Haveli,WR,2014,8,14.8,26.8,31
+Dadra and Nagar Haveli,WR,2014,9,14.77,27.29,30
+Dadra and Nagar Haveli,WR,2014,10,13.59,28.82,31
+Dadra and Nagar Haveli,WR,2014,11,15.36,27.25,30
+Dadra and Nagar Haveli,WR,2014,12,15.2,23.4,30
+Dadra and Nagar Haveli,WR,2015,1,15.05,21.79,30
+Dadra and Nagar Haveli,WR,2015,2,15.35,24.05,28
+Dadra and Nagar Haveli,WR,2015,3,15.62,26.75,30
+Dadra and Nagar Haveli,WR,2015,4,16.37,28.59,29
+Dadra and Nagar Haveli,WR,2015,5,15.84,30.71,30
+Dadra and Nagar Haveli,WR,2015,6,15.67,28.52,27
+Dadra and Nagar Haveli,WR,2015,7,16.04,27.89,28
+Dadra and Nagar Haveli,WR,2015,8,15.71,27.39,31
+Dadra and Nagar Haveli,WR,2015,9,16.06,27.23,27
+Dadra and Nagar Haveli,WR,2015,10,15.86,28.9,30
+Dadra and Nagar Haveli,WR,2015,11,15.17,27.39,30
+Dadra and Nagar Haveli,WR,2015,12,15.46,23.47,31
+Dadra and Nagar Haveli,WR,2016,1,15.55,22.05,31
+Dadra and Nagar Haveli,WR,2016,2,16.28,23.44,28
+Dadra and Nagar Haveli,WR,2016,3,16.18,27.45,28
+Dadra and Nagar Haveli,WR,2016,4,16.51,28.68,29
+Dadra and Nagar Haveli,WR,2016,5,16.68,30.65,30
+Dadra and Nagar Haveli,WR,2016,6,16.94,29.93,27
+Dadra and Nagar Haveli,WR,2016,7,16.7,26.88,29
+Dadra and Nagar Haveli,WR,2016,8,16.45,26.88,31
+Dadra and Nagar Haveli,WR,2016,9,17.14,27.0,30
+Dadra and Nagar Haveli,WR,2016,10,16.99,26.97,30
+Dadra and Nagar Haveli,WR,2016,11,16.03,25.41,27
+Dadra and Nagar Haveli,WR,2016,12,15.42,23.93,30
+Dadra and Nagar Haveli,WR,2017,1,16.2,22.31,29
+Dadra and Nagar Haveli,WR,2017,2,16.74,24.18,17
+Dadra and Nagar Haveli,WR,2017,3,16.39,26.48,21
+Dadra and Nagar Haveli,WR,2017,4,16.84,28.68,28
+Dadra and Nagar Haveli,WR,2017,5,16.72,30.46,30
+Dadra and Nagar Haveli,WR,2017,6,16.71,28.86,29
+Dadra and Nagar Haveli,WR,2017,7,16.21,26.94,30
+Dadra and Nagar Haveli,WR,2017,8,16.64,27.2,31
+Dadra and Nagar Haveli,WR,2017,9,16.85,28.09,30
+Dadra and Nagar Haveli,WR,2017,10,16.52,27.87,31
+Dadra and Nagar Haveli,WR,2017,11,17.05,25.3,28
+Dadra and Nagar Haveli,WR,2017,12,17.2,23.03,31
+Dadra and Nagar Haveli,WR,2018,1,17.25,22.64,31
+Dadra and Nagar Haveli,WR,2018,2,17.57,24.88,28
+Dadra and Nagar Haveli,WR,2018,3,17.34,27.57,31
+Dadra and Nagar Haveli,WR,2018,4,17.55,28.83,30
+Dadra and Nagar Haveli,WR,2018,5,17.4,30.42,31
+Dadra and Nagar Haveli,WR,2018,6,17.68,29.41,30
+Dadra and Nagar Haveli,WR,2018,7,17.17,26.73,31
+Dadra and Nagar Haveli,WR,2018,8,17.71,26.72,26
+Dadra and Nagar Haveli,WR,2018,9,18.28,27.2,30
+Dadra and Nagar Haveli,WR,2018,10,16.95,28.98,31
+Dadra and Nagar Haveli,WR,2018,11,13.89,27.07,29
+Dadra and Nagar Haveli,WR,2018,12,17.04,22.8,31
+Dadra and Nagar Haveli,WR,2019,1,17.35,21.38,31
+Dadra and Nagar Haveli,WR,2019,2,18.12,23.02,26
+Dadra and Nagar Haveli,WR,2019,3,17.96,26.11,31
+Dadra and Nagar Haveli,WR,2019,4,18.41,29.21,30
+Dadra and Nagar Haveli,WR,2019,5,17.81,29.6,31
+Dadra and Nagar Haveli,WR,2019,6,17.62,29.47,29
+Dadra and Nagar Haveli,WR,2019,7,18.62,27.6,31
+Dadra and Nagar Haveli,WR,2019,8,18.24,27.09,31
+Dadra and Nagar Haveli,WR,2019,9,18.37,26.98,30
+Dadra and Nagar Haveli,WR,2019,10,17.15,28.07,30
+Dadra and Nagar Haveli,WR,2019,11,17.98,26.73,30
+Dadra and Nagar Haveli,WR,2019,12,18.64,24.65,31
+Dadra and Nagar Haveli,WR,2020,1,18.25,21.96,31
+Dadra and Nagar Haveli,WR,2020,2,18.37,24.99,29
+Dadra and Nagar Haveli,WR,2020,3,14.94,25.93,30
+Dadra and Nagar Haveli,WR,2020,4,2.8,29.99,29
+Dadra and Nagar Haveli,WR,2020,5,7.88,30.78,30
+Dadra and Nagar Haveli,WR,2020,6,11.47,28.63,28
+Dadra and Nagar Haveli,WR,2020,7,13.8,28.0,30
+Dadra and Nagar Haveli,WR,2020,8,14.83,26.54,18
+Dadra and Nagar Haveli,WR,2020,9,17.68,28.18,14
+Dadra and Nagar Haveli,WR,2020,10,17.88,28.39,22
+Dadra and Nagar Haveli,WR,2020,11,17.55,26.63,26
+Dadra and Nagar Haveli,WR,2020,12,18.33,23.51,28
+Dadra and Nagar Haveli,WR,2021,1,19.05,22.7,31
+Dadra and Nagar Haveli,WR,2021,2,19.65,24.84,27
+Dadra and Nagar Haveli,WR,2021,3,19.66,27.74,30
+Dadra and Nagar Haveli,WR,2021,4,18.41,29.18,27
+Dadra and Nagar Haveli,WR,2021,5,15.61,29.89,30
+Dadra and Nagar Haveli,WR,2021,6,18.08,28.04,27
+Dadra and Nagar Haveli,WR,2021,7,19.15,27.8,30
+Dadra and Nagar Haveli,WR,2021,8,19.33,26.99,31
+Dadra and Nagar Haveli,WR,2021,9,19.38,26.73,28
+Dadra and Nagar Haveli,WR,2021,10,19.45,27.62,30
+Dadra and Nagar Haveli,WR,2021,11,18.72,27.49,30
+Dadra and Nagar Haveli,WR,2021,12,19.1,22.8,31
+Dadra and Nagar Haveli,WR,2022,1,18.97,21.55,31
+Dadra and Nagar Haveli,WR,2022,2,19.71,23.19,28
+Dadra and Nagar Haveli,WR,2022,3,19.43,28.41,31
+Dadra and Nagar Haveli,WR,2022,4,20.01,29.47,29
+Dadra and Nagar Haveli,WR,2022,5,19.94,30.4,31
+Daman and Diu,WR,2013,1,5.59,19.55,7
+Daman and Diu,WR,2013,3,5.9,27.41,1
+Daman and Diu,WR,2013,4,6.12,28.23,30
+Daman and Diu,WR,2013,5,5.71,30.01,30
+Daman and Diu,WR,2013,6,5.9,27.51,27
+Daman and Diu,WR,2013,7,6.0,26.03,30
+Daman and Diu,WR,2013,8,5.96,26.1,28
+Daman and Diu,WR,2013,9,6.1,26.85,27
+Daman and Diu,WR,2013,10,5.95,27.63,30
+Daman and Diu,WR,2013,11,5.3,26.63,30
+Daman and Diu,WR,2013,12,5.72,22.85,31
+Daman and Diu,WR,2014,1,5.74,22.18,24
+Daman and Diu,WR,2014,2,5.78,23.14,28
+Daman and Diu,WR,2014,3,5.91,26.54,31
+Daman and Diu,WR,2014,4,6.01,28.63,28
+Daman and Diu,WR,2014,5,5.77,30.03,31
+Daman and Diu,WR,2014,6,6.03,30.09,30
+Daman and Diu,WR,2014,7,6.04,27.22,31
+Daman and Diu,WR,2014,8,5.84,26.8,31
+Daman and Diu,WR,2014,9,5.94,27.29,30
+Daman and Diu,WR,2014,10,5.41,28.82,31
+Daman and Diu,WR,2014,11,5.85,27.25,30
+Daman and Diu,WR,2014,12,5.72,23.4,30
+Daman and Diu,WR,2015,1,5.47,21.79,31
+Daman and Diu,WR,2015,2,6.09,24.05,28
+Daman and Diu,WR,2015,3,6.21,26.75,30
+Daman and Diu,WR,2015,4,6.27,28.59,29
+Daman and Diu,WR,2015,5,6.3,30.71,30
+Daman and Diu,WR,2015,6,6.37,28.52,27
+Daman and Diu,WR,2015,7,6.49,27.89,28
+Daman and Diu,WR,2015,8,6.38,27.39,31
+Daman and Diu,WR,2015,9,6.46,27.23,27
+Daman and Diu,WR,2015,10,6.52,28.9,30
+Daman and Diu,WR,2015,11,6.11,27.39,30
+Daman and Diu,WR,2015,12,6.02,23.47,31
+Daman and Diu,WR,2016,1,6.09,22.05,31
+Daman and Diu,WR,2016,2,6.53,23.44,28
+Daman and Diu,WR,2016,3,6.61,27.45,28
+Daman and Diu,WR,2016,4,6.67,28.68,29
+Daman and Diu,WR,2016,5,6.63,30.65,31
+Daman and Diu,WR,2016,6,6.87,29.93,27
+Daman and Diu,WR,2016,7,6.53,26.88,29
+Daman and Diu,WR,2016,8,6.62,26.88,31
+Daman and Diu,WR,2016,9,6.9,27.0,30
+Daman and Diu,WR,2016,10,6.74,26.97,30
+Daman and Diu,WR,2016,11,6.33,25.41,27
+Daman and Diu,WR,2016,12,6.11,23.93,30
+Daman and Diu,WR,2017,1,6.34,22.31,29
+Daman and Diu,WR,2017,2,6.64,24.18,17
+Daman and Diu,WR,2017,3,6.8,26.48,21
+Daman and Diu,WR,2017,4,6.92,28.68,28
+Daman and Diu,WR,2017,5,7.01,30.46,30
+Daman and Diu,WR,2017,6,6.85,28.86,29
+Daman and Diu,WR,2017,7,6.66,26.94,30
+Daman and Diu,WR,2017,8,6.85,27.2,31
+Daman and Diu,WR,2017,9,7.01,28.09,30
+Daman and Diu,WR,2017,10,6.87,27.87,31
+Daman and Diu,WR,2017,11,7.1,25.3,28
+Daman and Diu,WR,2017,12,6.87,23.03,31
+Daman and Diu,WR,2018,1,6.91,22.64,31
+Daman and Diu,WR,2018,2,7.11,24.88,28
+Daman and Diu,WR,2018,3,7.23,27.57,31
+Daman and Diu,WR,2018,4,7.16,28.83,30
+Daman and Diu,WR,2018,5,7.08,30.42,31
+Daman and Diu,WR,2018,6,7.47,29.41,30
+Daman and Diu,WR,2018,7,7.28,26.73,31
+Daman and Diu,WR,2018,8,7.18,26.72,26
+Daman and Diu,WR,2018,9,7.33,27.2,30
+Daman and Diu,WR,2018,10,6.95,28.98,31
+Daman and Diu,WR,2018,11,6.5,27.07,29
+Daman and Diu,WR,2018,12,6.79,22.8,31
+Daman and Diu,WR,2019,1,6.69,21.38,31
+Daman and Diu,WR,2019,2,7.09,23.02,26
+Daman and Diu,WR,2019,3,7.09,26.11,31
+Daman and Diu,WR,2019,4,7.28,29.21,30
+Daman and Diu,WR,2019,5,7.08,29.6,31
+Daman and Diu,WR,2019,6,7.34,29.47,29
+Daman and Diu,WR,2019,7,7.39,27.6,31
+Daman and Diu,WR,2019,8,7.27,27.09,31
+Daman and Diu,WR,2019,9,7.08,26.98,30
+Daman and Diu,WR,2019,10,6.77,28.07,30
+Daman and Diu,WR,2019,11,7.17,26.73,30
+Daman and Diu,WR,2019,12,7.05,24.65,31
+Daman and Diu,WR,2020,1,6.95,21.96,31
+Daman and Diu,WR,2020,2,7.15,24.99,29
+Daman and Diu,WR,2020,3,5.65,25.93,31
+Daman and Diu,WR,2020,4,2.25,29.99,29
+Daman and Diu,WR,2020,5,4.13,30.78,30
+Daman and Diu,WR,2020,6,4.93,28.63,28
+Daman and Diu,WR,2020,7,5.15,28.0,30
+Daman and Diu,WR,2020,8,5.56,26.54,18
+Daman and Diu,WR,2020,9,6.99,28.18,14
+Daman and Diu,WR,2020,10,7.19,28.39,22
+Daman and Diu,WR,2020,11,6.95,26.63,26
+Daman and Diu,WR,2020,12,7.16,23.51,28
+Daman and Diu,WR,2021,1,7.26,22.7,31
+Daman and Diu,WR,2021,2,7.46,24.84,27
+Daman and Diu,WR,2021,3,7.38,27.74,30
+Daman and Diu,WR,2021,4,7.1,29.18,27
+Daman and Diu,WR,2021,5,6.01,29.89,30
+Daman and Diu,WR,2021,6,6.9,28.04,27
+Daman and Diu,WR,2021,7,7.23,27.8,30
+Daman and Diu,WR,2021,8,7.1,26.99,31
+Daman and Diu,WR,2021,9,7.47,26.73,28
+Daman and Diu,WR,2021,10,7.5,27.62,30
+Daman and Diu,WR,2021,11,7.03,27.49,30
+Daman and Diu,WR,2021,12,7.05,22.8,31
+Daman and Diu,WR,2022,1,7.05,21.55,31
+Daman and Diu,WR,2022,2,7.59,23.19,28
+Daman and Diu,WR,2022,3,7.59,28.41,31
+Daman and Diu,WR,2022,4,7.71,29.47,29
+Daman and Diu,WR,2022,5,7.37,30.4,31
+Delhi,NR,2013,1,65.09,7.47,7
+Delhi,NR,2013,3,56.1,23.94,1
+Delhi,NR,2013,4,72.77,28.26,30
+Delhi,NR,2013,5,94.67,33.66,30
+Delhi,NR,2013,6,98.62,32.32,27
+Delhi,NR,2013,7,99.33,29.88,30
+Delhi,NR,2013,8,90.81,28.89,28
+Delhi,NR,2013,9,93.6,29.13,27
+Delhi,NR,2013,10,74.46,25.64,30
+Delhi,NR,2013,11,57.11,18.78,30
+Delhi,NR,2013,12,58.89,15.09,31
+Delhi,NR,2014,1,65.23,13.25,24
+Delhi,NR,2014,2,60.52,15.39,28
+Delhi,NR,2014,3,57.3,20.97,31
+Delhi,NR,2014,4,69.42,27.43,28
+Delhi,NR,2014,5,90.29,31.36,31
+Delhi,NR,2014,6,106.5,34.86,30
+Delhi,NR,2014,7,107.14,31.72,31
+Delhi,NR,2014,8,103.75,31.57,31
+Delhi,NR,2014,9,94.52,29.79,30
+Delhi,NR,2014,10,75.64,26.89,31
+Delhi,NR,2014,11,58.07,20.18,30
+Delhi,NR,2014,12,63.11,13.85,29
+Delhi,NR,2015,1,66.86,12.39,31
+Delhi,NR,2015,2,59.1,18.13,28
+Delhi,NR,2015,3,58.11,21.02,30
+Delhi,NR,2015,4,75.19,27.97,28
+Delhi,NR,2015,5,98.32,33.28,30
+Delhi,NR,2015,6,102.39,32.47,27
+Delhi,NR,2015,7,100.26,29.9,28
+Delhi,NR,2015,8,99.32,29.77,31
+Delhi,NR,2015,9,100.83,29.56,27
+Delhi,NR,2015,10,80.43,26.56,30
+Delhi,NR,2015,11,58.73,20.86,30
+Delhi,NR,2015,12,60.67,15.07,31
+Delhi,NR,2016,1,62.93,14.23,31
+Delhi,NR,2016,2,58.86,17.5,28
+Delhi,NR,2016,3,60.74,23.53,28
+Delhi,NR,2016,4,85.06,30.69,29
+Delhi,NR,2016,5,104.18,33.1,30
+Delhi,NR,2016,6,115.17,33.68,27
+Delhi,NR,2016,7,105.15,29.92,29
+Delhi,NR,2016,8,101.6,29.56,31
+Delhi,NR,2016,9,102.06,29.82,30
+Delhi,NR,2016,10,82.67,26.49,30
+Delhi,NR,2016,11,56.84,20.45,27
+Delhi,NR,2016,12,57.69,16.11,30
+Delhi,NR,2017,1,62.73,14.15,29
+Delhi,NR,2017,2,60.0,17.62,17
+Delhi,NR,2017,3,62.96,22.1,21
+Delhi,NR,2017,4,91.11,30.46,28
+Delhi,NR,2017,5,109.12,33.17,30
+Delhi,NR,2017,6,110.5,32.43,29
+Delhi,NR,2017,7,109.3,30.6,30
+Delhi,NR,2017,8,109.23,29.98,31
+Delhi,NR,2017,9,101.81,29.01,30
+Delhi,NR,2017,10,83.65,25.8,31
+Delhi,NR,2017,11,62.39,19.47,28
+Delhi,NR,2017,12,62.7,15.09,31
+Delhi,NR,2018,1,66.16,13.18,31
+Delhi,NR,2018,2,62.71,17.6,28
+Delhi,NR,2018,3,65.95,23.93,31
+Delhi,NR,2018,4,87.35,29.26,30
+Delhi,NR,2018,5,108.66,32.7,31
+Delhi,NR,2018,6,125.96,33.48,30
+Delhi,NR,2018,7,117.83,30.82,31
+Delhi,NR,2018,8,112.14,30.12,26
+Delhi,NR,2018,9,96.73,28.12,30
+Delhi,NR,2018,10,79.87,25.11,31
+Delhi,NR,2018,11,61.3,20.19,29
+Delhi,NR,2018,12,64.56,13.89,31
+Delhi,NR,2019,1,69.35,13.41,31
+Delhi,NR,2019,2,66.26,15.83,26
+Delhi,NR,2019,3,62.07,21.1,31
+Delhi,NR,2019,4,89.89,29.72,30
+Delhi,NR,2019,5,108.72,32.7,31
+Delhi,NR,2019,6,127.38,34.23,29
+Delhi,NR,2019,7,120.55,30.87,31
+Delhi,NR,2019,8,114.46,30.04,31
+Delhi,NR,2019,9,115.54,29.3,30
+Delhi,NR,2019,10,78.93,25.81,30
+Delhi,NR,2019,11,62.76,20.91,30
+Delhi,NR,2019,12,69.58,12.46,31
+Delhi,NR,2020,1,74.05,12.76,31
+Delhi,NR,2020,2,66.17,16.34,29
+Delhi,NR,2020,3,54.53,20.7,31
+Delhi,NR,2020,4,54.56,27.3,29
+Delhi,NR,2020,5,79.8,30.91,30
+Delhi,NR,2020,6,101.66,32.16,28
+Delhi,NR,2020,7,106.01,30.97,30
+Delhi,NR,2020,8,100.58,29.8,18
+Delhi,NR,2020,9,109.27,30.16,14
+Delhi,NR,2020,10,80.16,25.57,22
+Delhi,NR,2020,11,60.96,18.49,26
+Delhi,NR,2020,12,66.38,13.93,28
+Delhi,NR,2021,1,72.99,13.06,31
+Delhi,NR,2021,2,63.65,18.49,27
+Delhi,NR,2021,3,66.96,24.52,30
+Delhi,NR,2021,4,73.73,29.08,27
+Delhi,NR,2021,5,74.13,30.29,30
+Delhi,NR,2021,6,111.75,32.73,27
+Delhi,NR,2021,7,119.08,31.53,30
+Delhi,NR,2021,8,113.69,30.46,31
+Delhi,NR,2021,9,100.39,28.67,28
+Delhi,NR,2021,10,85.62,25.69,30
+Delhi,NR,2021,11,60.43,18.99,30
+Delhi,NR,2021,12,66.54,14.38,31
+Delhi,NR,2022,1,72.36,12.67,31
+Delhi,NR,2022,2,66.46,16.38,28
+Delhi,NR,2022,3,73.11,24.82,31
+Delhi,NR,2022,4,105.96,31.34,29
+Delhi,NR,2022,5,120.4,32.96,31
+Delhi,NR,2022,6,129.62,33.85,29
+Delhi,NR,2022,7,124.75,30.77,31
+Delhi,NR,2022,8,119.09,30.33,31
+Delhi,NR,2022,9,114.63,29.36,30
+Delhi,NR,2022,10,78.53,24.8,31
+Delhi,NR,2022,11,67.7,20.21,29
+Delhi,NR,2022,12,70.32,14.47,30
+Delhi,NR,2023,1,80.03,12.31,31
+Delhi,NR,2023,2,67.97,19.07,28
+Delhi,NR,2023,3,68.39,22.76,30
+Delhi,NR,2023,4,85.09,27.52,30
+Delhi,NR,2023,5,100.56,29.89,31
+Delhi,NR,2023,6,122.21,32.03,30
+Delhi,NR,2023,7,126.18,30.1,31
+Delhi,NR,2023,8,131.47,31.03,31
+Delhi,NR,2023,9,123.72,29.86,30
+Delhi,NR,2023,10,90.49,25.92,31
+Delhi,NR,2023,11,70.48,20.46,30
+Delhi,NR,2023,12,71.34,15.35,31
+Delhi,NR,2024,1,88.14,10.92,31
+Delhi,NR,2024,2,75.04,16.49,29
+Delhi,NR,2024,3,71.11,22.07,31
+Delhi,NR,2024,4,93.89,28.88,28
+Goa,WR,2013,1,8.03,24.51,7
+Goa,WR,2013,3,7.2,26.61,1
+Goa,WR,2013,4,7.93,26.83,30
+Goa,WR,2013,5,7.81,27.83,30
+Goa,WR,2013,6,7.41,24.94,27
+Goa,WR,2013,7,7.19,24.17,30
+Goa,WR,2013,8,7.64,24.51,28
+Goa,WR,2013,9,7.43,25.06,27
+Goa,WR,2013,10,8.04,25.66,30
+Goa,WR,2013,11,7.84,25.64,30
+Goa,WR,2013,12,7.49,23.93,31
+Goa,WR,2014,1,7.68,24.42,24
+Goa,WR,2014,2,7.93,24.49,28
+Goa,WR,2014,3,8.33,26.26,31
+Goa,WR,2014,4,8.65,27.68,27
+Goa,WR,2014,5,8.82,27.66,31
+Goa,WR,2014,6,8.7,26.54,30
+Goa,WR,2014,7,7.76,24.73,31
+Goa,WR,2014,8,7.51,24.72,31
+Goa,WR,2014,9,8.0,25.22,30
+Goa,WR,2014,10,8.23,26.3,31
+Goa,WR,2014,11,7.7,25.47,30
+Goa,WR,2014,12,7.6,24.61,30
+Goa,WR,2015,1,7.53,23.29,31
+Goa,WR,2015,2,8.16,24.67,28
+Goa,WR,2015,3,8.72,26.12,30
+Goa,WR,2015,4,9.13,27.26,29
+Goa,WR,2015,5,9.08,28.22,30
+Goa,WR,2015,6,8.62,25.77,27
+Goa,WR,2015,7,8.32,25.52,28
+Goa,WR,2015,8,8.06,25.31,31
+Goa,WR,2015,9,8.59,25.86,27
+Goa,WR,2015,10,8.8,26.79,30
+Goa,WR,2015,11,8.29,26.33,30
+Goa,WR,2015,12,8.5,25.73,31
+Goa,WR,2016,1,7.83,24.07,31
+Goa,WR,2016,2,8.48,25.02,28
+Goa,WR,2016,3,9.28,27.01,28
+Goa,WR,2016,4,9.54,27.98,29
+Goa,WR,2016,5,10.0,28.62,30
+Goa,WR,2016,6,9.01,25.61,27
+Goa,WR,2016,7,8.29,24.58,29
+Goa,WR,2016,8,8.72,24.92,31
+Goa,WR,2016,9,8.33,24.8,30
+Goa,WR,2016,10,8.66,25.49,30
+Goa,WR,2016,11,8.6,25.09,27
+Goa,WR,2016,12,8.59,24.97,30
+Goa,WR,2017,1,8.76,24.58,29
+Goa,WR,2017,2,9.49,25.73,17
+Goa,WR,2017,3,9.63,25.97,21
+Goa,WR,2017,4,10.29,27.61,28
+Goa,WR,2017,5,9.87,28.37,30
+Goa,WR,2017,6,8.87,25.86,29
+Goa,WR,2017,7,8.44,25.25,30
+Goa,WR,2017,8,8.48,25.17,31
+Goa,WR,2017,9,9.04,25.69,30
+Goa,WR,2017,10,9.31,26.22,31
+Goa,WR,2017,11,9.02,25.84,28
+Goa,WR,2017,12,9.19,24.65,31
+Goa,WR,2018,1,9.33,24.03,31
+Goa,WR,2018,2,9.51,25.18,28
+Goa,WR,2018,3,9.96,26.6,31
+Goa,WR,2018,4,11.61,27.98,30
+Goa,WR,2018,5,10.8,28.38,31
+Goa,WR,2018,6,9.75,25.63,30
+Goa,WR,2018,7,9.29,24.89,31
+Goa,WR,2018,8,9.79,24.47,26
+Goa,WR,2018,9,11.98,25.35,30
+Goa,WR,2018,10,11.16,26.32,31
+Goa,WR,2018,11,10.11,26.04,29
+Goa,WR,2018,12,9.79,24.72,31
+Goa,WR,2019,1,10.23,23.56,31
+Goa,WR,2019,2,11.7,24.72,27
+Goa,WR,2019,3,11.17,25.54,31
+Goa,WR,2019,4,12.81,27.81,30
+Goa,WR,2019,5,11.81,28.25,31
+Goa,WR,2019,6,11.87,26.67,29
+Goa,WR,2019,7,11.1,25.01,31
+Goa,WR,2019,8,10.76,24.85,31
+Goa,WR,2019,9,11.08,25.19,30
+Goa,WR,2019,10,11.6,25.9,30
+Goa,WR,2019,11,12.48,26.71,30
+Goa,WR,2019,12,12.52,26.41,31
+Goa,WR,2020,1,10.82,24.56,31
+Goa,WR,2020,2,10.35,25.46,29
+Goa,WR,2020,3,9.25,26.5,31
+Goa,WR,2020,4,8.02,28.22,29
+Goa,WR,2020,5,10.19,28.84,30
+Goa,WR,2020,6,8.82,25.85,28
+Goa,WR,2020,7,8.5,25.22,30
+Goa,WR,2020,8,8.3,24.87,18
+Goa,WR,2020,9,9.47,25.95,14
+Goa,WR,2020,10,9.41,25.69,22
+Goa,WR,2020,11,10.02,26.68,26
+Goa,WR,2020,12,10.05,25.42,28
+Goa,WR,2021,1,10.56,25.53,31
+Goa,WR,2021,2,10.0,25.04,27
+Goa,WR,2021,3,11.72,27.3,30
+Goa,WR,2021,4,11.66,27.55,27
+Goa,WR,2021,5,10.35,27.46,30
+Goa,WR,2021,6,11.36,25.38,27
+Goa,WR,2021,7,11.48,24.91,30
+Goa,WR,2021,8,12.13,25.06,31
+Goa,WR,2021,9,11.86,25.09,28
+Goa,WR,2021,10,13.37,26.39,30
+Goa,WR,2021,11,12.44,25.98,30
+Goa,WR,2021,12,11.87,24.09,31
+Goa,WR,2022,1,11.56,23.05,31
+Goa,WR,2022,2,11.95,24.32,28
+Goa,WR,2022,3,13.44,27.08,31
+Goa,WR,2022,4,14.37,27.95,29
+Goa,WR,2022,5,14.32,27.54,31
+Goa,WR,2022,6,12.79,25.72,29
+Goa,WR,2022,7,11.85,24.86,31
+Goa,WR,2022,8,12.07,24.82,31
+Goa,WR,2022,9,11.98,25.1,30
+Goa,WR,2022,10,11.76,25.43,31
+Goa,WR,2022,11,12.07,25.87,29
+Goa,WR,2022,12,12.93,25.55,30
+Goa,WR,2023,1,13.24,24.02,31
+Goa,WR,2023,2,13.87,26.15,28
+Goa,WR,2023,3,13.38,26.81,30
+Goa,WR,2023,4,14.74,27.66,30
+Goa,WR,2023,5,15.32,28.56,31
+Goa,WR,2023,6,14.67,27.19,30
+Goa,WR,2023,7,12.23,24.76,31
+Goa,WR,2023,8,13.19,25.74,31
+Goa,WR,2023,9,13.42,25.58,30
+Goa,WR,2023,10,13.73,26.64,31
+Goa,WR,2023,11,14.06,26.79,30
+Goa,WR,2023,12,13.36,25.79,31
+Goa,WR,2024,1,12.92,24.82,31
+Goa,WR,2024,2,13.04,25.94,29
+Goa,WR,2024,3,14.45,26.77,31
+Goa,WR,2024,4,15.9,28.07,28
+Gujarat,WR,2013,1,236.96,17.99,7
+Gujarat,WR,2013,3,249.9,28.97,1
+Gujarat,WR,2013,4,259.22,30.09,30
+Gujarat,WR,2013,5,264.23,32.47,30
+Gujarat,WR,2013,6,226.34,30.41,27
+Gujarat,WR,2013,7,200.9,27.97,30
+Gujarat,WR,2013,8,203.84,27.37,28
+Gujarat,WR,2013,9,243.8,28.41,27
+Gujarat,WR,2013,10,224.42,27.55,30
+Gujarat,WR,2013,11,231.17,24.22,30
+Gujarat,WR,2013,12,241.97,20.61,31
+Gujarat,WR,2014,1,234.12,19.53,24
+Gujarat,WR,2014,2,239.6,22.05,28
+Gujarat,WR,2014,3,251.58,26.51,31
+Gujarat,WR,2014,4,275.55,30.31,28
+Gujarat,WR,2014,5,281.08,32.37,31
+Gujarat,WR,2014,6,282.9,32.51,30
+Gujarat,WR,2014,7,253.52,29.73,31
+Gujarat,WR,2014,8,237.66,28.29,31
+Gujarat,WR,2014,9,243.68,27.92,30
+Gujarat,WR,2014,10,284.34,29.32,31
+Gujarat,WR,2014,11,279.51,26.73,30
+Gujarat,WR,2014,12,260.14,20.92,30
+Gujarat,WR,2015,1,248.25,19.93,31
+Gujarat,WR,2015,2,263.78,23.7,28
+Gujarat,WR,2015,3,262.88,26.89,30
+Gujarat,WR,2015,4,291.59,31.16,29
+Gujarat,WR,2015,5,295.55,33.23,30
+Gujarat,WR,2015,6,266.15,31.23,27
+Gujarat,WR,2015,7,267.01,29.59,28
+Gujarat,WR,2015,8,272.37,28.92,31
+Gujarat,WR,2015,9,295.69,29.18,27
+Gujarat,WR,2015,10,310.57,29.92,30
+Gujarat,WR,2015,11,264.83,26.2,30
+Gujarat,WR,2015,12,266.0,21.01,31
+Gujarat,WR,2016,1,272.06,21.22,31
+Gujarat,WR,2016,2,279.89,23.28,28
+Gujarat,WR,2016,3,294.11,28.26,28
+Gujarat,WR,2016,4,306.07,30.63,29
+Gujarat,WR,2016,5,313.66,33.15,30
+Gujarat,WR,2016,6,313.18,32.5,27
+Gujarat,WR,2016,7,268.55,29.06,29
+Gujarat,WR,2016,8,249.6,27.85,31
+Gujarat,WR,2016,9,302.73,28.6,30
+Gujarat,WR,2016,10,273.7,27.54,30
+Gujarat,WR,2016,11,264.57,24.44,27
+Gujarat,WR,2016,12,272.27,22.58,30
+Gujarat,WR,2017,1,273.82,20.56,29
+Gujarat,WR,2017,2,287.08,23.34,17
+Gujarat,WR,2017,3,298.85,27.31,21
+Gujarat,WR,2017,4,330.15,30.89,28
+Gujarat,WR,2017,5,334.07,33.16,30
+Gujarat,WR,2017,6,312.26,31.92,29
+Gujarat,WR,2017,7,239.18,28.09,30
+Gujarat,WR,2017,8,267.32,28.36,31
+Gujarat,WR,2017,9,305.38,28.84,30
+Gujarat,WR,2017,10,322.37,29.36,31
+Gujarat,WR,2017,11,313.64,24.82,28
+Gujarat,WR,2017,12,296.55,21.49,31
+Gujarat,WR,2018,1,295.51,21.39,31
+Gujarat,WR,2018,2,302.45,24.37,28
+Gujarat,WR,2018,3,319.2,28.34,31
+Gujarat,WR,2018,4,344.66,31.5,30
+Gujarat,WR,2018,5,353.4,33.51,31
+Gujarat,WR,2018,6,352.7,32.47,30
+Gujarat,WR,2018,7,294.8,28.98,31
+Gujarat,WR,2018,8,327.55,28.31,26
+Gujarat,WR,2018,9,353.72,28.5,30
+Gujarat,WR,2018,10,377.17,29.91,31
+Gujarat,WR,2018,11,313.39,26.43,29
+Gujarat,WR,2018,12,320.99,20.72,31
+Gujarat,WR,2019,1,318.36,19.82,31
+Gujarat,WR,2019,2,321.98,22.01,26
+Gujarat,WR,2019,3,333.74,26.84,31
+Gujarat,WR,2019,4,374.07,31.64,30
+Gujarat,WR,2019,5,379.18,32.41,31
+Gujarat,WR,2019,6,353.88,32.09,29
+Gujarat,WR,2019,7,340.39,30.61,31
+Gujarat,WR,2019,8,288.9,28.22,31
+Gujarat,WR,2019,9,293.87,28.31,30
+Gujarat,WR,2019,10,306.46,28.22,30
+Gujarat,WR,2019,11,309.75,25.74,30
+Gujarat,WR,2019,12,322.69,21.05,31
+Gujarat,WR,2020,1,319.61,19.04,31
+Gujarat,WR,2020,2,342.66,23.22,29
+Gujarat,WR,2020,3,303.71,26.07,31
+Gujarat,WR,2020,4,258.84,31.72,29
+Gujarat,WR,2020,5,307.85,33.37,30
+Gujarat,WR,2020,6,297.46,31.57,28
+Gujarat,WR,2020,7,293.48,30.02,30
+Gujarat,WR,2020,8,257.89,27.88,18
+Gujarat,WR,2020,9,316.34,29.33,14
+Gujarat,WR,2020,10,358.01,28.99,22
+Gujarat,WR,2020,11,324.28,24.22,26
+Gujarat,WR,2020,12,336.69,20.75,28
+Gujarat,WR,2021,1,339.45,19.69,31
+Gujarat,WR,2021,2,355.56,23.69,27
+Gujarat,WR,2021,3,380.99,28.47,30
+Gujarat,WR,2021,4,392.92,31.46,27
+Gujarat,WR,2021,5,339.39,32.0,30
+Gujarat,WR,2021,6,344.71,31.13,27
+Gujarat,WR,2021,7,346.99,29.87,30
+Gujarat,WR,2021,8,383.63,29.05,31
+Gujarat,WR,2021,9,308.25,27.98,28
+Gujarat,WR,2021,10,358.06,27.99,30
+Gujarat,WR,2021,11,329.21,24.98,30
+Gujarat,WR,2021,12,347.69,20.65,31
+Gujarat,WR,2022,1,344.96,19.26,31
+Gujarat,WR,2022,2,361.95,22.88,28
+Gujarat,WR,2022,3,394.11,28.79,31
+Gujarat,WR,2022,4,432.86,31.86,29
+Gujarat,WR,2022,5,429.35,32.87,31
+Gujarat,WR,2022,6,420.49,32.18,29
+Gujarat,WR,2022,7,330.85,28.36,31
+Gujarat,WR,2022,8,324.16,28.18,31
+Gujarat,WR,2022,9,380.19,28.71,30
+Gujarat,WR,2022,10,381.85,28.46,31
+Gujarat,WR,2022,11,390.6,25.16,29
+Gujarat,WR,2022,12,388.99,22.12,30
+Gujarat,WR,2023,1,375.42,19.2,31
+Gujarat,WR,2023,2,391.92,24.0,28
+Gujarat,WR,2023,3,391.41,27.23,30
+Gujarat,WR,2023,4,432.59,30.06,30
+Gujarat,WR,2023,5,426.68,32.17,31
+Gujarat,WR,2023,6,390.47,30.99,30
+Gujarat,WR,2023,7,357.84,29.0,31
+Gujarat,WR,2023,8,415.91,28.66,31
+Gujarat,WR,2023,9,421.1,29.21,30
+Gujarat,WR,2023,10,420.72,28.75,31
+Gujarat,WR,2023,11,371.79,25.4,30
+Gujarat,WR,2023,12,385.45,22.14,31
+Gujarat,WR,2024,1,401.22,20.67,31
+Gujarat,WR,2024,2,406.4,23.71,29
+Gujarat,WR,2024,3,417.66,26.88,31
+Gujarat,WR,2024,4,466.27,30.7,28
+Haryana,NR,2013,1,105.84,7.26,7
+Haryana,NR,2013,3,91.6,24.5,1
+Haryana,NR,2013,4,95.64,28.0,30
+Haryana,NR,2013,5,127.47,33.49,30
+Haryana,NR,2013,6,137.12,32.82,27
+Haryana,NR,2013,7,164.07,30.53,30
+Haryana,NR,2013,8,141.76,28.99,28
+Haryana,NR,2013,9,145.35,29.18,27
+Haryana,NR,2013,10,112.62,25.87,30
+Haryana,NR,2013,11,97.09,18.75,30
+Haryana,NR,2013,12,103.45,14.68,31
+Haryana,NR,2014,1,103.76,13.01,24
+Haryana,NR,2014,2,100.7,14.97,28
+Haryana,NR,2014,3,91.41,20.72,31
+Haryana,NR,2014,4,96.86,27.07,28
+Haryana,NR,2014,5,119.03,31.51,31
+Haryana,NR,2014,6,147.33,34.86,30
+Haryana,NR,2014,7,172.11,31.95,31
+Haryana,NR,2014,8,177.74,31.23,31
+Haryana,NR,2014,9,145.29,29.29,30
+Haryana,NR,2014,10,125.44,26.1,31
+Haryana,NR,2014,11,105.98,19.82,30
+Haryana,NR,2014,12,114.96,13.39,29
+Haryana,NR,2015,1,113.43,12.13,31
+Haryana,NR,2015,2,113.22,17.75,28
+Haryana,NR,2015,3,93.47,20.89,30
+Haryana,NR,2015,4,100.99,27.81,28
+Haryana,NR,2015,5,132.64,33.35,30
+Haryana,NR,2015,6,146.04,32.61,27
+Haryana,NR,2015,7,159.88,30.04,28
+Haryana,NR,2015,8,161.74,29.92,31
+Haryana,NR,2015,9,163.57,29.88,27
+Haryana,NR,2015,10,137.05,27.04,30
+Haryana,NR,2015,11,104.87,20.71,30
+Haryana,NR,2015,12,111.66,14.86,31
+Haryana,NR,2016,1,116.89,13.8,31
+Haryana,NR,2016,2,118.0,17.29,28
+Haryana,NR,2016,3,104.42,23.15,28
+Haryana,NR,2016,4,120.65,30.4,29
+Haryana,NR,2016,5,135.53,33.34,30
+Haryana,NR,2016,6,158.83,33.97,27
+Haryana,NR,2016,7,170.77,30.45,29
+Haryana,NR,2016,8,161.37,29.71,31
+Haryana,NR,2016,9,168.59,30.42,30
+Haryana,NR,2016,10,133.07,27.04,30
+Haryana,NR,2016,11,106.14,20.68,27
+Haryana,NR,2016,12,114.4,16.28,30
+Haryana,NR,2017,1,111.26,13.88,29
+Haryana,NR,2017,2,115.27,17.7,17
+Haryana,NR,2017,3,115.42,22.53,21
+Haryana,NR,2017,4,121.08,30.76,28
+Haryana,NR,2017,5,149.89,33.54,30
+Haryana,NR,2017,6,152.74,32.4,29
+Haryana,NR,2017,7,184.09,31.2,30
+Haryana,NR,2017,8,175.33,30.48,31
+Haryana,NR,2017,9,155.34,29.54,30
+Haryana,NR,2017,10,138.17,27.05,31
+Haryana,NR,2017,11,109.87,19.41,28
+Haryana,NR,2017,12,116.77,15.13,31
+Haryana,NR,2018,1,119.76,13.39,31
+Haryana,NR,2018,2,120.96,17.64,28
+Haryana,NR,2018,3,123.64,23.86,31
+Haryana,NR,2018,4,120.99,29.43,30
+Haryana,NR,2018,5,147.35,33.04,31
+Haryana,NR,2018,6,175.98,33.62,30
+Haryana,NR,2018,7,184.97,30.97,31
+Haryana,NR,2018,8,182.21,30.42,26
+Haryana,NR,2018,9,151.71,28.42,30
+Haryana,NR,2018,10,137.75,25.29,31
+Haryana,NR,2018,11,112.47,20.26,29
+Haryana,NR,2018,12,124.49,13.86,31
+Haryana,NR,2019,1,122.7,13.13,31
+Haryana,NR,2019,2,118.56,15.62,27
+Haryana,NR,2019,3,118.58,21.01,31
+Haryana,NR,2019,4,126.31,29.44,30
+Haryana,NR,2019,5,158.41,32.31,31
+Haryana,NR,2019,6,191.31,34.68,29
+Haryana,NR,2019,7,192.83,31.33,31
+Haryana,NR,2019,8,190.82,30.27,31
+Haryana,NR,2019,9,198.48,30.19,30
+Haryana,NR,2019,10,139.55,26.41,30
+Haryana,NR,2019,11,112.25,20.57,30
+Haryana,NR,2019,12,119.75,12.28,31
+Haryana,NR,2020,1,125.25,12.41,31
+Haryana,NR,2020,2,127.42,16.49,29
+Haryana,NR,2020,3,92.88,20.62,31
+Haryana,NR,2020,4,83.84,27.87,29
+Haryana,NR,2020,5,126.12,31.7,30
+Haryana,NR,2020,6,169.56,32.64,28
+Haryana,NR,2020,7,190.61,31.41,30
+Haryana,NR,2020,8,184.08,30.2,18
+Haryana,NR,2020,9,194.2,30.55,14
+Haryana,NR,2020,10,155.4,25.94,22
+Haryana,NR,2020,11,114.33,18.39,26
+Haryana,NR,2020,12,130.27,13.58,28
+Haryana,NR,2021,1,126.44,12.74,31
+Haryana,NR,2021,2,132.34,18.33,27
+Haryana,NR,2021,3,128.34,24.16,30
+Haryana,NR,2021,4,127.8,28.21,27
+Haryana,NR,2021,5,133.58,30.61,30
+Haryana,NR,2021,6,194.35,32.89,27
+Haryana,NR,2021,7,207.79,31.63,30
+Haryana,NR,2021,8,207.17,30.72,31
+Haryana,NR,2021,9,166.2,28.79,28
+Haryana,NR,2021,10,149.79,25.9,30
+Haryana,NR,2021,11,115.19,19.11,30
+Haryana,NR,2021,12,128.43,14.23,31
+Haryana,NR,2022,1,118.33,12.6,31
+Haryana,NR,2022,2,124.29,16.35,28
+Haryana,NR,2022,3,135.51,25.17,31
+Haryana,NR,2022,4,151.34,31.88,29
+Haryana,NR,2022,5,181.97,33.46,31
+Haryana,NR,2022,6,210.91,33.91,29
+Haryana,NR,2022,7,209.39,30.6,31
+Haryana,NR,2022,8,216.67,30.41,31
+Haryana,NR,2022,9,204.81,29.38,30
+Haryana,NR,2022,10,140.13,25.1,31
+Haryana,NR,2022,11,128.75,20.33,29
+Haryana,NR,2022,12,139.56,14.43,30
+Haryana,NR,2023,1,141.51,12.14,31
+Haryana,NR,2023,2,140.31,19.36,28
+Haryana,NR,2023,3,127.85,22.62,30
+Haryana,NR,2023,4,139.83,27.4,30
+Haryana,NR,2023,5,164.39,29.66,31
+Haryana,NR,2023,6,206.15,31.75,30
+Haryana,NR,2023,7,216.93,30.23,31
+Haryana,NR,2023,8,244.89,31.28,31
+Haryana,NR,2023,9,226.3,29.97,30
+Haryana,NR,2023,10,172.45,25.49,31
+Haryana,NR,2023,11,131.71,20.12,30
+Haryana,NR,2023,12,143.44,14.91,31
+Haryana,NR,2024,1,158.5,10.57,31
+Haryana,NR,2024,2,146.72,16.22,29
+Haryana,NR,2024,3,138.35,21.99,31
+Haryana,NR,2024,4,154.48,28.45,28
+Himachal Pradesh,NR,2013,1,25.16,-9.35,7
+Himachal Pradesh,NR,2013,3,21.0,1.72,1
+Himachal Pradesh,NR,2013,4,23.3,4.99,30
+Himachal Pradesh,NR,2013,5,23.61,9.74,30
+Himachal Pradesh,NR,2013,6,24.01,12.71,27
+Himachal Pradesh,NR,2013,7,24.13,15.21,30
+Himachal Pradesh,NR,2013,8,23.17,15.22,28
+Himachal Pradesh,NR,2013,9,23.7,11.94,27
+Himachal Pradesh,NR,2013,10,23.22,7.67,30
+Himachal Pradesh,NR,2013,11,22.64,-2.28,30
+Himachal Pradesh,NR,2013,12,24.65,-4.93,31
+Himachal Pradesh,NR,2014,1,24.55,-6.17,24
+Himachal Pradesh,NR,2014,2,24.12,-4.85,28
+Himachal Pradesh,NR,2014,3,23.44,-0.37,31
+Himachal Pradesh,NR,2014,4,23.5,3.58,28
+Himachal Pradesh,NR,2014,5,24.3,8.23,31
+Himachal Pradesh,NR,2014,6,24.54,12.57,30
+Himachal Pradesh,NR,2014,7,24.15,14.74,31
+Himachal Pradesh,NR,2014,8,24.54,14.69,31
+Himachal Pradesh,NR,2014,9,24.26,11.81,30
+Himachal Pradesh,NR,2014,10,22.8,6.61,31
+Himachal Pradesh,NR,2014,11,24.1,-0.05,30
+Himachal Pradesh,NR,2014,12,24.56,-4.99,29
+Himachal Pradesh,NR,2015,1,25.08,-6.56,31
+Himachal Pradesh,NR,2015,2,24.26,-2.71,28
+Himachal Pradesh,NR,2015,3,23.08,0.08,30
+Himachal Pradesh,NR,2015,4,24.22,4.74,28
+Himachal Pradesh,NR,2015,5,25.2,9.53,30
+Himachal Pradesh,NR,2015,6,25.29,11.56,27
+Himachal Pradesh,NR,2015,7,25.2,15.05,28
+Himachal Pradesh,NR,2015,8,24.63,15.0,31
+Himachal Pradesh,NR,2015,9,24.66,11.49,27
+Himachal Pradesh,NR,2015,10,23.96,6.59,30
+Himachal Pradesh,NR,2015,11,22.8,0.39,30
+Himachal Pradesh,NR,2015,12,25.75,-5.4,31
+Himachal Pradesh,NR,2016,1,25.68,-5.82,31
+Himachal Pradesh,NR,2016,2,25.35,-3.54,28
+Himachal Pradesh,NR,2016,3,23.93,1.11,28
+Himachal Pradesh,NR,2016,4,23.52,6.23,29
+Himachal Pradesh,NR,2016,5,24.06,10.29,30
+Himachal Pradesh,NR,2016,6,25.53,14.06,27
+Himachal Pradesh,NR,2016,7,25.6,15.77,29
+Himachal Pradesh,NR,2016,8,24.93,15.13,31
+Himachal Pradesh,NR,2016,9,26.52,12.88,30
+Himachal Pradesh,NR,2016,10,24.37,7.89,30
+Himachal Pradesh,NR,2016,11,24.13,3.23,27
+Himachal Pradesh,NR,2016,12,24.71,-0.42,30
+Himachal Pradesh,NR,2017,1,24.92,-5.12,29
+Himachal Pradesh,NR,2017,2,26.51,-2.2,17
+Himachal Pradesh,NR,2017,3,25.97,-0.06,21
+Himachal Pradesh,NR,2017,4,25.16,6.35,28
+Himachal Pradesh,NR,2017,5,25.71,9.92,30
+Himachal Pradesh,NR,2017,6,25.83,12.65,29
+Himachal Pradesh,NR,2017,7,26.11,16.09,30
+Himachal Pradesh,NR,2017,8,26.15,15.69,31
+Himachal Pradesh,NR,2017,9,25.13,12.41,30
+Himachal Pradesh,NR,2017,10,23.47,7.8,31
+Himachal Pradesh,NR,2017,11,24.79,0.12,28
+Himachal Pradesh,NR,2017,12,26.73,-3.99,31
+Himachal Pradesh,NR,2018,1,27.17,-5.54,31
+Himachal Pradesh,NR,2018,2,26.44,-2.57,28
+Himachal Pradesh,NR,2018,3,25.31,0.81,31
+Himachal Pradesh,NR,2018,4,24.98,5.53,30
+Himachal Pradesh,NR,2018,5,25.42,9.17,31
+Himachal Pradesh,NR,2018,6,26.54,13.26,30
+Himachal Pradesh,NR,2018,7,26.22,15.57,31
+Himachal Pradesh,NR,2018,8,26.42,15.93,26
+Himachal Pradesh,NR,2018,9,27.22,11.79,30
+Himachal Pradesh,NR,2018,10,26.56,3.68,31
+Himachal Pradesh,NR,2018,11,26.41,-1.03,29
+Himachal Pradesh,NR,2018,12,28.58,-6.1,31
+Himachal Pradesh,NR,2019,1,29.29,-6.4,31
+Himachal Pradesh,NR,2019,2,28.44,-3.32,26
+Himachal Pradesh,NR,2019,3,26.75,-0.64,31
+Himachal Pradesh,NR,2019,4,25.73,6.53,30
+Himachal Pradesh,NR,2019,5,27.88,8.64,31
+Himachal Pradesh,NR,2019,6,29.6,12.18,29
+Himachal Pradesh,NR,2019,7,29.07,14.42,31
+Himachal Pradesh,NR,2019,8,28.46,15.11,31
+Himachal Pradesh,NR,2019,9,29.6,13.94,30
+Himachal Pradesh,NR,2019,10,25.69,5.83,30
+Himachal Pradesh,NR,2019,11,27.38,-0.06,30
+Himachal Pradesh,NR,2019,12,29.54,-7.11,31
+Himachal Pradesh,NR,2020,1,30.12,-6.37,31
+Himachal Pradesh,NR,2020,2,28.28,-4.06,29
+Himachal Pradesh,NR,2020,3,21.78,-0.31,31
+Himachal Pradesh,NR,2020,4,13.42,4.39,29
+Himachal Pradesh,NR,2020,5,21.24,9.13,30
+Himachal Pradesh,NR,2020,6,26.34,12.81,28
+Himachal Pradesh,NR,2020,7,27.78,15.5,30
+Himachal Pradesh,NR,2020,8,29.63,16.74,18
+Himachal Pradesh,NR,2020,9,31.45,13.34,14
+Himachal Pradesh,NR,2020,10,29.09,8.23,22
+Himachal Pradesh,NR,2020,11,28.24,-0.27,26
+Himachal Pradesh,NR,2020,12,31.74,-6.28,28
+Himachal Pradesh,NR,2021,1,32.63,-5.4,31
+Himachal Pradesh,NR,2021,2,31.59,-1.99,27
+Himachal Pradesh,NR,2021,3,30.13,1.78,30
+Himachal Pradesh,NR,2021,4,28.18,3.93,27
+Himachal Pradesh,NR,2021,5,26.71,8.02,30
+Himachal Pradesh,NR,2021,6,30.29,12.65,27
+Himachal Pradesh,NR,2021,7,28.75,15.6,30
+Himachal Pradesh,NR,2021,8,31.37,15.45,31
+Himachal Pradesh,NR,2021,9,31.47,13.86,28
+Himachal Pradesh,NR,2021,10,31.38,6.61,30
+Himachal Pradesh,NR,2021,11,29.91,-1.23,30
+Himachal Pradesh,NR,2021,12,33.98,-6.24,31
+Himachal Pradesh,NR,2022,1,34.19,-5.77,31
+Himachal Pradesh,NR,2022,2,33.42,-4.63,28
+Himachal Pradesh,NR,2022,3,30.0,3.15,31
+Himachal Pradesh,NR,2022,4,32.14,9.0,29
+Himachal Pradesh,NR,2022,5,32.33,11.36,31
+Himachal Pradesh,NR,2022,6,34.4,14.22,29
+Himachal Pradesh,NR,2022,7,32.09,16.46,31
+Himachal Pradesh,NR,2022,8,31.46,16.31,31
+Himachal Pradesh,NR,2022,9,32.84,13.02,30
+Himachal Pradesh,NR,2022,10,30.25,6.48,31
+Himachal Pradesh,NR,2022,11,32.19,-0.38,29
+Himachal Pradesh,NR,2022,12,34.39,-3.97,30
+Himachal Pradesh,NR,2023,1,34.46,-5.82,31
+Himachal Pradesh,NR,2023,2,32.23,-1.76,28
+Himachal Pradesh,NR,2023,3,32.16,0.99,30
+Himachal Pradesh,NR,2023,4,30.48,3.95,30
+Himachal Pradesh,NR,2023,5,29.23,7.14,31
+Himachal Pradesh,NR,2023,6,31.1,12.14,30
+Himachal Pradesh,NR,2023,7,32.44,15.13,31
+Himachal Pradesh,NR,2023,8,34.06,15.84,31
+Himachal Pradesh,NR,2023,9,34.59,13.68,30
+Himachal Pradesh,NR,2023,10,32.59,6.31,31
+Himachal Pradesh,NR,2023,11,32.26,1.7,30
+Himachal Pradesh,NR,2023,12,36.31,-3.38,31
+Himachal Pradesh,NR,2024,1,36.85,-4.31,31
+Himachal Pradesh,NR,2024,2,35.55,-4.66,29
+Himachal Pradesh,NR,2024,3,30.64,0.95,31
+Himachal Pradesh,NR,2024,4,31.39,4.8,28
+Jammu and Kashmir,NR,2013,1,38.36,-19.44,7
+Jammu and Kashmir,NR,2013,3,33.8,-6.3,1
+Jammu and Kashmir,NR,2013,4,29.27,-3.21,30
+Jammu and Kashmir,NR,2013,5,29.84,1.48,30
+Jammu and Kashmir,NR,2013,6,27.8,6.97,27
+Jammu and Kashmir,NR,2013,7,29.5,11.53,30
+Jammu and Kashmir,NR,2013,8,27.61,11.52,28
+Jammu and Kashmir,NR,2013,9,29.31,7.51,27
+Jammu and Kashmir,NR,2013,10,31.53,1.54,30
+Jammu and Kashmir,NR,2013,11,36.43,-9.56,30
+Jammu and Kashmir,NR,2013,12,38.65,-12.4,31
+Jammu and Kashmir,NR,2014,1,39.9,-14.82,24
+Jammu and Kashmir,NR,2014,2,38.55,-13.12,28
+Jammu and Kashmir,NR,2014,3,33.0,-8.6,31
+Jammu and Kashmir,NR,2014,4,31.36,-4.9,28
+Jammu and Kashmir,NR,2014,5,29.02,1.1,31
+Jammu and Kashmir,NR,2014,6,27.15,6.23,30
+Jammu and Kashmir,NR,2014,7,29.61,11.02,31
+Jammu and Kashmir,NR,2014,8,30.03,10.71,31
+Jammu and Kashmir,NR,2014,9,24.4,5.99,30
+Jammu and Kashmir,NR,2014,10,31.87,0.2,31
+Jammu and Kashmir,NR,2014,11,37.97,-8.93,30
+Jammu and Kashmir,NR,2014,12,42.2,-13.25,29
+Jammu and Kashmir,NR,2015,1,42.22,-14.36,31
+Jammu and Kashmir,NR,2015,2,40.64,-11.0,28
+Jammu and Kashmir,NR,2015,3,37.32,-8.54,30
+Jammu and Kashmir,NR,2015,4,36.43,-3.81,28
+Jammu and Kashmir,NR,2015,5,36.19,1.01,30
+Jammu and Kashmir,NR,2015,6,35.64,4.82,27
+Jammu and Kashmir,NR,2015,7,34.44,10.93,28
+Jammu and Kashmir,NR,2015,8,34.28,10.88,31
+Jammu and Kashmir,NR,2015,9,35.41,5.49,27
+Jammu and Kashmir,NR,2015,10,37.19,-1.36,30
+Jammu and Kashmir,NR,2015,11,40.67,-8.18,30
+Jammu and Kashmir,NR,2015,12,42.42,-14.05,31
+Jammu and Kashmir,NR,2016,1,44.03,-14.01,31
+Jammu and Kashmir,NR,2016,2,42.22,-12.1,28
+Jammu and Kashmir,NR,2016,3,40.83,-6.99,28
+Jammu and Kashmir,NR,2016,4,42.39,-2.61,29
+Jammu and Kashmir,NR,2016,5,40.99,2.89,30
+Jammu and Kashmir,NR,2016,6,33.71,8.62,27
+Jammu and Kashmir,NR,2016,7,32.37,11.88,29
+Jammu and Kashmir,NR,2016,8,34.2,11.26,31
+Jammu and Kashmir,NR,2016,9,35.31,8.58,30
+Jammu and Kashmir,NR,2016,10,35.01,1.5,30
+Jammu and Kashmir,NR,2016,11,37.56,-4.47,27
+Jammu and Kashmir,NR,2016,12,36.13,-10.49,30
+Jammu and Kashmir,NR,2017,1,43.19,-13.25,29
+Jammu and Kashmir,NR,2017,2,43.56,-11.4,17
+Jammu and Kashmir,NR,2017,3,40.67,-8.44,21
+Jammu and Kashmir,NR,2017,4,38.55,-2.86,28
+Jammu and Kashmir,NR,2017,5,37.37,2.37,30
+Jammu and Kashmir,NR,2017,6,38.11,6.73,29
+Jammu and Kashmir,NR,2017,7,38.11,11.9,30
+Jammu and Kashmir,NR,2017,8,38.62,11.58,31
+Jammu and Kashmir,NR,2017,9,40.41,7.28,30
+Jammu and Kashmir,NR,2017,10,40.55,1.75,31
+Jammu and Kashmir,NR,2017,11,40.34,-5.72,28
+Jammu and Kashmir,NR,2017,12,43.02,-11.88,31
+Jammu and Kashmir,NR,2018,1,46.17,-13.9,31
+Jammu and Kashmir,NR,2018,2,43.14,-11.08,28
+Jammu and Kashmir,NR,2018,3,42.34,-7.25,31
+Jammu and Kashmir,NR,2018,4,41.41,-1.95,30
+Jammu and Kashmir,NR,2018,5,39.16,1.46,31
+Jammu and Kashmir,NR,2018,6,40.37,7.32,30
+Jammu and Kashmir,NR,2018,7,40.66,11.06,31
+Jammu and Kashmir,NR,2018,8,40.15,12.01,26
+Jammu and Kashmir,NR,2018,9,38.59,5.53,30
+Jammu and Kashmir,NR,2018,10,38.02,-5.4,31
+Jammu and Kashmir,NR,2018,11,40.82,-9.58,29
+Jammu and Kashmir,NR,2018,12,48.35,-14.68,31
+Jammu and Kashmir,NR,2019,1,49.23,-14.63,31
+Jammu and Kashmir,NR,2019,2,45.73,-11.86,26
+Jammu and Kashmir,NR,2019,3,45.59,-9.0,31
+Jammu and Kashmir,NR,2019,4,43.2,-0.86,30
+Jammu and Kashmir,NR,2019,5,45.94,0.66,31
+Jammu and Kashmir,NR,2019,6,45.55,4.49,29
+Jammu and Kashmir,NR,2019,7,41.78,9.99,31
+Jammu and Kashmir,NR,2019,8,39.93,10.47,31
+Jammu and Kashmir,NR,2019,9,40.08,9.03,30
+Jammu and Kashmir,NR,2019,10,39.5,-0.55,30
+Jammu and Kashmir,NR,2019,11,39.92,-8.25,30
+Jammu and Kashmir,NR,2019,12,48.27,-16.07,31
+Jammu and Kashmir,NR,2020,1,49.59,-14.93,31
+Jammu and Kashmir,NR,2020,2,49.32,-12.39,29
+Jammu and Kashmir,NR,2020,3,45.22,-7.75,31
+Jammu and Kashmir,NR,2020,4,42.43,-3.36,29
+Jammu and Kashmir,NR,2020,5,42.2,2.4,30
+Jammu and Kashmir,NR,2020,6,42.01,7.04,28
+Jammu and Kashmir,NR,2020,7,41.94,11.28,30
+Jammu and Kashmir,NR,2020,8,43.06,13.49,18
+Jammu and Kashmir,NR,2020,9,45.18,8.25,14
+Jammu and Kashmir,NR,2020,10,47.12,2.17,22
+Jammu and Kashmir,NR,2020,11,47.85,-7.47,26
+Jammu and Kashmir,NR,2020,12,54.14,-15.28,28
+Jammu and Kashmir,NR,2021,1,52.94,-14.8,31
+Jammu and Kashmir,NR,2021,2,52.95,-9.71,27
+Jammu and Kashmir,NR,2021,3,49.78,-6.63,30
+Jammu and Kashmir,NR,2021,4,50.5,-5.18,27
+Jammu and Kashmir,NR,2021,5,48.2,0.8,30
+Jammu and Kashmir,NR,2021,6,46.46,6.83,27
+Jammu and Kashmir,NR,2021,7,44.32,11.31,30
+Jammu and Kashmir,NR,2021,8,46.67,11.19,31
+Jammu and Kashmir,NR,2021,9,46.29,9.22,28
+Jammu and Kashmir,NR,2021,10,46.31,-0.84,30
+Jammu and Kashmir,NR,2021,11,52.58,-11.12,30
+Jammu and Kashmir,NR,2021,12,57.43,-14.31,31
+Jammu and Kashmir,NR,2022,1,60.34,-13.69,31
+Jammu and Kashmir,NR,2022,2,58.48,-12.53,28
+Jammu and Kashmir,NR,2022,3,52.82,-4.72,31
+Jammu and Kashmir,NR,2022,4,45.84,0.98,29
+Jammu and Kashmir,NR,2022,5,49.99,5.01,31
+Jammu and Kashmir,NR,2022,6,50.06,7.97,29
+Jammu and Kashmir,NR,2022,7,49.74,12.86,31
+Jammu and Kashmir,NR,2022,8,50.41,12.06,31
+Jammu and Kashmir,NR,2022,9,49.65,7.91,30
+Jammu and Kashmir,NR,2022,10,50.37,-1.81,31
+Jammu and Kashmir,NR,2022,11,54.18,-9.57,29
+Jammu and Kashmir,NR,2022,12,58.78,-13.76,30
+Jammu and Kashmir,NR,2023,1,62.86,-14.49,31
+Jammu and Kashmir,NR,2023,2,59.45,-10.32,28
+Jammu and Kashmir,NR,2023,3,55.38,-6.87,30
+Jammu and Kashmir,NR,2023,4,55.84,-3.85,30
+Jammu and Kashmir,NR,2023,5,55.12,-0.51,31
+Jammu and Kashmir,NR,2023,6,51.89,6.25,30
+Jammu and Kashmir,NR,2023,7,50.79,10.54,31
+Jammu and Kashmir,NR,2023,8,51.15,12.18,31
+Jammu and Kashmir,NR,2023,9,49.19,9.26,30
+Jammu and Kashmir,NR,2023,10,48.25,-0.85,31
+Jammu and Kashmir,NR,2023,11,52.42,-5.96,30
+Jammu and Kashmir,NR,2023,12,58.36,-10.69,31
+Jammu and Kashmir,NR,2024,1,64.4,-11.29,31
+Jammu and Kashmir,NR,2024,2,57.68,-13.15,29
+Jammu and Kashmir,NR,2024,3,55.07,-7.34,31
+Jammu and Kashmir,NR,2024,4,50.7,-4.07,28
+Jharkhand,ER,2013,1,20.9,15.77,7
+Jharkhand,ER,2013,3,19.6,27.69,1
+Jharkhand,ER,2013,4,19.19,29.02,30
+Jharkhand,ER,2013,5,20.37,31.4,30
+Jharkhand,ER,2013,6,18.24,28.56,27
+Jharkhand,ER,2013,7,19.67,27.99,30
+Jharkhand,ER,2013,8,19.07,27.27,28
+Jharkhand,ER,2013,9,19.11,27.22,27
+Jharkhand,ER,2013,10,18.97,24.59,30
+Jharkhand,ER,2013,11,20.29,19.96,30
+Jharkhand,ER,2013,12,20.91,16.88,31
+Jharkhand,ER,2014,1,21.45,15.93,24
+Jharkhand,ER,2014,2,20.44,18.66,28
+Jharkhand,ER,2014,3,19.91,23.77,31
+Jharkhand,ER,2014,4,20.35,29.63,28
+Jharkhand,ER,2014,5,19.48,30.93,31
+Jharkhand,ER,2014,6,19.78,30.84,30
+Jharkhand,ER,2014,7,19.65,27.67,31
+Jharkhand,ER,2014,8,19.04,27.57,31
+Jharkhand,ER,2014,9,19.34,27.13,30
+Jharkhand,ER,2014,10,20.34,25.07,31
+Jharkhand,ER,2014,11,21.02,20.27,30
+Jharkhand,ER,2014,12,21.35,15.94,30
+Jharkhand,ER,2015,1,21.23,16.24,31
+Jharkhand,ER,2015,2,22.26,20.98,28
+Jharkhand,ER,2015,3,21.01,24.57,30
+Jharkhand,ER,2015,4,20.41,27.75,28
+Jharkhand,ER,2015,5,21.2,31.75,30
+Jharkhand,ER,2015,6,21.07,29.72,27
+Jharkhand,ER,2015,7,20.72,27.45,28
+Jharkhand,ER,2015,8,22.57,27.9,31
+Jharkhand,ER,2015,9,22.31,28.24,27
+Jharkhand,ER,2015,10,23.18,26.29,30
+Jharkhand,ER,2015,11,23.26,22.37,30
+Jharkhand,ER,2015,12,22.85,17.75,31
+Jharkhand,ER,2016,1,22.8,16.84,31
+Jharkhand,ER,2016,2,21.01,22.13,28
+Jharkhand,ER,2016,3,21.8,26.49,28
+Jharkhand,ER,2016,4,23.09,32.64,29
+Jharkhand,ER,2016,5,20.16,30.79,30
+Jharkhand,ER,2016,6,20.8,30.66,27
+Jharkhand,ER,2016,7,20.88,27.58,29
+Jharkhand,ER,2016,8,20.83,27.58,31
+Jharkhand,ER,2016,9,21.13,27.18,30
+Jharkhand,ER,2016,10,21.69,25.57,30
+Jharkhand,ER,2016,11,21.98,20.67,27
+Jharkhand,ER,2016,12,22.14,17.17,30
+Jharkhand,ER,2017,1,22.57,17.04,29
+Jharkhand,ER,2017,2,22.65,20.65,17
+Jharkhand,ER,2017,3,23.15,25.03,21
+Jharkhand,ER,2017,4,24.12,30.61,28
+Jharkhand,ER,2017,5,22.9,31.29,30
+Jharkhand,ER,2017,6,22.84,30.43,29
+Jharkhand,ER,2017,7,21.65,27.17,30
+Jharkhand,ER,2017,8,23.51,27.73,31
+Jharkhand,ER,2017,9,24.18,28.14,30
+Jharkhand,ER,2017,10,22.69,25.95,31
+Jharkhand,ER,2017,11,22.52,21.04,28
+Jharkhand,ER,2017,12,23.7,17.76,31
+Jharkhand,ER,2018,1,23.95,15.02,31
+Jharkhand,ER,2018,2,22.89,21.27,28
+Jharkhand,ER,2018,3,23.6,26.14,31
+Jharkhand,ER,2018,4,22.63,28.43,30
+Jharkhand,ER,2018,5,23.54,30.53,31
+Jharkhand,ER,2018,6,23.22,30.06,30
+Jharkhand,ER,2018,7,22.94,27.88,31
+Jharkhand,ER,2018,8,23.1,27.52,26
+Jharkhand,ER,2018,9,23.39,27.55,30
+Jharkhand,ER,2018,10,23.2,25.17,31
+Jharkhand,ER,2018,11,24.3,21.47,29
+Jharkhand,ER,2018,12,23.48,16.08,31
+Jharkhand,ER,2019,1,23.66,16.25,31
+Jharkhand,ER,2019,2,22.68,20.07,26
+Jharkhand,ER,2019,3,22.9,24.54,31
+Jharkhand,ER,2019,4,23.59,29.51,30
+Jharkhand,ER,2019,5,26.22,32.3,31
+Jharkhand,ER,2019,6,25.22,31.6,29
+Jharkhand,ER,2019,7,23.86,28.37,31
+Jharkhand,ER,2019,8,24.08,27.78,31
+Jharkhand,ER,2019,9,24.34,27.08,30
+Jharkhand,ER,2019,10,23.29,24.86,30
+Jharkhand,ER,2019,11,24.05,21.53,30
+Jharkhand,ER,2019,12,24.26,16.52,31
+Jharkhand,ER,2020,1,24.97,16.19,31
+Jharkhand,ER,2020,2,24.15,18.48,29
+Jharkhand,ER,2020,3,22.77,23.06,31
+Jharkhand,ER,2020,4,22.34,27.44,29
+Jharkhand,ER,2020,5,23.38,28.93,30
+Jharkhand,ER,2020,6,25.35,28.1,28
+Jharkhand,ER,2020,7,26.52,28.05,30
+Jharkhand,ER,2020,8,27.32,28.1,18
+Jharkhand,ER,2020,9,28.52,28.04,14
+Jharkhand,ER,2020,10,28.33,26.48,22
+Jharkhand,ER,2020,11,25.09,21.26,26
+Jharkhand,ER,2020,12,25.66,16.99,28
+Jharkhand,ER,2021,1,25.9,16.96,31
+Jharkhand,ER,2021,2,25.41,20.32,27
+Jharkhand,ER,2021,3,27.09,26.51,30
+Jharkhand,ER,2021,4,29.01,30.05,27
+Jharkhand,ER,2021,5,24.72,28.12,30
+Jharkhand,ER,2021,6,26.82,27.91,27
+Jharkhand,ER,2021,7,28.73,27.91,30
+Jharkhand,ER,2021,8,28.9,27.8,31
+Jharkhand,ER,2021,9,28.22,27.11,28
+Jharkhand,ER,2021,10,26.87,25.83,30
+Jharkhand,ER,2021,11,26.85,20.85,30
+Jharkhand,ER,2021,12,27.76,17.47,31
+Jharkhand,ER,2022,1,29.74,15.79,31
+Jharkhand,ER,2022,2,28.74,18.55,28
+Jharkhand,ER,2022,3,30.11,26.23,31
+Jharkhand,ER,2022,4,33.21,31.59,29
+Jharkhand,ER,2022,5,30.99,30.56,31
+Jharkhand,ER,2022,6,31.72,30.43,29
+Jharkhand,ER,2022,7,32.36,28.54,31
+Jharkhand,ER,2022,8,30.86,27.7,31
+Jharkhand,ER,2022,9,31.9,27.39,30
+Jharkhand,ER,2022,10,30.82,25.36,31
+Jharkhand,ER,2022,11,27.92,20.66,29
+Jharkhand,ER,2022,12,27.87,17.79,30
+Jharkhand,ER,2023,1,29.0,17.24,31
+Jharkhand,ER,2023,2,27.86,21.31,28
+Jharkhand,ER,2023,3,27.61,24.96,30
+Jharkhand,ER,2023,4,32.34,29.13,30
+Jharkhand,ER,2023,5,33.73,30.81,31
+Jharkhand,ER,2023,6,36.53,32.06,30
+Jharkhand,ER,2023,7,37.07,28.96,31
+Jharkhand,ER,2023,8,37.21,27.81,31
+Jharkhand,ER,2023,9,35.52,27.65,30
+Jharkhand,ER,2023,10,31.73,25.58,31
+Jharkhand,ER,2023,11,30.19,21.98,30
+Jharkhand,ER,2023,12,29.77,17.74,31
+Jharkhand,ER,2024,1,31.33,15.78,31
+Jharkhand,ER,2024,2,30.58,20.0,29
+Jharkhand,ER,2024,3,35.15,24.34,31
+Jharkhand,ER,2024,4,40.54,30.54,28
+Karnataka,SR,2013,1,175.24,25.38,7
+Karnataka,SR,2013,3,158.0,29.83,1
+Karnataka,SR,2013,4,164.09,29.45,30
+Karnataka,SR,2013,5,155.13,29.31,30
+Karnataka,SR,2013,6,138.49,24.89,27
+Karnataka,SR,2013,7,139.13,23.77,30
+Karnataka,SR,2013,8,147.48,24.27,28
+Karnataka,SR,2013,9,137.18,24.42,27
+Karnataka,SR,2013,10,149.37,24.64,30
+Karnataka,SR,2013,11,161.44,23.79,30
+Karnataka,SR,2013,12,168.85,22.23,31
+Karnataka,SR,2014,1,181.8,23.55,24
+Karnataka,SR,2014,2,188.66,24.8,28
+Karnataka,SR,2014,3,185.58,27.59,31
+Karnataka,SR,2014,4,188.25,29.43,28
+Karnataka,SR,2014,5,163.07,28.63,31
+Karnataka,SR,2014,6,159.33,27.31,30
+Karnataka,SR,2014,7,154.27,24.74,31
+Karnataka,SR,2014,8,147.23,24.75,31
+Karnataka,SR,2014,9,150.0,25.07,30
+Karnataka,SR,2014,10,145.26,25.34,31
+Karnataka,SR,2014,11,158.37,23.87,30
+Karnataka,SR,2014,12,169.24,23.06,30
+Karnataka,SR,2015,1,178.44,22.78,31
+Karnataka,SR,2015,2,191.99,24.89,28
+Karnataka,SR,2015,3,190.76,27.48,30
+Karnataka,SR,2015,4,178.04,28.19,28
+Karnataka,SR,2015,5,164.3,28.83,30
+Karnataka,SR,2015,6,151.71,25.98,27
+Karnataka,SR,2015,7,174.62,25.91,28
+Karnataka,SR,2015,8,161.56,25.59,31
+Karnataka,SR,2015,9,146.64,25.52,27
+Karnataka,SR,2015,10,150.96,26.12,30
+Karnataka,SR,2015,11,155.78,24.78,30
+Karnataka,SR,2015,12,167.47,24.6,31
+Karnataka,SR,2016,1,182.85,23.64,31
+Karnataka,SR,2016,2,197.0,26.6,28
+Karnataka,SR,2016,3,204.66,29.24,28
+Karnataka,SR,2016,4,205.76,31.12,29
+Karnataka,SR,2016,5,180.22,29.61,30
+Karnataka,SR,2016,6,150.23,25.61,27
+Karnataka,SR,2016,7,148.93,24.51,29
+Karnataka,SR,2016,8,172.15,24.83,31
+Karnataka,SR,2016,9,179.93,24.35,30
+Karnataka,SR,2016,10,193.32,25.11,30
+Karnataka,SR,2016,11,200.15,24.28,27
+Karnataka,SR,2016,12,187.05,23.28,30
+Karnataka,SR,2017,1,196.75,23.6,29
+Karnataka,SR,2017,2,211.49,25.95,17
+Karnataka,SR,2017,3,217.57,28.05,21
+Karnataka,SR,2017,4,210.83,30.19,28
+Karnataka,SR,2017,5,176.49,29.51,30
+Karnataka,SR,2017,6,165.2,26.05,29
+Karnataka,SR,2017,7,175.02,25.36,30
+Karnataka,SR,2017,8,172.77,25.16,31
+Karnataka,SR,2017,9,151.29,25.28,30
+Karnataka,SR,2017,10,144.33,25.04,31
+Karnataka,SR,2017,11,190.06,24.44,28
+Karnataka,SR,2017,12,196.78,22.9,31
+Karnataka,SR,2018,1,206.0,23.03,31
+Karnataka,SR,2018,2,211.62,24.75,28
+Karnataka,SR,2018,3,221.81,27.63,31
+Karnataka,SR,2018,4,217.11,29.31,30
+Karnataka,SR,2018,5,179.56,28.84,31
+Karnataka,SR,2018,6,164.96,25.64,30
+Karnataka,SR,2018,7,173.59,24.72,31
+Karnataka,SR,2018,8,176.91,24.28,26
+Karnataka,SR,2018,9,191.48,25.35,30
+Karnataka,SR,2018,10,189.65,25.75,31
+Karnataka,SR,2018,11,206.71,25.08,29
+Karnataka,SR,2018,12,204.88,23.63,31
+Karnataka,SR,2019,1,208.61,22.48,31
+Karnataka,SR,2019,2,221.63,25.82,26
+Karnataka,SR,2019,3,245.97,28.54,31
+Karnataka,SR,2019,4,233.71,30.03,30
+Karnataka,SR,2019,5,216.13,30.14,31
+Karnataka,SR,2019,6,193.49,27.32,29
+Karnataka,SR,2019,7,183.88,25.25,31
+Karnataka,SR,2019,8,164.55,24.67,31
+Karnataka,SR,2019,9,175.73,24.87,30
+Karnataka,SR,2019,10,149.42,24.69,30
+Karnataka,SR,2019,11,173.22,24.59,30
+Karnataka,SR,2019,12,192.38,23.43,31
+Karnataka,SR,2020,1,223.4,24.0,31
+Karnataka,SR,2020,2,238.66,25.3,29
+Karnataka,SR,2020,3,239.94,27.84,31
+Karnataka,SR,2020,4,204.35,29.36,29
+Karnataka,SR,2020,5,194.6,29.76,30
+Karnataka,SR,2020,6,175.94,26.08,28
+Karnataka,SR,2020,7,156.68,24.96,30
+Karnataka,SR,2020,8,153.57,24.5,18
+Karnataka,SR,2020,9,159.89,25.25,14
+Karnataka,SR,2020,10,155.21,24.78,22
+Karnataka,SR,2020,11,184.05,24.2,26
+Karnataka,SR,2020,12,201.44,22.99,28
+Karnataka,SR,2021,1,208.1,23.74,31
+Karnataka,SR,2021,2,230.91,23.96,27
+Karnataka,SR,2021,3,261.0,27.55,30
+Karnataka,SR,2021,4,245.76,28.61,27
+Karnataka,SR,2021,5,187.16,27.73,30
+Karnataka,SR,2021,6,174.37,25.42,27
+Karnataka,SR,2021,7,169.42,24.69,30
+Karnataka,SR,2021,8,188.89,24.81,31
+Karnataka,SR,2021,9,190.35,24.84,28
+Karnataka,SR,2021,10,174.32,25.23,30
+Karnataka,SR,2021,11,157.92,24.03,30
+Karnataka,SR,2021,12,176.76,22.89,31
+Karnataka,SR,2022,1,223.87,22.8,31
+Karnataka,SR,2022,2,252.03,24.71,28
+Karnataka,SR,2022,3,267.4,27.58,31
+Karnataka,SR,2022,4,246.18,29.13,29
+Karnataka,SR,2022,5,200.62,27.32,31
+Karnataka,SR,2022,6,200.68,25.95,29
+Karnataka,SR,2022,7,173.26,24.29,31
+Karnataka,SR,2022,8,179.37,24.46,31
+Karnataka,SR,2022,9,180.22,24.54,30
+Karnataka,SR,2022,10,165.88,24.17,31
+Karnataka,SR,2022,11,199.44,23.7,29
+Karnataka,SR,2022,12,204.15,23.28,30
+Karnataka,SR,2023,1,237.54,22.72,31
+Karnataka,SR,2023,2,268.46,24.99,28
+Karnataka,SR,2023,3,280.25,26.6,30
+Karnataka,SR,2023,4,287.7,28.84,30
+Karnataka,SR,2023,5,243.85,28.82,31
+Karnataka,SR,2023,6,246.11,27.67,30
+Karnataka,SR,2023,7,199.95,24.5,31
+Karnataka,SR,2023,8,256.58,25.79,31
+Karnataka,SR,2023,9,239.33,25.26,30
+Karnataka,SR,2023,10,259.63,26.37,31
+Karnataka,SR,2023,11,239.79,25.38,30
+Karnataka,SR,2023,12,254.59,23.87,31
+Karnataka,SR,2024,1,269.91,24.22,31
+Karnataka,SR,2024,2,304.23,26.35,29
+Karnataka,SR,2024,3,323.14,28.96,31
+Karnataka,SR,2024,4,314.25,30.53,28
+Kerala,SR,2013,1,57.47,26.88,7
+Kerala,SR,2013,3,56.0,28.54,1
+Kerala,SR,2013,4,59.08,28.28,30
+Kerala,SR,2013,5,57.18,27.16,30
+Kerala,SR,2013,6,49.0,24.56,27
+Kerala,SR,2013,7,51.44,24.44,30
+Kerala,SR,2013,8,53.79,24.76,28
+Kerala,SR,2013,9,55.14,24.86,27
+Kerala,SR,2013,10,56.69,25.3,30
+Kerala,SR,2013,11,57.82,25.79,30
+Kerala,SR,2013,12,56.69,25.24,31
+Kerala,SR,2014,1,59.26,26.18,24
+Kerala,SR,2014,2,61.35,26.78,28
+Kerala,SR,2014,3,65.19,28.41,31
+Kerala,SR,2014,4,63.73,28.03,28
+Kerala,SR,2014,5,61.66,27.13,31
+Kerala,SR,2014,6,57.51,26.12,30
+Kerala,SR,2014,7,55.9,25.08,31
+Kerala,SR,2014,8,55.27,25.06,31
+Kerala,SR,2014,9,57.96,25.43,30
+Kerala,SR,2014,10,58.36,25.76,31
+Kerala,SR,2014,11,59.12,25.7,30
+Kerala,SR,2014,12,59.06,25.73,30
+Kerala,SR,2015,1,58.99,25.99,31
+Kerala,SR,2015,2,62.25,26.98,28
+Kerala,SR,2015,3,65.09,27.73,30
+Kerala,SR,2015,4,62.12,27.02,28
+Kerala,SR,2015,5,62.64,26.81,30
+Kerala,SR,2015,6,58.13,25.63,27
+Kerala,SR,2015,7,59.28,25.44,28
+Kerala,SR,2015,8,60.77,25.71,31
+Kerala,SR,2015,9,60.95,25.79,27
+Kerala,SR,2015,10,61.22,26.15,30
+Kerala,SR,2015,11,59.99,25.78,30
+Kerala,SR,2015,12,61.36,26.1,31
+Kerala,SR,2016,1,61.67,26.54,31
+Kerala,SR,2016,2,66.47,27.69,28
+Kerala,SR,2016,3,72.88,29.01,28
+Kerala,SR,2016,4,75.97,29.37,29
+Kerala,SR,2016,5,69.26,27.55,30
+Kerala,SR,2016,6,59.5,25.25,27
+Kerala,SR,2016,7,59.9,25.07,29
+Kerala,SR,2016,8,63.36,25.27,31
+Kerala,SR,2016,9,62.79,25.03,30
+Kerala,SR,2016,10,64.41,25.49,30
+Kerala,SR,2016,11,64.47,25.83,27
+Kerala,SR,2016,12,62.97,25.51,30
+Kerala,SR,2017,1,63.88,25.89,29
+Kerala,SR,2017,2,67.43,26.67,17
+Kerala,SR,2017,3,69.94,27.24,21
+Kerala,SR,2017,4,74.26,27.9,28
+Kerala,SR,2017,5,70.32,27.12,30
+Kerala,SR,2017,6,62.49,25.38,29
+Kerala,SR,2017,7,62.58,25.41,30
+Kerala,SR,2017,8,64.81,25.22,31
+Kerala,SR,2017,9,64.1,25.61,30
+Kerala,SR,2017,10,64.75,25.66,31
+Kerala,SR,2017,11,65.37,25.91,28
+Kerala,SR,2017,12,64.52,25.49,31
+Kerala,SR,2018,1,65.7,25.51,31
+Kerala,SR,2018,2,69.51,26.77,28
+Kerala,SR,2018,3,74.83,27.83,31
+Kerala,SR,2018,4,75.51,27.91,30
+Kerala,SR,2018,5,70.04,26.4,31
+Kerala,SR,2018,6,63.99,25.09,30
+Kerala,SR,2018,7,61.59,24.75,31
+Kerala,SR,2018,8,59.52,24.56,26
+Kerala,SR,2018,9,67.98,25.78,30
+Kerala,SR,2018,10,67.9,25.92,31
+Kerala,SR,2018,11,69.59,26.03,29
+Kerala,SR,2018,12,69.76,26.0,31
+Kerala,SR,2019,1,64.9,25.16,31
+Kerala,SR,2019,2,73.3,27.3,26
+Kerala,SR,2019,3,80.47,28.25,31
+Kerala,SR,2019,4,81.41,28.37,30
+Kerala,SR,2019,5,83.01,27.84,31
+Kerala,SR,2019,6,73.12,26.46,29
+Kerala,SR,2019,7,67.72,25.43,31
+Kerala,SR,2019,8,61.63,24.91,31
+Kerala,SR,2019,9,66.57,25.57,30
+Kerala,SR,2019,10,66.48,25.55,30
+Kerala,SR,2019,11,69.83,26.53,30
+Kerala,SR,2019,12,69.95,26.31,31
+Kerala,SR,2020,1,72.26,26.88,31
+Kerala,SR,2020,2,75.6,27.58,29
+Kerala,SR,2020,3,76.84,28.32,31
+Kerala,SR,2020,4,68.62,28.44,29
+Kerala,SR,2020,5,70.82,27.51,30
+Kerala,SR,2020,6,64.15,25.63,28
+Kerala,SR,2020,7,62.37,25.34,30
+Kerala,SR,2020,8,61.42,25.47,18
+Kerala,SR,2020,9,65.29,25.26,14
+Kerala,SR,2020,10,67.02,25.55,22
+Kerala,SR,2020,11,71.13,26.27,26
+Kerala,SR,2020,12,70.19,25.77,28
+Kerala,SR,2021,1,70.25,25.72,31
+Kerala,SR,2021,2,75.28,26.72,27
+Kerala,SR,2021,3,82.83,27.98,30
+Kerala,SR,2021,4,81.22,27.33,27
+Kerala,SR,2021,5,66.33,26.48,30
+Kerala,SR,2021,6,66.78,25.64,27
+Kerala,SR,2021,7,67.31,25.23,30
+Kerala,SR,2021,8,68.29,24.92,31
+Kerala,SR,2021,9,72.23,25.35,28
+Kerala,SR,2021,10,71.41,25.44,30
+Kerala,SR,2021,11,70.66,25.21,30
+Kerala,SR,2021,12,73.6,26.07,31
+Kerala,SR,2022,1,74.83,26.41,31
+Kerala,SR,2022,2,79.39,27.1,28
+Kerala,SR,2022,3,84.43,27.69,31
+Kerala,SR,2022,4,82.09,27.06,29
+Kerala,SR,2022,5,76.09,25.74,31
+Kerala,SR,2022,6,74.99,25.43,29
+Kerala,SR,2022,7,68.25,24.78,31
+Kerala,SR,2022,8,70.96,24.89,31
+Kerala,SR,2022,9,73.69,25.33,30
+Kerala,SR,2022,10,75.08,25.34,31
+Kerala,SR,2022,11,74.44,25.27,29
+Kerala,SR,2022,12,74.27,25.44,30
+Kerala,SR,2023,1,74.41,25.31,31
+Kerala,SR,2023,2,79.76,26.43,28
+Kerala,SR,2023,3,87.39,27.59,30
+Kerala,SR,2023,4,92.37,28.11,30
+Kerala,SR,2023,5,91.81,27.57,31
+Kerala,SR,2023,6,81.31,26.05,30
+Kerala,SR,2023,7,74.45,25.23,31
+Kerala,SR,2023,8,83.37,26.15,31
+Kerala,SR,2023,9,78.51,25.34,30
+Kerala,SR,2023,10,79.58,26.03,31
+Kerala,SR,2023,11,80.53,26.48,30
+Kerala,SR,2023,12,82.15,26.5,31
+Kerala,SR,2024,1,82.05,26.3,31
+Kerala,SR,2024,2,89.22,27.65,29
+Kerala,SR,2024,3,98.66,28.37,31
+Kerala,SR,2024,4,105.89,29.05,28
+Madhya Pradesh,WR,2013,1,169.31,14.68,7
+Madhya Pradesh,WR,2013,3,133.0,27.3,1
+Madhya Pradesh,WR,2013,4,136.09,30.06,30
+Madhya Pradesh,WR,2013,5,141.22,34.59,30
+Madhya Pradesh,WR,2013,6,111.14,28.76,27
+Madhya Pradesh,WR,2013,7,109.48,26.24,30
+Madhya Pradesh,WR,2013,8,110.83,25.72,28
+Madhya Pradesh,WR,2013,9,137.43,27.42,27
+Madhya Pradesh,WR,2013,10,134.93,25.05,30
+Madhya Pradesh,WR,2013,11,186.37,20.67,30
+Madhya Pradesh,WR,2013,12,196.42,18.01,31
+Madhya Pradesh,WR,2014,1,151.4,16.8,24
+Madhya Pradesh,WR,2014,2,157.69,19.08,28
+Madhya Pradesh,WR,2014,3,134.23,24.44,31
+Madhya Pradesh,WR,2014,4,149.38,30.03,28
+Madhya Pradesh,WR,2014,5,147.68,32.83,31
+Madhya Pradesh,WR,2014,6,143.2,33.25,30
+Madhya Pradesh,WR,2014,7,130.94,28.39,31
+Madhya Pradesh,WR,2014,8,135.14,27.23,31
+Madhya Pradesh,WR,2014,9,147.93,26.85,30
+Madhya Pradesh,WR,2014,10,174.09,26.03,31
+Madhya Pradesh,WR,2014,11,202.09,22.69,30
+Madhya Pradesh,WR,2014,12,187.07,17.06,30
+Madhya Pradesh,WR,2015,1,156.45,15.72,31
+Madhya Pradesh,WR,2015,2,174.0,21.48,28
+Madhya Pradesh,WR,2015,3,134.0,24.08,30
+Madhya Pradesh,WR,2015,4,142.33,29.68,29
+Madhya Pradesh,WR,2015,5,153.65,34.54,30
+Madhya Pradesh,WR,2015,6,131.84,30.65,27
+Madhya Pradesh,WR,2015,7,135.5,27.57,28
+Madhya Pradesh,WR,2015,8,141.45,27.05,31
+Madhya Pradesh,WR,2015,9,173.67,27.94,27
+Madhya Pradesh,WR,2015,10,206.46,27.25,30
+Madhya Pradesh,WR,2015,11,211.74,23.65,30
+Madhya Pradesh,WR,2015,12,217.9,18.41,31
+Madhya Pradesh,WR,2016,1,200.92,18.43,31
+Madhya Pradesh,WR,2016,2,198.56,21.79,28
+Madhya Pradesh,WR,2016,3,172.41,26.9,28
+Madhya Pradesh,WR,2016,4,178.22,32.48,29
+Madhya Pradesh,WR,2016,5,162.05,34.04,30
+Madhya Pradesh,WR,2016,6,153.58,32.88,27
+Madhya Pradesh,WR,2016,7,131.24,27.07,29
+Madhya Pradesh,WR,2016,8,127.41,26.15,31
+Madhya Pradesh,WR,2016,9,156.1,27.24,30
+Madhya Pradesh,WR,2016,10,168.36,25.61,30
+Madhya Pradesh,WR,2016,11,213.74,21.13,27
+Madhya Pradesh,WR,2016,12,218.32,18.17,30
+Madhya Pradesh,WR,2017,1,205.89,17.54,29
+Madhya Pradesh,WR,2017,2,201.45,21.32,17
+Madhya Pradesh,WR,2017,3,179.25,25.83,21
+Madhya Pradesh,WR,2017,4,180.44,32.04,28
+Madhya Pradesh,WR,2017,5,176.08,34.4,30
+Madhya Pradesh,WR,2017,6,154.66,31.34,29
+Madhya Pradesh,WR,2017,7,146.25,26.92,30
+Madhya Pradesh,WR,2017,8,163.13,27.09,31
+Madhya Pradesh,WR,2017,9,170.76,27.54,30
+Madhya Pradesh,WR,2017,10,206.02,26.82,31
+Madhya Pradesh,WR,2017,11,235.96,21.71,28
+Madhya Pradesh,WR,2017,12,228.01,18.45,31
+Madhya Pradesh,WR,2018,1,220.89,17.84,31
+Madhya Pradesh,WR,2018,2,195.37,21.92,28
+Madhya Pradesh,WR,2018,3,181.8,27.29,31
+Madhya Pradesh,WR,2018,4,183.45,31.65,30
+Madhya Pradesh,WR,2018,5,192.66,35.12,31
+Madhya Pradesh,WR,2018,6,171.61,31.7,30
+Madhya Pradesh,WR,2018,7,162.21,27.12,31
+Madhya Pradesh,WR,2018,8,173.57,26.44,26
+Madhya Pradesh,WR,2018,9,181.67,26.28,30
+Madhya Pradesh,WR,2018,10,240.36,26.25,31
+Madhya Pradesh,WR,2018,11,263.59,22.39,29
+Madhya Pradesh,WR,2018,12,254.93,16.92,31
+Madhya Pradesh,WR,2019,1,246.92,16.57,31
+Madhya Pradesh,WR,2019,2,226.09,20.29,26
+Madhya Pradesh,WR,2019,3,209.14,25.16,31
+Madhya Pradesh,WR,2019,4,205.63,31.85,30
+Madhya Pradesh,WR,2019,5,216.77,34.38,31
+Madhya Pradesh,WR,2019,6,205.12,33.32,29
+Madhya Pradesh,WR,2019,7,188.28,28.13,31
+Madhya Pradesh,WR,2019,8,176.98,26.39,31
+Madhya Pradesh,WR,2019,9,172.44,26.32,30
+Madhya Pradesh,WR,2019,10,171.59,25.14,30
+Madhya Pradesh,WR,2019,11,222.13,22.61,30
+Madhya Pradesh,WR,2019,12,242.26,17.03,31
+Madhya Pradesh,WR,2020,1,240.69,16.44,31
+Madhya Pradesh,WR,2020,2,263.47,19.67,29
+Madhya Pradesh,WR,2020,3,194.27,24.12,31
+Madhya Pradesh,WR,2020,4,177.28,30.43,29
+Madhya Pradesh,WR,2020,5,200.01,33.49,30
+Madhya Pradesh,WR,2020,6,175.03,29.31,28
+Madhya Pradesh,WR,2020,7,210.87,28.53,30
+Madhya Pradesh,WR,2020,8,185.94,26.62,18
+Madhya Pradesh,WR,2020,9,213.25,28.08,14
+Madhya Pradesh,WR,2020,10,237.13,26.64,22
+Madhya Pradesh,WR,2020,11,274.66,21.48,26
+Madhya Pradesh,WR,2020,12,276.22,17.74,28
+Madhya Pradesh,WR,2021,1,282.88,18.09,31
+Madhya Pradesh,WR,2021,2,267.1,21.22,27
+Madhya Pradesh,WR,2021,3,230.45,26.77,30
+Madhya Pradesh,WR,2021,4,231.94,30.92,27
+Madhya Pradesh,WR,2021,5,206.88,31.09,30
+Madhya Pradesh,WR,2021,6,195.27,29.28,27
+Madhya Pradesh,WR,2021,7,216.81,28.23,30
+Madhya Pradesh,WR,2021,8,207.48,26.73,31
+Madhya Pradesh,WR,2021,9,211.51,26.79,28
+Madhya Pradesh,WR,2021,10,216.65,25.69,30
+Madhya Pradesh,WR,2021,11,262.48,21.38,30
+Madhya Pradesh,WR,2021,12,282.95,17.59,31
+Madhya Pradesh,WR,2022,1,245.32,15.85,31
+Madhya Pradesh,WR,2022,2,294.41,19.96,28
+Madhya Pradesh,WR,2022,3,265.79,27.14,31
+Madhya Pradesh,WR,2022,4,268.66,32.82,29
+Madhya Pradesh,WR,2022,5,261.34,33.87,31
+Madhya Pradesh,WR,2022,6,233.74,31.88,29
+Madhya Pradesh,WR,2022,7,212.75,27.36,31
+Madhya Pradesh,WR,2022,8,209.66,26.7,31
+Madhya Pradesh,WR,2022,9,218.66,26.93,30
+Madhya Pradesh,WR,2022,10,208.11,24.97,31
+Madhya Pradesh,WR,2022,11,293.63,21.21,29
+Madhya Pradesh,WR,2022,12,314.8,18.84,30
+Madhya Pradesh,WR,2023,1,308.66,16.75,31
+Madhya Pradesh,WR,2023,2,300.05,21.5,28
+Madhya Pradesh,WR,2023,3,234.3,24.86,30
+Madhya Pradesh,WR,2023,4,239.21,28.81,30
+Madhya Pradesh,WR,2023,5,239.3,31.18,31
+Madhya Pradesh,WR,2023,6,241.12,31.36,30
+Madhya Pradesh,WR,2023,7,235.75,27.95,31
+Madhya Pradesh,WR,2023,8,252.77,26.85,31
+Madhya Pradesh,WR,2023,9,251.36,27.21,30
+Madhya Pradesh,WR,2023,10,289.55,26.01,31
+Madhya Pradesh,WR,2023,11,312.19,22.3,30
+Madhya Pradesh,WR,2023,12,282.99,18.53,31
+Madhya Pradesh,WR,2024,1,307.89,17.0,31
+Madhya Pradesh,WR,2024,2,296.24,20.82,29
+Madhya Pradesh,WR,2024,3,252.02,25.69,31
+Madhya Pradesh,WR,2024,4,265.15,30.01,28
+Maharashtra,WR,2013,1,360.37,22.2,7
+Maharashtra,WR,2013,3,337.8,30.23,1
+Maharashtra,WR,2013,4,364.43,31.1,30
+Maharashtra,WR,2013,5,368.19,33.35,30
+Maharashtra,WR,2013,6,311.3,26.86,27
+Maharashtra,WR,2013,7,303.38,25.03,30
+Maharashtra,WR,2013,8,308.86,25.11,28
+Maharashtra,WR,2013,9,332.35,26.03,27
+Maharashtra,WR,2013,10,344.93,25.67,30
+Maharashtra,WR,2013,11,354.85,23.49,30
+Maharashtra,WR,2013,12,354.54,21.15,31
+Maharashtra,WR,2014,1,360.78,22.36,24
+Maharashtra,WR,2014,2,369.32,23.27,28
+Maharashtra,WR,2014,3,361.37,26.69,31
+Maharashtra,WR,2014,4,405.67,30.75,28
+Maharashtra,WR,2014,5,403.13,31.98,31
+Maharashtra,WR,2014,6,398.85,30.89,30
+Maharashtra,WR,2014,7,363.21,26.6,31
+Maharashtra,WR,2014,8,348.61,26.17,31
+Maharashtra,WR,2014,9,367.23,26.1,30
+Maharashtra,WR,2014,10,405.84,26.63,31
+Maharashtra,WR,2014,11,390.06,24.65,30
+Maharashtra,WR,2014,12,373.6,21.15,30
+Maharashtra,WR,2015,1,354.57,20.89,31
+Maharashtra,WR,2015,2,381.31,24.62,28
+Maharashtra,WR,2015,3,374.43,26.82,30
+Maharashtra,WR,2015,4,405.53,29.92,29
+Maharashtra,WR,2015,5,419.08,33.02,30
+Maharashtra,WR,2015,6,371.36,28.33,27
+Maharashtra,WR,2015,7,392.16,27.69,28
+Maharashtra,WR,2015,8,379.95,26.5,31
+Maharashtra,WR,2015,9,381.51,26.83,27
+Maharashtra,WR,2015,10,429.17,27.54,30
+Maharashtra,WR,2015,11,402.11,25.56,30
+Maharashtra,WR,2015,12,386.38,23.23,31
+Maharashtra,WR,2016,1,370.11,22.33,31
+Maharashtra,WR,2016,2,391.04,26.0,28
+Maharashtra,WR,2016,3,411.39,29.16,28
+Maharashtra,WR,2016,4,431.8,32.77,29
+Maharashtra,WR,2016,5,426.51,33.03,30
+Maharashtra,WR,2016,6,397.71,29.98,27
+Maharashtra,WR,2016,7,343.23,25.97,29
+Maharashtra,WR,2016,8,364.67,26.14,31
+Maharashtra,WR,2016,9,379.17,25.82,30
+Maharashtra,WR,2016,10,392.64,25.41,30
+Maharashtra,WR,2016,11,416.98,22.81,27
+Maharashtra,WR,2016,12,409.2,21.69,30
+Maharashtra,WR,2017,1,408.74,21.81,29
+Maharashtra,WR,2017,2,438.43,25.38,17
+Maharashtra,WR,2017,3,457.6,28.07,21
+Maharashtra,WR,2017,4,484.79,31.96,28
+Maharashtra,WR,2017,5,470.35,33.49,30
+Maharashtra,WR,2017,6,406.01,28.7,29
+Maharashtra,WR,2017,7,387.68,26.61,30
+Maharashtra,WR,2017,8,402.53,26.32,31
+Maharashtra,WR,2017,9,392.01,26.81,30
+Maharashtra,WR,2017,10,396.84,26.42,31
+Maharashtra,WR,2017,11,425.55,23.9,28
+Maharashtra,WR,2017,12,407.78,22.12,31
+Maharashtra,WR,2018,1,414.44,22.15,31
+Maharashtra,WR,2018,2,424.31,24.85,28
+Maharashtra,WR,2018,3,457.69,28.86,31
+Maharashtra,WR,2018,4,489.86,31.75,30
+Maharashtra,WR,2018,5,503.41,33.72,31
+Maharashtra,WR,2018,6,435.02,28.75,30
+Maharashtra,WR,2018,7,397.39,25.86,31
+Maharashtra,WR,2018,8,419.48,25.71,26
+Maharashtra,WR,2018,9,463.29,26.48,30
+Maharashtra,WR,2018,10,499.17,27.23,31
+Maharashtra,WR,2018,11,447.87,25.13,29
+Maharashtra,WR,2018,12,415.89,21.36,31
+Maharashtra,WR,2019,1,405.82,20.94,31
+Maharashtra,WR,2019,2,417.33,24.45,26
+Maharashtra,WR,2019,3,452.13,28.56,31
+Maharashtra,WR,2019,4,490.61,32.57,30
+Maharashtra,WR,2019,5,497.65,33.81,31
+Maharashtra,WR,2019,6,462.04,31.03,29
+Maharashtra,WR,2019,7,406.16,26.88,31
+Maharashtra,WR,2019,8,394.14,25.94,31
+Maharashtra,WR,2019,9,391.03,25.79,30
+Maharashtra,WR,2019,10,392.98,25.67,30
+Maharashtra,WR,2019,11,411.08,24.45,30
+Maharashtra,WR,2019,12,438.09,22.59,31
+Maharashtra,WR,2020,1,437.77,21.71,31
+Maharashtra,WR,2020,2,473.79,24.3,29
+Maharashtra,WR,2020,3,440.4,27.16,31
+Maharashtra,WR,2020,4,391.31,31.57,29
+Maharashtra,WR,2020,5,428.94,33.21,30
+Maharashtra,WR,2020,6,369.72,27.89,28
+Maharashtra,WR,2020,7,369.86,26.96,30
+Maharashtra,WR,2020,8,350.54,25.61,18
+Maharashtra,WR,2020,9,403.42,26.94,14
+Maharashtra,WR,2020,10,414.62,26.34,22
+Maharashtra,WR,2020,11,437.82,24.35,26
+Maharashtra,WR,2020,12,454.13,22.22,28
+Maharashtra,WR,2021,1,465.39,23.69,31
+Maharashtra,WR,2021,2,478.46,24.17,27
+Maharashtra,WR,2021,3,528.2,28.56,30
+Maharashtra,WR,2021,4,537.08,31.01,27
+Maharashtra,WR,2021,5,479.4,30.99,30
+Maharashtra,WR,2021,6,437.09,27.39,27
+Maharashtra,WR,2021,7,436.12,26.71,30
+Maharashtra,WR,2021,8,474.73,26.22,31
+Maharashtra,WR,2021,9,436.2,25.87,28
+Maharashtra,WR,2021,10,461.39,25.93,30
+Maharashtra,WR,2021,11,486.43,24.89,30
+Maharashtra,WR,2021,12,469.78,21.7,31
+Maharashtra,WR,2022,1,484.94,20.77,31
+Maharashtra,WR,2022,2,527.84,23.83,28
+Maharashtra,WR,2022,3,577.15,29.05,31
+Maharashtra,WR,2022,4,606.89,32.42,29
+Maharashtra,WR,2022,5,585.38,32.56,31
+Maharashtra,WR,2022,6,532.96,29.41,29
+Maharashtra,WR,2022,7,447.64,25.59,31
+Maharashtra,WR,2022,8,465.39,26.12,31
+Maharashtra,WR,2022,9,460.02,26.01,30
+Maharashtra,WR,2022,10,449.84,25.16,31
+Maharashtra,WR,2022,11,516.4,23.14,29
+Maharashtra,WR,2022,12,542.98,23.32,30
+Maharashtra,WR,2023,1,539.24,22.11,31
+Maharashtra,WR,2023,2,561.69,24.78,28
+Maharashtra,WR,2023,3,554.57,26.6,30
+Maharashtra,WR,2023,4,561.47,29.58,30
+Maharashtra,WR,2023,5,569.34,31.53,31
+Maharashtra,WR,2023,6,583.73,30.65,30
+Maharashtra,WR,2023,7,493.85,26.2,31
+Maharashtra,WR,2023,8,536.5,26.43,31
+Maharashtra,WR,2023,9,523.91,26.24,30
+Maharashtra,WR,2023,10,580.57,26.7,31
+Maharashtra,WR,2023,11,556.95,24.91,30
+Maharashtra,WR,2023,12,525.7,22.32,31
+Maharashtra,WR,2024,1,563.41,22.69,31
+Maharashtra,WR,2024,2,592.48,25.36,29
+Maharashtra,WR,2024,3,606.3,28.67,31
+Maharashtra,WR,2024,4,615.67,31.3,28
+Manipur,NER,2013,1,1.59,12.58,7
+Manipur,NER,2013,3,0.8,21.33,1
+Manipur,NER,2013,4,1.12,21.63,30
+Manipur,NER,2013,5,1.41,22.12,30
+Manipur,NER,2013,6,1.41,24.62,27
+Manipur,NER,2013,7,1.47,24.0,30
+Manipur,NER,2013,8,1.4,23.78,28
+Manipur,NER,2013,9,1.44,23.18,27
+Manipur,NER,2013,10,1.37,20.91,30
+Manipur,NER,2013,11,1.46,17.47,30
+Manipur,NER,2013,12,1.54,13.38,31
+Manipur,NER,2014,1,1.56,14.19,24
+Manipur,NER,2014,2,1.56,15.19,28
+Manipur,NER,2014,3,1.51,19.35,31
+Manipur,NER,2014,4,1.53,22.49,29
+Manipur,NER,2014,5,1.47,23.15,31
+Manipur,NER,2014,6,1.5,24.27,30
+Manipur,NER,2014,7,1.59,24.38,31
+Manipur,NER,2014,8,1.83,23.73,31
+Manipur,NER,2014,9,1.99,23.25,30
+Manipur,NER,2014,10,2.1,21.36,31
+Manipur,NER,2014,11,2.24,18.46,30
+Manipur,NER,2014,12,2.08,14.95,30
+Manipur,NER,2015,1,2.1,14.4,31
+Manipur,NER,2015,2,1.94,15.73,28
+Manipur,NER,2015,3,1.84,19.74,30
+Manipur,NER,2015,4,1.74,20.77,29
+Manipur,NER,2015,5,1.95,23.09,30
+Manipur,NER,2015,6,1.9,23.72,27
+Manipur,NER,2015,7,1.9,23.25,28
+Manipur,NER,2015,8,2.1,23.64,31
+Manipur,NER,2015,9,2.11,23.75,27
+Manipur,NER,2015,10,2.22,21.47,30
+Manipur,NER,2015,11,2.37,17.61,30
+Manipur,NER,2015,12,2.41,13.73,31
+Manipur,NER,2016,1,2.5,12.77,31
+Manipur,NER,2016,2,2.36,16.51,28
+Manipur,NER,2016,3,2.25,19.82,28
+Manipur,NER,2016,4,1.68,22.42,29
+Manipur,NER,2016,5,1.78,22.42,30
+Manipur,NER,2016,6,1.95,24.02,27
+Manipur,NER,2016,7,1.91,23.54,29
+Manipur,NER,2016,8,1.84,24.43,31
+Manipur,NER,2016,9,1.92,23.82,30
+Manipur,NER,2016,10,1.99,22.51,30
+Manipur,NER,2016,11,2.03,17.93,27
+Manipur,NER,2016,12,2.24,15.59,30
+Manipur,NER,2017,1,2.28,14.21,29
+Manipur,NER,2017,2,2.09,16.67,17
+Manipur,NER,2017,3,2.13,18.38,21
+Manipur,NER,2017,4,2.28,20.97,28
+Manipur,NER,2017,5,2.32,23.2,30
+Manipur,NER,2017,6,2.06,23.94,29
+Manipur,NER,2017,7,1.97,24.06,30
+Manipur,NER,2017,8,2.11,24.1,31
+Manipur,NER,2017,9,2.16,23.9,30
+Manipur,NER,2017,10,2.15,22.1,31
+Manipur,NER,2017,11,2.29,18.63,28
+Manipur,NER,2017,12,2.56,15.06,31
+Manipur,NER,2018,1,2.7,13.18,31
+Manipur,NER,2018,2,2.52,16.17,28
+Manipur,NER,2018,3,2.21,19.54,31
+Manipur,NER,2018,4,2.11,20.76,30
+Manipur,NER,2018,5,2.12,21.64,31
+Manipur,NER,2018,6,2.17,23.86,30
+Manipur,NER,2018,7,2.32,24.43,31
+Manipur,NER,2018,8,2.28,24.17,26
+Manipur,NER,2018,9,2.25,23.9,30
+Manipur,NER,2018,10,2.31,20.64,31
+Manipur,NER,2018,11,2.46,17.02,29
+Manipur,NER,2018,12,2.64,14.54,31
+Manipur,NER,2019,1,2.8,13.67,31
+Manipur,NER,2019,2,2.67,16.0,26
+Manipur,NER,2019,3,2.44,18.68,31
+Manipur,NER,2019,4,2.3,21.79,30
+Manipur,NER,2019,5,2.42,23.88,31
+Manipur,NER,2019,6,2.51,24.5,29
+Manipur,NER,2019,7,2.48,24.18,31
+Manipur,NER,2019,8,2.5,24.9,31
+Manipur,NER,2019,9,2.43,23.53,30
+Manipur,NER,2019,10,2.45,21.9,30
+Manipur,NER,2019,11,2.47,18.84,30
+Manipur,NER,2019,12,2.54,13.74,31
+Manipur,NER,2020,1,2.66,13.15,31
+Manipur,NER,2020,2,2.63,15.0,29
+Manipur,NER,2020,3,2.59,18.91,31
+Manipur,NER,2020,4,2.21,20.86,29
+Manipur,NER,2020,5,2.33,22.56,30
+Manipur,NER,2020,6,2.54,23.89,28
+Manipur,NER,2020,7,2.64,24.03,30
+Manipur,NER,2020,8,2.63,24.41,18
+Manipur,NER,2020,9,2.57,23.96,14
+Manipur,NER,2020,10,2.69,23.01,22
+Manipur,NER,2020,11,2.7,18.32,26
+Manipur,NER,2020,12,3.06,14.21,28
+Manipur,NER,2021,1,2.92,14.08,31
+Manipur,NER,2021,2,2.67,16.6,27
+Manipur,NER,2021,3,2.48,20.53,30
+Manipur,NER,2021,4,2.47,23.37,27
+Manipur,NER,2021,5,2.46,23.28,30
+Manipur,NER,2021,6,2.61,24.09,27
+Manipur,NER,2021,7,2.59,24.32,30
+Manipur,NER,2021,8,2.66,23.92,31
+Manipur,NER,2021,9,2.63,23.89,28
+Manipur,NER,2021,10,2.6,22.94,30
+Manipur,NER,2021,11,2.68,18.43,30
+Manipur,NER,2021,12,3.17,14.96,31
+Manipur,NER,2022,1,3.45,13.45,31
+Manipur,NER,2022,2,3.37,13.94,28
+Manipur,NER,2022,3,2.69,20.99,31
+Manipur,NER,2022,4,2.5,22.76,29
+Manipur,NER,2022,5,2.45,22.59,31
+Manipur,NER,2022,6,2.58,23.54,29
+Manipur,NER,2022,7,2.68,24.76,31
+Manipur,NER,2022,8,2.69,24.57,31
+Manipur,NER,2022,9,2.71,24.03,30
+Manipur,NER,2022,10,2.56,22.03,31
+Manipur,NER,2022,11,2.78,18.7,29
+Manipur,NER,2022,12,3.2,15.47,30
+Manipur,NER,2023,1,3.38,14.13,31
+Manipur,NER,2023,2,2.95,17.37,28
+Manipur,NER,2023,3,2.71,19.57,30
+Manipur,NER,2023,4,2.57,23.1,30
+Manipur,NER,2023,5,2.36,23.85,31
+Manipur,NER,2023,6,2.36,24.3,30
+Manipur,NER,2023,7,2.61,24.71,31
+Manipur,NER,2023,8,2.62,24.13,31
+Manipur,NER,2023,9,2.67,24.6,30
+Manipur,NER,2023,10,2.67,21.97,31
+Manipur,NER,2023,11,2.65,18.39,30
+Manipur,NER,2023,12,3.03,15.63,31
+Manipur,NER,2024,1,3.09,13.07,31
+Manipur,NER,2024,2,3.0,15.31,29
+Manipur,NER,2024,3,3.05,19.08,31
+Manipur,NER,2024,4,2.83,23.54,28
+Meghalaya,NER,2013,1,5.19,13.78,7
+Meghalaya,NER,2013,3,4.2,23.59,1
+Meghalaya,NER,2013,4,3.9,23.3,30
+Meghalaya,NER,2013,5,3.86,23.94,30
+Meghalaya,NER,2013,6,4.36,26.46,27
+Meghalaya,NER,2013,7,4.4,25.89,30
+Meghalaya,NER,2013,8,4.35,25.51,28
+Meghalaya,NER,2013,9,4.37,25.3,27
+Meghalaya,NER,2013,10,4.35,23.19,30
+Meghalaya,NER,2013,11,4.61,19.12,30
+Meghalaya,NER,2013,12,4.76,15.38,31
+Meghalaya,NER,2014,1,4.98,15.07,24
+Meghalaya,NER,2014,2,4.66,16.21,28
+Meghalaya,NER,2014,3,4.07,20.58,31
+Meghalaya,NER,2014,4,3.73,24.05,28
+Meghalaya,NER,2014,5,3.69,24.58,31
+Meghalaya,NER,2014,6,4.14,25.77,30
+Meghalaya,NER,2014,7,4.1,26.16,31
+Meghalaya,NER,2014,8,4.32,25.39,31
+Meghalaya,NER,2014,9,4.33,24.84,30
+Meghalaya,NER,2014,10,4.08,23.31,31
+Meghalaya,NER,2014,11,4.52,19.82,30
+Meghalaya,NER,2014,12,5.2,15.95,30
+Meghalaya,NER,2015,1,5.31,15.32,31
+Meghalaya,NER,2015,2,5.25,17.21,28
+Meghalaya,NER,2015,3,4.77,21.24,30
+Meghalaya,NER,2015,4,4.35,22.28,28
+Meghalaya,NER,2015,5,4.28,24.31,30
+Meghalaya,NER,2015,6,4.33,25.03,27
+Meghalaya,NER,2015,7,4.44,25.78,28
+Meghalaya,NER,2015,8,4.46,25.44,31
+Meghalaya,NER,2015,9,5.14,25.58,27
+Meghalaya,NER,2015,10,4.35,23.7,30
+Meghalaya,NER,2015,11,4.82,19.77,30
+Meghalaya,NER,2015,12,5.06,15.35,31
+Meghalaya,NER,2016,1,5.36,14.02,31
+Meghalaya,NER,2016,2,5.38,18.15,28
+Meghalaya,NER,2016,3,4.6,21.58,28
+Meghalaya,NER,2016,4,3.97,23.87,29
+Meghalaya,NER,2016,5,4.2,23.79,30
+Meghalaya,NER,2016,6,4.84,26.05,27
+Meghalaya,NER,2016,7,4.69,25.34,29
+Meghalaya,NER,2016,8,4.52,26.69,31
+Meghalaya,NER,2016,9,4.73,25.59,30
+Meghalaya,NER,2016,10,4.81,24.42,30
+Meghalaya,NER,2016,11,4.59,20.04,27
+Meghalaya,NER,2016,12,4.69,17.34,30
+Meghalaya,NER,2017,1,4.99,15.62,29
+Meghalaya,NER,2017,2,5.55,17.95,17
+Meghalaya,NER,2017,3,4.85,19.83,21
+Meghalaya,NER,2017,4,4.36,22.54,28
+Meghalaya,NER,2017,5,4.1,24.71,30
+Meghalaya,NER,2017,6,4.29,25.72,29
+Meghalaya,NER,2017,7,4.5,25.9,30
+Meghalaya,NER,2017,8,4.8,25.96,31
+Meghalaya,NER,2017,9,4.77,25.62,30
+Meghalaya,NER,2017,10,5.17,23.88,31
+Meghalaya,NER,2017,11,5.46,20.59,28
+Meghalaya,NER,2017,12,5.97,17.53,31
+Meghalaya,NER,2018,1,6.04,14.19,31
+Meghalaya,NER,2018,2,5.54,17.69,28
+Meghalaya,NER,2018,3,5.16,21.17,31
+Meghalaya,NER,2018,4,4.72,22.32,30
+Meghalaya,NER,2018,5,4.76,23.58,31
+Meghalaya,NER,2018,6,5.3,25.87,30
+Meghalaya,NER,2018,7,5.63,26.23,31
+Meghalaya,NER,2018,8,5.5,26.27,26
+Meghalaya,NER,2018,9,5.24,25.67,30
+Meghalaya,NER,2018,10,5.07,22.64,31
+Meghalaya,NER,2018,11,5.73,19.03,29
+Meghalaya,NER,2018,12,6.31,16.13,31
+Meghalaya,NER,2019,1,6.35,15.6,31
+Meghalaya,NER,2019,2,6.25,17.44,26
+Meghalaya,NER,2019,3,6.12,20.6,31
+Meghalaya,NER,2019,4,5.44,22.99,30
+Meghalaya,NER,2019,5,5.16,24.65,31
+Meghalaya,NER,2019,6,5.8,26.19,29
+Meghalaya,NER,2019,7,5.67,25.81,31
+Meghalaya,NER,2019,8,5.49,27.02,31
+Meghalaya,NER,2019,9,5.58,25.42,30
+Meghalaya,NER,2019,10,5.64,23.43,30
+Meghalaya,NER,2019,11,5.89,20.75,30
+Meghalaya,NER,2019,12,6.08,15.37,31
+Meghalaya,NER,2020,1,6.33,14.37,31
+Meghalaya,NER,2020,2,6.36,16.73,29
+Meghalaya,NER,2020,3,5.21,20.72,31
+Meghalaya,NER,2020,4,3.82,22.42,29
+Meghalaya,NER,2020,5,4.68,23.7,30
+Meghalaya,NER,2020,6,5.37,25.53,28
+Meghalaya,NER,2020,7,5.33,25.63,30
+Meghalaya,NER,2020,8,5.35,26.39,18
+Meghalaya,NER,2020,9,5.51,25.33,14
+Meghalaya,NER,2020,10,5.76,25.09,22
+Meghalaya,NER,2020,11,5.88,20.34,26
+Meghalaya,NER,2020,12,6.59,15.77,28
+Meghalaya,NER,2021,1,6.8,14.94,31
+Meghalaya,NER,2021,2,6.33,18.01,27
+Meghalaya,NER,2021,3,5.54,21.86,30
+Meghalaya,NER,2021,4,4.99,23.95,27
+Meghalaya,NER,2021,5,5.35,24.24,30
+Meghalaya,NER,2021,6,5.56,25.49,27
+Meghalaya,NER,2021,7,5.64,26.01,30
+Meghalaya,NER,2021,8,5.85,25.75,31
+Meghalaya,NER,2021,9,5.55,26.18,28
+Meghalaya,NER,2021,10,5.86,24.62,30
+Meghalaya,NER,2021,11,6.56,19.63,30
+Meghalaya,NER,2021,12,7.19,16.67,31
+Meghalaya,NER,2022,1,7.25,14.85,31
+Meghalaya,NER,2022,2,7.26,15.47,28
+Meghalaya,NER,2022,3,6.5,22.74,31
+Meghalaya,NER,2022,4,5.6,23.48,29
+Meghalaya,NER,2022,5,5.51,24.3,31
+Meghalaya,NER,2022,6,5.28,24.83,29
+Meghalaya,NER,2022,7,5.77,26.68,31
+Meghalaya,NER,2022,8,6.02,26.77,31
+Meghalaya,NER,2022,9,5.95,25.72,30
+Meghalaya,NER,2022,10,6.09,23.75,31
+Meghalaya,NER,2022,11,6.63,20.41,29
+Meghalaya,NER,2022,12,7.0,17.0,30
+Meghalaya,NER,2023,1,7.2,15.18,31
+Meghalaya,NER,2023,2,6.85,18.4,28
+Meghalaya,NER,2023,3,6.28,21.18,30
+Meghalaya,NER,2023,4,5.12,24.17,30
+Meghalaya,NER,2023,5,5.0,24.94,31
+Meghalaya,NER,2023,6,4.82,25.56,30
+Meghalaya,NER,2023,7,5.24,26.51,31
+Meghalaya,NER,2023,8,5.35,26.09,31
+Meghalaya,NER,2023,9,5.52,26.66,30
+Meghalaya,NER,2023,10,5.69,23.8,31
+Meghalaya,NER,2023,11,6.23,20.76,30
+Meghalaya,NER,2023,12,6.42,17.49,31
+Meghalaya,NER,2024,1,6.41,14.27,31
+Meghalaya,NER,2024,2,6.53,17.02,29
+Meghalaya,NER,2024,3,6.0,20.68,31
+Meghalaya,NER,2024,4,5.58,24.99,28
+Mizoram,NER,2013,1,1.17,14.34,7
+Mizoram,NER,2013,3,1.1,24.33,1
+Mizoram,NER,2013,4,1.0,24.7,30
+Mizoram,NER,2013,5,0.96,24.11,30
+Mizoram,NER,2013,6,0.98,25.93,27
+Mizoram,NER,2013,7,0.99,25.39,30
+Mizoram,NER,2013,8,1.0,24.88,28
+Mizoram,NER,2013,9,1.02,24.64,27
+Mizoram,NER,2013,10,1.07,23.03,30
+Mizoram,NER,2013,11,1.18,20.1,30
+Mizoram,NER,2013,12,1.19,16.0,31
+Mizoram,NER,2014,1,1.16,16.15,24
+Mizoram,NER,2014,2,1.11,17.69,28
+Mizoram,NER,2014,3,1.05,22.01,31
+Mizoram,NER,2014,4,1.04,26.0,29
+Mizoram,NER,2014,5,1.03,25.68,31
+Mizoram,NER,2014,6,1.07,25.43,30
+Mizoram,NER,2014,7,1.1,25.78,31
+Mizoram,NER,2014,8,1.1,24.87,31
+Mizoram,NER,2014,9,1.11,24.6,30
+Mizoram,NER,2014,10,1.13,23.38,31
+Mizoram,NER,2014,11,1.17,20.44,30
+Mizoram,NER,2014,12,1.22,16.73,30
+Mizoram,NER,2015,1,1.2,16.44,31
+Mizoram,NER,2015,2,1.15,17.95,28
+Mizoram,NER,2015,3,1.15,22.61,30
+Mizoram,NER,2015,4,1.03,23.7,28
+Mizoram,NER,2015,5,1.16,25.86,30
+Mizoram,NER,2015,6,1.14,25.08,27
+Mizoram,NER,2015,7,1.17,24.5,28
+Mizoram,NER,2015,8,1.18,24.93,31
+Mizoram,NER,2015,9,1.16,24.87,27
+Mizoram,NER,2015,10,1.18,23.24,30
+Mizoram,NER,2015,11,1.31,19.97,30
+Mizoram,NER,2015,12,1.35,16.01,31
+Mizoram,NER,2016,1,1.46,14.47,31
+Mizoram,NER,2016,2,1.38,19.27,28
+Mizoram,NER,2016,3,1.3,22.73,28
+Mizoram,NER,2016,4,1.23,25.21,29
+Mizoram,NER,2016,5,1.18,24.66,31
+Mizoram,NER,2016,6,1.08,25.34,27
+Mizoram,NER,2016,7,1.18,24.78,29
+Mizoram,NER,2016,8,1.2,25.31,31
+Mizoram,NER,2016,9,1.19,24.97,30
+Mizoram,NER,2016,10,1.3,24.04,30
+Mizoram,NER,2016,11,1.32,20.08,27
+Mizoram,NER,2016,12,1.46,18.04,30
+Mizoram,NER,2017,1,1.46,16.21,29
+Mizoram,NER,2017,2,1.4,18.91,17
+Mizoram,NER,2017,3,1.38,21.18,21
+Mizoram,NER,2017,4,1.34,23.9,28
+Mizoram,NER,2017,5,1.34,25.99,30
+Mizoram,NER,2017,6,1.19,25.09,29
+Mizoram,NER,2017,7,1.28,25.06,30
+Mizoram,NER,2017,8,1.24,25.11,31
+Mizoram,NER,2017,9,1.27,24.89,30
+Mizoram,NER,2017,10,1.29,23.65,31
+Mizoram,NER,2017,11,1.4,21.11,28
+Mizoram,NER,2017,12,1.62,17.68,31
+Mizoram,NER,2018,1,1.77,14.67,31
+Mizoram,NER,2018,2,1.62,18.5,28
+Mizoram,NER,2018,3,1.46,22.56,31
+Mizoram,NER,2018,4,1.43,23.96,30
+Mizoram,NER,2018,5,1.54,23.76,31
+Mizoram,NER,2018,6,1.56,25.01,30
+Mizoram,NER,2018,7,1.5,25.47,31
+Mizoram,NER,2018,8,1.47,25.43,26
+Mizoram,NER,2018,9,1.54,25.15,30
+Mizoram,NER,2018,10,1.68,22.47,31
+Mizoram,NER,2018,11,1.75,19.2,29
+Mizoram,NER,2018,12,1.67,16.94,31
+Mizoram,NER,2019,1,1.78,15.95,31
+Mizoram,NER,2019,2,1.85,18.55,26
+Mizoram,NER,2019,3,1.71,21.6,31
+Mizoram,NER,2019,4,1.73,25.31,30
+Mizoram,NER,2019,5,1.69,26.62,31
+Mizoram,NER,2019,6,1.72,26.07,29
+Mizoram,NER,2019,7,1.73,25.2,31
+Mizoram,NER,2019,8,1.7,25.88,31
+Mizoram,NER,2019,9,1.68,24.96,30
+Mizoram,NER,2019,10,1.72,23.82,30
+Mizoram,NER,2019,11,1.78,21.13,30
+Mizoram,NER,2019,12,1.78,16.16,31
+Mizoram,NER,2020,1,1.7,15.37,31
+Mizoram,NER,2020,2,1.68,16.95,29
+Mizoram,NER,2020,3,1.67,21.92,31
+Mizoram,NER,2020,4,1.49,24.07,29
+Mizoram,NER,2020,5,1.55,25.24,30
+Mizoram,NER,2020,6,1.66,25.41,28
+Mizoram,NER,2020,7,1.63,25.32,30
+Mizoram,NER,2020,8,1.57,25.59,18
+Mizoram,NER,2020,9,1.64,25.19,14
+Mizoram,NER,2020,10,1.55,24.69,22
+Mizoram,NER,2020,11,1.62,20.92,26
+Mizoram,NER,2020,12,1.66,16.18,28
+Mizoram,NER,2021,1,1.66,16.09,31
+Mizoram,NER,2021,2,1.69,18.45,27
+Mizoram,NER,2021,3,1.56,23.85,30
+Mizoram,NER,2021,4,1.63,26.46,27
+Mizoram,NER,2021,5,1.55,26.24,30
+Mizoram,NER,2021,6,1.65,25.02,27
+Mizoram,NER,2021,7,1.6,25.32,30
+Mizoram,NER,2021,8,1.58,25.13,31
+Mizoram,NER,2021,9,1.53,25.12,28
+Mizoram,NER,2021,10,1.62,24.7,30
+Mizoram,NER,2021,11,1.66,21.22,30
+Mizoram,NER,2021,12,1.8,17.67,31
+Mizoram,NER,2022,1,1.9,15.93,31
+Mizoram,NER,2022,2,1.9,16.74,28
+Mizoram,NER,2022,3,1.68,23.47,31
+Mizoram,NER,2022,4,1.73,25.97,29
+Mizoram,NER,2022,5,1.76,25.01,31
+Mizoram,NER,2022,6,1.76,25.05,29
+Mizoram,NER,2022,7,1.67,26.05,31
+Mizoram,NER,2022,8,1.74,25.89,31
+Mizoram,NER,2022,9,1.59,25.19,30
+Mizoram,NER,2022,10,1.6,24.02,31
+Mizoram,NER,2022,11,1.8,21.38,29
+Mizoram,NER,2022,12,1.92,17.71,30
+Mizoram,NER,2023,1,2.12,16.13,31
+Mizoram,NER,2023,2,1.91,19.31,28
+Mizoram,NER,2023,3,1.75,22.15,30
+Mizoram,NER,2023,4,1.81,25.87,30
+Mizoram,NER,2023,5,1.79,25.98,31
+Mizoram,NER,2023,6,1.77,25.7,30
+Mizoram,NER,2023,7,1.81,26.24,31
+Mizoram,NER,2023,8,1.86,25.05,31
+Mizoram,NER,2023,9,1.82,25.72,30
+Mizoram,NER,2023,10,1.86,23.9,31
+Mizoram,NER,2023,11,1.85,21.33,30
+Mizoram,NER,2023,12,1.99,18.46,31
+Mizoram,NER,2024,1,2.23,14.82,31
+Mizoram,NER,2024,2,2.17,18.14,29
+Mizoram,NER,2024,3,1.97,21.89,31
+Mizoram,NER,2024,4,1.87,26.8,28
+Nagaland,NER,2013,1,1.6,12.42,7
+Nagaland,NER,2013,3,1.2,19.43,1
+Nagaland,NER,2013,4,1.03,20.22,30
+Nagaland,NER,2013,5,1.4,22.0,30
+Nagaland,NER,2013,6,1.51,24.92,27
+Nagaland,NER,2013,7,1.46,24.3,30
+Nagaland,NER,2013,8,1.47,24.29,28
+Nagaland,NER,2013,9,1.55,23.45,27
+Nagaland,NER,2013,10,1.36,20.65,30
+Nagaland,NER,2013,11,1.41,16.64,30
+Nagaland,NER,2013,12,1.62,12.79,31
+Nagaland,NER,2014,1,1.57,13.48,24
+Nagaland,NER,2014,2,1.54,14.62,28
+Nagaland,NER,2014,3,1.47,18.24,31
+Nagaland,NER,2014,4,1.52,21.59,28
+Nagaland,NER,2014,5,1.46,22.63,31
+Nagaland,NER,2014,6,1.52,24.48,30
+Nagaland,NER,2014,7,1.62,24.59,31
+Nagaland,NER,2014,8,1.73,23.97,31
+Nagaland,NER,2014,9,1.82,23.29,30
+Nagaland,NER,2014,10,1.92,21.28,31
+Nagaland,NER,2014,11,2.07,17.91,30
+Nagaland,NER,2014,12,2.31,14.59,30
+Nagaland,NER,2015,1,2.06,13.97,31
+Nagaland,NER,2015,2,2.11,15.17,28
+Nagaland,NER,2015,3,2.12,19.17,30
+Nagaland,NER,2015,4,1.77,19.9,28
+Nagaland,NER,2015,5,1.9,22.46,30
+Nagaland,NER,2015,6,1.81,23.88,27
+Nagaland,NER,2015,7,1.8,24.1,28
+Nagaland,NER,2015,8,1.73,24.0,31
+Nagaland,NER,2015,9,1.6,23.95,27
+Nagaland,NER,2015,10,1.7,21.39,30
+Nagaland,NER,2015,11,1.78,17.24,30
+Nagaland,NER,2015,12,1.88,13.17,31
+Nagaland,NER,2016,1,2.05,12.21,31
+Nagaland,NER,2016,2,2.02,15.85,28
+Nagaland,NER,2016,3,1.92,18.71,28
+Nagaland,NER,2016,4,1.73,20.87,29
+Nagaland,NER,2016,5,1.75,21.66,30
+Nagaland,NER,2016,6,1.65,24.26,27
+Nagaland,NER,2016,7,1.71,23.9,29
+Nagaland,NER,2016,8,1.77,25.13,31
+Nagaland,NER,2016,9,1.83,23.85,30
+Nagaland,NER,2016,10,1.8,22.36,31
+Nagaland,NER,2016,11,1.71,17.78,27
+Nagaland,NER,2016,12,1.86,15.1,30
+Nagaland,NER,2017,1,2.07,13.81,29
+Nagaland,NER,2017,2,1.76,16.32,17
+Nagaland,NER,2017,3,1.76,17.87,21
+Nagaland,NER,2017,4,1.85,20.59,28
+Nagaland,NER,2017,5,2.13,22.38,30
+Nagaland,NER,2017,6,2.12,24.21,29
+Nagaland,NER,2017,7,2.01,24.6,30
+Nagaland,NER,2017,8,2.09,24.57,31
+Nagaland,NER,2017,9,2.07,24.13,30
+Nagaland,NER,2017,10,2.18,22.08,31
+Nagaland,NER,2017,11,2.08,18.42,28
+Nagaland,NER,2017,12,2.27,15.32,31
+Nagaland,NER,2018,1,2.03,13.36,31
+Nagaland,NER,2018,2,2.06,15.64,28
+Nagaland,NER,2018,3,2.07,18.36,31
+Nagaland,NER,2018,4,1.99,20.36,30
+Nagaland,NER,2018,5,1.93,21.7,31
+Nagaland,NER,2018,6,2.15,24.58,30
+Nagaland,NER,2018,7,2.19,24.91,31
+Nagaland,NER,2018,8,2.29,24.68,26
+Nagaland,NER,2018,9,2.28,24.03,30
+Nagaland,NER,2018,10,2.24,20.51,31
+Nagaland,NER,2018,11,2.17,16.79,29
+Nagaland,NER,2018,12,2.15,14.03,31
+Nagaland,NER,2019,1,2.13,13.04,31
+Nagaland,NER,2019,2,2.12,15.17,27
+Nagaland,NER,2019,3,2.11,17.86,31
+Nagaland,NER,2019,4,2.09,20.36,30
+Nagaland,NER,2019,5,2.12,22.48,31
+Nagaland,NER,2019,6,2.24,24.69,29
+Nagaland,NER,2019,7,2.25,24.39,31
+Nagaland,NER,2019,8,2.31,25.42,31
+Nagaland,NER,2019,9,2.21,23.57,30
+Nagaland,NER,2019,10,2.11,21.33,30
+Nagaland,NER,2019,11,2.16,18.61,30
+Nagaland,NER,2019,12,2.17,13.2,31
+Nagaland,NER,2020,1,2.25,12.55,31
+Nagaland,NER,2020,2,2.22,14.58,29
+Nagaland,NER,2020,3,2.13,18.05,31
+Nagaland,NER,2020,4,2.0,19.46,29
+Nagaland,NER,2020,5,2.1,21.68,30
+Nagaland,NER,2020,6,2.26,23.75,28
+Nagaland,NER,2020,7,2.33,24.26,30
+Nagaland,NER,2020,8,2.27,24.81,18
+Nagaland,NER,2020,9,2.38,24.17,14
+Nagaland,NER,2020,10,2.45,22.98,22
+Nagaland,NER,2020,11,2.22,18.15,26
+Nagaland,NER,2020,12,2.28,13.97,28
+Nagaland,NER,2021,1,2.23,13.64,31
+Nagaland,NER,2021,2,2.18,16.04,27
+Nagaland,NER,2021,3,2.14,19.25,30
+Nagaland,NER,2021,4,2.1,21.62,27
+Nagaland,NER,2021,5,2.22,22.05,30
+Nagaland,NER,2021,6,2.48,24.19,27
+Nagaland,NER,2021,7,2.52,24.72,30
+Nagaland,NER,2021,8,2.5,24.39,31
+Nagaland,NER,2021,9,2.52,24.16,28
+Nagaland,NER,2021,10,2.36,22.84,30
+Nagaland,NER,2021,11,2.3,17.54,30
+Nagaland,NER,2021,12,2.44,14.63,31
+Nagaland,NER,2022,1,2.38,12.85,31
+Nagaland,NER,2022,2,2.42,13.25,28
+Nagaland,NER,2022,3,2.41,20.33,31
+Nagaland,NER,2022,4,2.21,20.81,29
+Nagaland,NER,2022,5,2.36,22.41,31
+Nagaland,NER,2022,6,2.58,23.62,29
+Nagaland,NER,2022,7,2.73,25.13,31
+Nagaland,NER,2022,8,2.76,25.09,31
+Nagaland,NER,2022,9,2.7,23.97,30
+Nagaland,NER,2022,10,2.36,21.55,31
+Nagaland,NER,2022,11,2.15,17.8,29
+Nagaland,NER,2022,12,2.3,14.89,30
+Nagaland,NER,2023,1,2.1,13.71,31
+Nagaland,NER,2023,2,2.11,16.29,28
+Nagaland,NER,2023,3,2.3,18.3,30
+Nagaland,NER,2023,4,2.19,21.39,30
+Nagaland,NER,2023,5,2.44,22.74,31
+Nagaland,NER,2023,6,2.71,24.31,30
+Nagaland,NER,2023,7,2.81,24.78,31
+Nagaland,NER,2023,8,2.88,24.57,31
+Nagaland,NER,2023,9,2.91,24.96,30
+Nagaland,NER,2023,10,2.64,21.79,31
+Nagaland,NER,2023,11,2.3,18.05,30
+Nagaland,NER,2023,12,2.39,15.13,31
+Nagaland,NER,2024,1,2.28,12.64,31
+Nagaland,NER,2024,2,2.38,14.38,29
+Nagaland,NER,2024,3,2.29,18.41,31
+Nagaland,NER,2024,4,2.24,22.05,28
+Odisha,ER,2013,1,65.36,21.86,7
+Odisha,ER,2013,3,69.4,30.2,1
+Odisha,ER,2013,4,69.2,29.77,30
+Odisha,ER,2013,5,69.41,32.13,30
+Odisha,ER,2013,6,68.36,27.98,27
+Odisha,ER,2013,7,67.9,26.75,30
+Odisha,ER,2013,8,68.52,26.74,28
+Odisha,ER,2013,9,70.98,26.69,27
+Odisha,ER,2013,10,60.87,25.18,30
+Odisha,ER,2013,11,63.74,22.28,30
+Odisha,ER,2013,12,63.25,19.75,31
+Odisha,ER,2014,1,66.55,20.72,24
+Odisha,ER,2014,2,64.56,22.78,28
+Odisha,ER,2014,3,70.77,26.55,31
+Odisha,ER,2014,4,74.42,30.43,28
+Odisha,ER,2014,5,72.79,30.61,31
+Odisha,ER,2014,6,74.8,29.98,30
+Odisha,ER,2014,7,70.19,26.98,31
+Odisha,ER,2014,8,70.83,26.87,31
+Odisha,ER,2014,9,73.78,26.68,30
+Odisha,ER,2014,10,69.76,25.89,31
+Odisha,ER,2014,11,65.91,23.05,30
+Odisha,ER,2014,12,63.88,19.76,30
+Odisha,ER,2015,1,62.15,20.01,31
+Odisha,ER,2015,2,64.26,23.84,28
+Odisha,ER,2015,3,71.71,27.33,30
+Odisha,ER,2015,4,72.79,28.73,28
+Odisha,ER,2015,5,73.6,31.62,30
+Odisha,ER,2015,6,72.86,28.72,27
+Odisha,ER,2015,7,71.39,27.62,28
+Odisha,ER,2015,8,73.24,27.56,31
+Odisha,ER,2015,9,65.63,27.69,27
+Odisha,ER,2015,10,68.72,27.12,30
+Odisha,ER,2015,11,67.9,24.19,30
+Odisha,ER,2015,12,65.8,22.0,31
+Odisha,ER,2016,1,64.88,21.14,31
+Odisha,ER,2016,2,66.39,25.71,28
+Odisha,ER,2016,3,77.55,28.3,28
+Odisha,ER,2016,4,82.66,32.31,29
+Odisha,ER,2016,5,75.81,31.25,30
+Odisha,ER,2016,6,77.0,29.7,27
+Odisha,ER,2016,7,77.83,27.3,29
+Odisha,ER,2016,8,74.79,27.33,31
+Odisha,ER,2016,9,74.33,27.03,30
+Odisha,ER,2016,10,72.68,26.01,30
+Odisha,ER,2016,11,67.77,22.4,27
+Odisha,ER,2016,12,66.39,20.67,30
+Odisha,ER,2017,1,68.62,20.82,29
+Odisha,ER,2017,2,70.79,24.57,17
+Odisha,ER,2017,3,75.41,27.69,21
+Odisha,ER,2017,4,82.38,31.46,28
+Odisha,ER,2017,5,82.35,31.89,30
+Odisha,ER,2017,6,76.43,29.09,29
+Odisha,ER,2017,7,78.51,27.18,30
+Odisha,ER,2017,8,80.46,27.5,31
+Odisha,ER,2017,9,83.61,27.85,30
+Odisha,ER,2017,10,84.48,26.64,31
+Odisha,ER,2017,11,68.97,23.13,28
+Odisha,ER,2017,12,68.6,20.34,31
+Odisha,ER,2018,1,73.1,19.87,31
+Odisha,ER,2018,2,78.13,24.28,28
+Odisha,ER,2018,3,81.55,28.21,31
+Odisha,ER,2018,4,77.43,29.2,30
+Odisha,ER,2018,5,86.55,30.42,31
+Odisha,ER,2018,6,89.69,29.27,30
+Odisha,ER,2018,7,80.16,27.1,31
+Odisha,ER,2018,8,100.79,26.87,26
+Odisha,ER,2018,9,97.24,27.18,30
+Odisha,ER,2018,10,103.65,26.12,31
+Odisha,ER,2018,11,88.12,23.78,29
+Odisha,ER,2018,12,71.78,19.51,31
+Odisha,ER,2019,1,74.56,19.32,31
+Odisha,ER,2019,2,75.84,23.46,26
+Odisha,ER,2019,3,85.22,27.4,31
+Odisha,ER,2019,4,93.05,30.14,30
+Odisha,ER,2019,5,84.99,31.63,31
+Odisha,ER,2019,6,89.49,30.33,29
+Odisha,ER,2019,7,89.36,27.51,31
+Odisha,ER,2019,8,95.17,27.04,31
+Odisha,ER,2019,9,94.53,26.89,30
+Odisha,ER,2019,10,81.07,26.13,30
+Odisha,ER,2019,11,73.03,23.71,30
+Odisha,ER,2019,12,72.65,20.75,31
+Odisha,ER,2020,1,67.53,20.51,31
+Odisha,ER,2020,2,73.09,21.73,29
+Odisha,ER,2020,3,74.15,26.26,31
+Odisha,ER,2020,4,69.24,28.87,29
+Odisha,ER,2020,5,77.55,30.05,30
+Odisha,ER,2020,6,83.62,28.31,28
+Odisha,ER,2020,7,88.06,28.06,30
+Odisha,ER,2020,8,84.81,27.3,18
+Odisha,ER,2020,9,90.81,28.14,14
+Odisha,ER,2020,10,89.92,26.66,22
+Odisha,ER,2020,11,75.38,24.0,26
+Odisha,ER,2020,12,72.3,20.89,28
+Odisha,ER,2021,1,75.87,22.1,31
+Odisha,ER,2021,2,83.01,23.4,27
+Odisha,ER,2021,3,96.97,28.36,30
+Odisha,ER,2021,4,105.26,30.04,27
+Odisha,ER,2021,5,97.9,29.51,30
+Odisha,ER,2021,6,100.55,28.23,27
+Odisha,ER,2021,7,110.08,27.49,30
+Odisha,ER,2021,8,108.68,27.78,31
+Odisha,ER,2021,9,107.89,27.05,28
+Odisha,ER,2021,10,113.27,27.04,30
+Odisha,ER,2021,11,102.3,23.86,30
+Odisha,ER,2021,12,98.9,20.2,31
+Odisha,ER,2022,1,95.9,19.67,31
+Odisha,ER,2022,2,106.55,22.46,28
+Odisha,ER,2022,3,110.82,28.07,31
+Odisha,ER,2022,4,116.86,31.09,29
+Odisha,ER,2022,5,122.66,30.68,31
+Odisha,ER,2022,6,128.61,29.82,29
+Odisha,ER,2022,7,123.98,27.35,31
+Odisha,ER,2022,8,128.54,27.3,31
+Odisha,ER,2022,9,132.71,27.43,30
+Odisha,ER,2022,10,123.96,25.86,31
+Odisha,ER,2022,11,102.01,22.96,29
+Odisha,ER,2022,12,95.06,21.75,30
+Odisha,ER,2023,1,96.89,21.73,31
+Odisha,ER,2023,2,106.68,24.27,28
+Odisha,ER,2023,3,111.88,26.43,30
+Odisha,ER,2023,4,116.71,29.34,30
+Odisha,ER,2023,5,120.31,30.46,31
+Odisha,ER,2023,6,121.05,30.97,30
+Odisha,ER,2023,7,124.32,28.01,31
+Odisha,ER,2023,8,116.93,27.66,31
+Odisha,ER,2023,9,118.53,27.34,30
+Odisha,ER,2023,10,114.05,26.79,31
+Odisha,ER,2023,11,100.34,24.32,30
+Odisha,ER,2023,12,95.51,20.49,31
+Odisha,ER,2024,1,94.36,20.76,31
+Odisha,ER,2024,2,104.49,24.28,29
+Odisha,ER,2024,3,123.02,27.26,31
+Odisha,ER,2024,4,129.98,30.45,28
+Puducherry,SR,2013,1,5.61,26.41,7
+Puducherry,SR,2013,3,6.0,29.44,1
+Puducherry,SR,2013,4,6.47,30.0,30
+Puducherry,SR,2013,5,6.43,30.77,30
+Puducherry,SR,2013,6,6.42,30.53,27
+Puducherry,SR,2013,7,6.19,30.04,30
+Puducherry,SR,2013,8,6.0,29.11,28
+Puducherry,SR,2013,9,6.11,28.79,27
+Puducherry,SR,2013,10,5.97,28.68,30
+Puducherry,SR,2013,11,5.6,26.71,30
+Puducherry,SR,2013,12,5.58,25.57,31
+Puducherry,SR,2014,1,5.47,25.47,24
+Puducherry,SR,2014,2,5.86,26.11,28
+Puducherry,SR,2014,3,6.18,27.82,31
+Puducherry,SR,2014,4,6.96,29.81,28
+Puducherry,SR,2014,5,6.57,30.12,31
+Puducherry,SR,2014,6,6.86,31.39,30
+Puducherry,SR,2014,7,6.64,30.85,31
+Puducherry,SR,2014,8,6.23,29.51,31
+Puducherry,SR,2014,9,6.49,29.4,30
+Puducherry,SR,2014,10,6.02,27.78,31
+Puducherry,SR,2014,11,5.69,26.44,30
+Puducherry,SR,2014,12,5.7,25.68,30
+Puducherry,SR,2015,1,5.54,25.67,31
+Puducherry,SR,2015,2,6.1,26.16,28
+Puducherry,SR,2015,3,6.41,28.01,30
+Puducherry,SR,2015,4,6.87,28.99,29
+Puducherry,SR,2015,5,6.71,29.42,30
+Puducherry,SR,2015,6,6.8,30.32,27
+Puducherry,SR,2015,7,6.84,30.08,28
+Puducherry,SR,2015,8,6.54,29.79,31
+Puducherry,SR,2015,9,6.7,29.32,27
+Puducherry,SR,2015,10,6.4,28.29,30
+Puducherry,SR,2015,11,5.15,26.48,30
+Puducherry,SR,2015,12,5.52,26.51,31
+Puducherry,SR,2016,1,5.84,26.33,31
+Puducherry,SR,2016,2,6.33,27.17,28
+Puducherry,SR,2016,3,7.03,28.68,28
+Puducherry,SR,2016,4,7.36,30.56,29
+Puducherry,SR,2016,5,7.12,30.16,30
+Puducherry,SR,2016,6,7.32,30.02,27
+Puducherry,SR,2016,7,7.09,29.77,29
+Puducherry,SR,2016,8,6.99,30.06,31
+Puducherry,SR,2016,9,6.73,29.54,30
+Puducherry,SR,2016,10,6.63,28.67,30
+Puducherry,SR,2016,11,6.52,26.95,27
+Puducherry,SR,2016,12,5.94,26.08,30
+Puducherry,SR,2017,1,5.9,25.68,29
+Puducherry,SR,2017,2,6.28,25.63,17
+Puducherry,SR,2017,3,6.83,27.79,21
+Puducherry,SR,2017,4,7.53,29.99,29
+Puducherry,SR,2017,5,7.48,30.56,30
+Puducherry,SR,2017,6,7.42,30.31,29
+Puducherry,SR,2017,7,7.25,30.61,30
+Puducherry,SR,2017,8,6.81,29.28,31
+Puducherry,SR,2017,9,7.0,28.67,30
+Puducherry,SR,2017,10,6.83,28.2,31
+Puducherry,SR,2017,11,6.4,26.7,28
+Puducherry,SR,2017,12,6.33,26.04,31
+Puducherry,SR,2018,1,6.24,25.2,31
+Puducherry,SR,2018,2,6.87,25.99,28
+Puducherry,SR,2018,3,7.31,27.66,31
+Puducherry,SR,2018,4,7.91,29.33,30
+Puducherry,SR,2018,5,8.06,29.8,31
+Puducherry,SR,2018,6,7.76,30.24,30
+Puducherry,SR,2018,7,7.72,30.09,31
+Puducherry,SR,2018,8,7.22,29.45,26
+Puducherry,SR,2018,9,7.33,28.81,30
+Puducherry,SR,2018,10,6.92,27.85,31
+Puducherry,SR,2018,11,6.5,26.82,29
+Puducherry,SR,2018,12,6.62,26.18,31
+Puducherry,SR,2019,1,7.06,25.31,31
+Puducherry,SR,2019,2,7.36,27.04,26
+Puducherry,SR,2019,3,8.1,28.32,31
+Puducherry,SR,2019,4,8.65,30.0,30
+Puducherry,SR,2019,5,8.74,30.6,31
+Puducherry,SR,2019,6,8.83,31.07,29
+Puducherry,SR,2019,7,8.19,29.9,31
+Puducherry,SR,2019,8,7.82,29.43,31
+Puducherry,SR,2019,9,7.52,28.59,30
+Puducherry,SR,2019,10,7.32,27.61,30
+Puducherry,SR,2019,11,7.09,27.23,30
+Puducherry,SR,2019,12,6.67,26.3,31
+Puducherry,SR,2020,1,6.82,26.35,31
+Puducherry,SR,2020,2,7.47,26.92,29
+Puducherry,SR,2020,3,6.92,27.88,31
+Puducherry,SR,2020,4,5.01,29.57,29
+Puducherry,SR,2020,5,7.3,30.65,30
+Puducherry,SR,2020,6,7.76,30.53,28
+Puducherry,SR,2020,7,7.38,29.35,30
+Puducherry,SR,2020,8,7.69,29.34,18
+Puducherry,SR,2020,9,7.77,28.47,14
+Puducherry,SR,2020,10,7.47,28.75,22
+Puducherry,SR,2020,11,6.66,26.91,26
+Puducherry,SR,2020,12,6.65,25.82,28
+Puducherry,SR,2021,1,6.93,26.07,31
+Puducherry,SR,2021,2,7.34,25.9,27
+Puducherry,SR,2021,3,8.13,27.92,30
+Puducherry,SR,2021,4,8.97,29.45,27
+Puducherry,SR,2021,5,8.05,30.05,30
+Puducherry,SR,2021,6,8.11,30.03,27
+Puducherry,SR,2021,7,8.36,29.82,30
+Puducherry,SR,2021,8,8.27,29.33,31
+Puducherry,SR,2021,9,8.5,28.98,28
+Puducherry,SR,2021,10,8.01,27.91,30
+Puducherry,SR,2021,11,6.75,26.54,30
+Puducherry,SR,2021,12,7.03,26.32,31
+Puducherry,SR,2022,1,7.14,26.33,31
+Puducherry,SR,2022,2,7.65,26.39,28
+Puducherry,SR,2022,3,8.41,27.85,31
+Puducherry,SR,2022,4,9.17,29.17,29
+Puducherry,SR,2022,5,9.04,30.13,31
+Puducherry,SR,2022,6,9.64,29.53,29
+Puducherry,SR,2022,7,9.43,29.44,31
+Puducherry,SR,2022,8,9.15,28.88,31
+Puducherry,SR,2022,9,9.1,28.88,30
+Puducherry,SR,2022,10,8.51,27.86,31
+Puducherry,SR,2022,11,8.59,26.38,29
+Puducherry,SR,2022,12,8.14,26.04,30
+Puducherry,SR,2023,1,8.05,25.56,31
+Puducherry,SR,2023,2,8.62,25.77,28
+Puducherry,SR,2023,3,9.14,27.83,30
+Puducherry,SR,2023,4,9.81,29.46,30
+Puducherry,SR,2023,5,10.19,29.77,31
+Puducherry,SR,2023,6,10.39,30.42,30
+Puducherry,SR,2023,7,9.81,30.29,31
+Puducherry,SR,2023,8,10.03,29.72,31
+Puducherry,SR,2023,9,9.8,29.1,30
+Puducherry,SR,2023,10,9.91,28.45,31
+Puducherry,SR,2023,11,8.53,26.9,30
+Puducherry,SR,2023,12,8.5,26.79,31
+Puducherry,SR,2024,1,8.26,26.68,31
+Puducherry,SR,2024,2,9.29,27.54,29
+Puducherry,SR,2024,3,9.69,28.3,31
+Puducherry,SR,2024,4,10.64,30.18,28
+Punjab,NR,2013,1,93.21,6.74,7
+Punjab,NR,2013,3,92.3,24.4,1
+Punjab,NR,2013,4,101.05,27.15,30
+Punjab,NR,2013,5,137.52,32.74,30
+Punjab,NR,2013,6,161.83,32.64,27
+Punjab,NR,2013,7,190.37,31.22,30
+Punjab,NR,2013,8,170.78,29.2,28
+Punjab,NR,2013,9,174.85,28.81,27
+Punjab,NR,2013,10,120.17,25.83,30
+Punjab,NR,2013,11,87.56,17.99,30
+Punjab,NR,2013,12,93.87,13.6,31
+Punjab,NR,2014,1,86.84,12.61,24
+Punjab,NR,2014,2,90.14,14.06,28
+Punjab,NR,2014,3,90.47,19.54,31
+Punjab,NR,2014,4,96.39,25.73,28
+Punjab,NR,2014,5,119.41,30.88,31
+Punjab,NR,2014,6,190.3,34.35,30
+Punjab,NR,2014,7,207.38,31.66,31
+Punjab,NR,2014,8,205.5,31.11,31
+Punjab,NR,2014,9,157.28,28.48,30
+Punjab,NR,2014,10,120.52,25.24,31
+Punjab,NR,2014,11,97.86,18.95,30
+Punjab,NR,2014,12,97.74,12.25,29
+Punjab,NR,2015,1,90.06,11.52,31
+Punjab,NR,2015,2,88.4,16.48,28
+Punjab,NR,2015,3,84.5,19.43,30
+Punjab,NR,2015,4,97.57,26.32,28
+Punjab,NR,2015,5,139.9,32.09,30
+Punjab,NR,2015,6,183.34,32.13,27
+Punjab,NR,2015,7,203.83,30.19,28
+Punjab,NR,2015,8,200.41,29.78,31
+Punjab,NR,2015,9,180.71,28.97,27
+Punjab,NR,2015,10,127.99,25.54,30
+Punjab,NR,2015,11,89.21,19.5,30
+Punjab,NR,2015,12,98.19,14.02,31
+Punjab,NR,2016,1,99.17,12.6,31
+Punjab,NR,2016,2,100.21,16.58,28
+Punjab,NR,2016,3,92.32,21.87,28
+Punjab,NR,2016,4,112.23,29.14,29
+Punjab,NR,2016,5,149.45,32.95,30
+Punjab,NR,2016,6,194.69,34.05,27
+Punjab,NR,2016,7,209.81,30.93,29
+Punjab,NR,2016,8,200.7,30.0,31
+Punjab,NR,2016,9,203.6,30.19,30
+Punjab,NR,2016,10,134.33,26.48,30
+Punjab,NR,2016,11,94.32,19.75,27
+Punjab,NR,2016,12,104.3,15.37,30
+Punjab,NR,2017,1,96.7,12.97,29
+Punjab,NR,2017,2,102.48,16.6,17
+Punjab,NR,2017,3,105.5,20.75,21
+Punjab,NR,2017,4,115.29,29.47,28
+Punjab,NR,2017,5,157.67,33.16,30
+Punjab,NR,2017,6,176.55,32.04,29
+Punjab,NR,2017,7,229.98,31.22,30
+Punjab,NR,2017,8,214.67,30.72,31
+Punjab,NR,2017,9,187.04,29.41,30
+Punjab,NR,2017,10,137.21,26.68,31
+Punjab,NR,2017,11,95.76,18.2,28
+Punjab,NR,2017,12,100.27,14.2,31
+Punjab,NR,2018,1,103.94,12.64,31
+Punjab,NR,2018,2,110.39,16.73,28
+Punjab,NR,2018,3,121.7,22.82,31
+Punjab,NR,2018,4,120.09,28.39,30
+Punjab,NR,2018,5,160.61,32.51,31
+Punjab,NR,2018,6,194.44,33.17,30
+Punjab,NR,2018,7,229.45,30.61,31
+Punjab,NR,2018,8,242.44,30.34,26
+Punjab,NR,2018,9,190.97,28.21,30
+Punjab,NR,2018,10,144.49,24.19,31
+Punjab,NR,2018,11,112.78,18.91,29
+Punjab,NR,2018,12,120.93,12.93,31
+Punjab,NR,2019,1,108.78,12.04,31
+Punjab,NR,2019,2,101.77,14.48,26
+Punjab,NR,2019,3,115.35,19.43,31
+Punjab,NR,2019,4,121.4,27.65,30
+Punjab,NR,2019,5,153.84,30.9,31
+Punjab,NR,2019,6,227.5,33.93,29
+Punjab,NR,2019,7,234.47,30.79,31
+Punjab,NR,2019,8,229.92,30.29,31
+Punjab,NR,2019,9,224.3,29.93,30
+Punjab,NR,2019,10,129.62,25.23,30
+Punjab,NR,2019,11,101.67,19.2,30
+Punjab,NR,2019,12,110.32,11.39,31
+Punjab,NR,2020,1,109.87,11.57,31
+Punjab,NR,2020,2,121.31,15.69,29
+Punjab,NR,2020,3,87.18,19.35,31
+Punjab,NR,2020,4,79.41,26.04,29
+Punjab,NR,2020,5,133.86,30.39,30
+Punjab,NR,2020,6,220.51,31.92,28
+Punjab,NR,2020,7,244.39,31.2,30
+Punjab,NR,2020,8,246.61,30.48,18
+Punjab,NR,2020,9,230.72,30.36,14
+Punjab,NR,2020,10,154.54,25.52,22
+Punjab,NR,2020,11,104.7,17.77,26
+Punjab,NR,2020,12,122.66,12.55,28
+Punjab,NR,2021,1,123.63,11.87,31
+Punjab,NR,2021,2,128.47,17.23,27
+Punjab,NR,2021,3,130.17,23.06,30
+Punjab,NR,2021,4,123.41,26.78,27
+Punjab,NR,2021,5,149.73,30.24,30
+Punjab,NR,2021,6,244.63,32.64,27
+Punjab,NR,2021,7,265.4,31.23,30
+Punjab,NR,2021,8,267.28,30.54,31
+Punjab,NR,2021,9,219.42,28.93,28
+Punjab,NR,2021,10,156.65,25.49,30
+Punjab,NR,2021,11,112.23,18.4,30
+Punjab,NR,2021,12,132.05,13.46,31
+Punjab,NR,2022,1,120.18,12.18,31
+Punjab,NR,2022,2,125.08,15.17,28
+Punjab,NR,2022,3,148.19,23.95,31
+Punjab,NR,2022,4,162.32,30.65,29
+Punjab,NR,2022,5,204.24,32.74,31
+Punjab,NR,2022,6,250.6,33.13,29
+Punjab,NR,2022,7,265.91,30.28,31
+Punjab,NR,2022,8,290.81,30.49,31
+Punjab,NR,2022,9,256.87,28.99,30
+Punjab,NR,2022,10,163.01,24.89,31
+Punjab,NR,2022,11,126.53,19.16,29
+Punjab,NR,2022,12,139.66,13.31,30
+Punjab,NR,2023,1,148.77,11.31,31
+Punjab,NR,2023,2,149.91,18.1,28
+Punjab,NR,2023,3,138.15,21.54,30
+Punjab,NR,2023,4,139.81,26.05,30
+Punjab,NR,2023,5,170.28,28.84,31
+Punjab,NR,2023,6,235.92,31.54,30
+Punjab,NR,2023,7,269.8,30.09,31
+Punjab,NR,2023,8,313.52,31.23,31
+Punjab,NR,2023,9,271.18,29.63,30
+Punjab,NR,2023,10,173.9,24.69,31
+Punjab,NR,2023,11,130.83,19.54,30
+Punjab,NR,2023,12,142.02,13.94,31
+Punjab,NR,2024,1,159.4,9.38,31
+Punjab,NR,2024,2,155.79,15.26,29
+Punjab,NR,2024,3,151.56,20.86,31
+Punjab,NR,2024,4,153.94,26.83,28
+Rajasthan,NR,2013,1,188.23,11.65,7
+Rajasthan,NR,2013,3,155.0,27.58,1
+Rajasthan,NR,2013,4,141.79,30.11,30
+Rajasthan,NR,2013,5,159.45,34.74,30
+Rajasthan,NR,2013,6,155.56,33.1,26
+Rajasthan,NR,2013,7,143.28,30.32,30
+Rajasthan,NR,2013,8,138.91,28.65,28
+Rajasthan,NR,2013,9,168.1,29.6,27
+Rajasthan,NR,2013,10,148.82,27.2,30
+Rajasthan,NR,2013,11,170.55,20.76,30
+Rajasthan,NR,2013,12,186.21,16.5,31
+Rajasthan,NR,2014,1,186.62,14.94,24
+Rajasthan,NR,2014,2,188.17,17.98,28
+Rajasthan,NR,2014,3,173.87,23.97,31
+Rajasthan,NR,2014,4,156.36,30.05,28
+Rajasthan,NR,2014,5,170.0,33.14,31
+Rajasthan,NR,2014,6,189.56,35.31,30
+Rajasthan,NR,2014,7,179.17,31.97,31
+Rajasthan,NR,2014,8,169.6,29.87,31
+Rajasthan,NR,2014,9,171.72,28.91,30
+Rajasthan,NR,2014,10,188.04,27.96,31
+Rajasthan,NR,2014,11,202.51,22.77,30
+Rajasthan,NR,2014,12,206.18,16.11,29
+Rajasthan,NR,2015,1,202.56,14.94,31
+Rajasthan,NR,2015,2,209.3,20.66,28
+Rajasthan,NR,2015,3,161.66,23.88,30
+Rajasthan,NR,2015,4,162.94,30.76,28
+Rajasthan,NR,2015,5,187.17,35.07,30
+Rajasthan,NR,2015,6,180.03,33.12,27
+Rajasthan,NR,2015,7,161.65,30.06,28
+Rajasthan,NR,2015,8,179.85,29.61,31
+Rajasthan,NR,2015,9,211.37,30.42,27
+Rajasthan,NR,2015,10,203.77,28.47,30
+Rajasthan,NR,2015,11,201.55,22.77,30
+Rajasthan,NR,2015,12,215.02,16.65,31
+Rajasthan,NR,2016,1,219.01,16.88,31
+Rajasthan,NR,2016,2,213.82,19.75,28
+Rajasthan,NR,2016,3,190.42,26.25,28
+Rajasthan,NR,2016,4,186.3,31.88,29
+Rajasthan,NR,2016,5,200.68,35.44,30
+Rajasthan,NR,2016,6,206.89,35.13,27
+Rajasthan,NR,2016,7,178.02,30.85,29
+Rajasthan,NR,2016,8,160.13,28.71,31
+Rajasthan,NR,2016,9,197.53,30.12,30
+Rajasthan,NR,2016,10,187.78,27.82,30
+Rajasthan,NR,2016,11,200.65,22.0,27
+Rajasthan,NR,2016,12,202.64,18.9,30
+Rajasthan,NR,2017,1,202.55,15.55,29
+Rajasthan,NR,2017,2,205.59,19.96,17
+Rajasthan,NR,2017,3,189.66,25.15,21
+Rajasthan,NR,2017,4,183.29,32.23,28
+Rajasthan,NR,2017,5,199.89,35.12,30
+Rajasthan,NR,2017,6,191.85,33.29,29
+Rajasthan,NR,2017,7,177.73,30.08,30
+Rajasthan,NR,2017,8,197.58,29.67,31
+Rajasthan,NR,2017,9,199.37,30.38,30
+Rajasthan,NR,2017,10,197.1,28.72,31
+Rajasthan,NR,2017,11,202.44,21.4,28
+Rajasthan,NR,2017,12,201.68,17.05,31
+Rajasthan,NR,2018,1,210.98,16.72,31
+Rajasthan,NR,2018,2,207.82,21.05,28
+Rajasthan,NR,2018,3,188.79,26.97,31
+Rajasthan,NR,2018,4,189.61,32.12,30
+Rajasthan,NR,2018,5,219.73,35.62,31
+Rajasthan,NR,2018,6,221.76,34.35,30
+Rajasthan,NR,2018,7,197.05,30.78,31
+Rajasthan,NR,2018,8,226.09,29.88,26
+Rajasthan,NR,2018,9,207.02,29.0,30
+Rajasthan,NR,2018,10,217.76,27.98,31
+Rajasthan,NR,2018,11,224.38,22.52,29
+Rajasthan,NR,2018,12,232.49,16.13,31
+Rajasthan,NR,2019,1,234.36,15.34,31
+Rajasthan,NR,2019,2,231.21,17.88,26
+Rajasthan,NR,2019,3,218.55,23.86,31
+Rajasthan,NR,2019,4,206.89,32.04,30
+Rajasthan,NR,2019,5,229.53,33.91,31
+Rajasthan,NR,2019,6,250.73,35.07,29
+Rajasthan,NR,2019,7,231.04,31.92,31
+Rajasthan,NR,2019,8,202.64,29.55,31
+Rajasthan,NR,2019,9,228.96,29.85,30
+Rajasthan,NR,2019,10,198.23,26.99,30
+Rajasthan,NR,2019,11,211.38,22.12,30
+Rajasthan,NR,2019,12,224.68,14.81,31
+Rajasthan,NR,2020,1,236.87,14.56,31
+Rajasthan,NR,2020,2,246.32,19.36,29
+Rajasthan,NR,2020,3,188.0,23.27,31
+Rajasthan,NR,2020,4,162.44,30.69,29
+Rajasthan,NR,2020,5,217.83,34.37,30
+Rajasthan,NR,2020,6,238.2,33.76,28
+Rajasthan,NR,2020,7,251.23,32.18,30
+Rajasthan,NR,2020,8,218.26,29.66,18
+Rajasthan,NR,2020,9,227.96,30.06,14
+Rajasthan,NR,2020,10,242.04,27.88,22
+Rajasthan,NR,2020,11,235.86,20.42,26
+Rajasthan,NR,2020,12,251.86,16.2,28
+Rajasthan,NR,2021,1,251.3,15.23,31
+Rajasthan,NR,2021,2,263.99,21.25,27
+Rajasthan,NR,2021,3,233.82,27.21,30
+Rajasthan,NR,2021,4,213.65,30.95,27
+Rajasthan,NR,2021,5,211.76,32.37,30
+Rajasthan,NR,2021,6,246.86,33.09,27
+Rajasthan,NR,2021,7,261.48,31.66,30
+Rajasthan,NR,2021,8,264.51,30.65,31
+Rajasthan,NR,2021,9,218.56,28.94,28
+Rajasthan,NR,2021,10,226.17,27.2,30
+Rajasthan,NR,2021,11,239.07,21.23,30
+Rajasthan,NR,2021,12,265.16,16.09,31
+Rajasthan,NR,2022,1,248.51,14.34,31
+Rajasthan,NR,2022,2,277.32,19.58,28
+Rajasthan,NR,2022,3,261.13,27.62,31
+Rajasthan,NR,2022,4,259.17,33.37,29
+Rajasthan,NR,2022,5,289.31,35.44,31
+Rajasthan,NR,2022,6,291.02,34.24,29
+Rajasthan,NR,2022,7,233.68,29.55,31
+Rajasthan,NR,2022,8,236.49,28.69,31
+Rajasthan,NR,2022,9,290.28,29.91,30
+Rajasthan,NR,2022,10,254.38,27.01,31
+Rajasthan,NR,2022,11,291.48,22.19,29
+Rajasthan,NR,2022,12,305.9,16.96,30
+Rajasthan,NR,2023,1,296.73,14.33,31
+Rajasthan,NR,2023,2,297.25,21.76,28
+Rajasthan,NR,2023,3,243.52,25.0,30
+Rajasthan,NR,2023,4,245.31,29.25,30
+Rajasthan,NR,2023,5,264.17,31.81,31
+Rajasthan,NR,2023,6,271.11,31.65,30
+Rajasthan,NR,2023,7,269.39,30.44,31
+Rajasthan,NR,2023,8,328.15,30.0,31
+Rajasthan,NR,2023,9,309.5,30.31,30
+Rajasthan,NR,2023,10,294.5,27.77,31
+Rajasthan,NR,2023,11,291.97,22.02,30
+Rajasthan,NR,2023,12,301.27,17.37,31
+Rajasthan,NR,2024,1,324.66,14.41,31
+Rajasthan,NR,2024,2,315.78,19.23,29
+Rajasthan,NR,2024,3,288.3,24.94,31
+Rajasthan,NR,2024,4,269.91,30.39,28
+Sikkim,ER,2013,1,1.61,-1.98,7
+Sikkim,ER,2013,3,1.1,1.72,1
+Sikkim,ER,2013,4,1.02,4.4,30
+Sikkim,ER,2013,5,1.25,8.31,30
+Sikkim,ER,2013,6,1.13,11.19,27
+Sikkim,ER,2013,7,1.12,11.65,30
+Sikkim,ER,2013,8,1.05,11.39,28
+Sikkim,ER,2013,9,1.1,10.29,27
+Sikkim,ER,2013,10,1.36,6.16,30
+Sikkim,ER,2013,11,1.43,2.3,30
+Sikkim,ER,2013,12,1.87,-1.2,31
+Sikkim,ER,2014,1,1.59,-2.09,24
+Sikkim,ER,2014,2,1.34,-1.26,28
+Sikkim,ER,2014,3,1.21,0.46,31
+Sikkim,ER,2014,4,1.31,3.93,29
+Sikkim,ER,2014,5,0.97,7.6,31
+Sikkim,ER,2014,6,1.28,11.28,30
+Sikkim,ER,2014,7,1.2,11.95,31
+Sikkim,ER,2014,8,1.15,11.45,30
+Sikkim,ER,2014,9,1.31,9.91,30
+Sikkim,ER,2014,10,1.2,5.41,31
+Sikkim,ER,2014,11,1.48,2.55,30
+Sikkim,ER,2014,12,1.58,-0.2,30
+Sikkim,ER,2015,1,1.63,-3.03,31
+Sikkim,ER,2015,2,1.52,-1.65,28
+Sikkim,ER,2015,3,1.42,1.42,30
+Sikkim,ER,2015,4,1.25,3.8,28
+Sikkim,ER,2015,5,1.22,8.13,30
+Sikkim,ER,2015,6,1.17,10.67,27
+Sikkim,ER,2015,7,1.21,11.33,28
+Sikkim,ER,2015,8,1.16,11.33,31
+Sikkim,ER,2015,9,1.13,10.47,27
+Sikkim,ER,2015,10,1.19,5.92,30
+Sikkim,ER,2015,11,1.39,2.36,30
+Sikkim,ER,2015,12,1.48,-1.63,31
+Sikkim,ER,2016,1,1.61,-3.85,31
+Sikkim,ER,2016,2,1.55,0.77,28
+Sikkim,ER,2016,3,1.32,2.19,28
+Sikkim,ER,2016,4,1.07,5.9,29
+Sikkim,ER,2016,5,1.25,7.25,31
+Sikkim,ER,2016,6,1.33,10.96,27
+Sikkim,ER,2016,7,1.2,11.38,29
+Sikkim,ER,2016,8,1.23,11.74,31
+Sikkim,ER,2016,9,1.24,10.48,30
+Sikkim,ER,2016,10,1.19,7.06,30
+Sikkim,ER,2016,11,1.37,2.94,27
+Sikkim,ER,2016,12,1.58,0.99,30
+Sikkim,ER,2017,1,1.65,-3.05,29
+Sikkim,ER,2017,2,1.59,0.16,17
+Sikkim,ER,2017,3,1.58,0.96,21
+Sikkim,ER,2017,4,1.16,5.32,28
+Sikkim,ER,2017,5,1.08,7.78,30
+Sikkim,ER,2017,6,1.04,11.11,29
+Sikkim,ER,2017,7,1.18,11.87,30
+Sikkim,ER,2017,8,1.11,11.93,31
+Sikkim,ER,2017,9,1.15,11.11,30
+Sikkim,ER,2017,10,1.18,7.17,31
+Sikkim,ER,2017,11,1.4,2.17,28
+Sikkim,ER,2017,12,1.54,1.46,31
+Sikkim,ER,2018,1,1.61,-1.24,31
+Sikkim,ER,2018,2,1.59,-0.22,28
+Sikkim,ER,2018,3,1.36,1.39,31
+Sikkim,ER,2018,4,1.38,4.34,30
+Sikkim,ER,2018,5,1.15,7.52,31
+Sikkim,ER,2018,6,1.18,11.15,30
+Sikkim,ER,2018,7,1.22,12.05,31
+Sikkim,ER,2018,8,1.08,11.91,26
+Sikkim,ER,2018,9,1.06,10.53,29
+Sikkim,ER,2018,10,1.16,4.4,31
+Sikkim,ER,2018,11,1.31,1.33,29
+Sikkim,ER,2018,12,1.46,-2.07,31
+Sikkim,ER,2019,1,1.4,-4.06,31
+Sikkim,ER,2019,2,1.36,-1.88,26
+Sikkim,ER,2019,3,1.29,0.61,31
+Sikkim,ER,2019,4,1.19,4.69,30
+Sikkim,ER,2019,5,1.13,8.15,31
+Sikkim,ER,2019,6,1.18,10.93,29
+Sikkim,ER,2019,7,1.01,11.68,31
+Sikkim,ER,2019,8,0.83,12.3,31
+Sikkim,ER,2019,9,0.99,10.47,30
+Sikkim,ER,2019,10,0.82,6.75,30
+Sikkim,ER,2019,11,1.37,3.35,30
+Sikkim,ER,2019,12,1.79,-2.02,31
+Sikkim,ER,2020,1,1.97,-3.11,31
+Sikkim,ER,2020,2,1.78,-1.43,29
+Sikkim,ER,2020,3,1.36,1.34,31
+Sikkim,ER,2020,4,1.23,3.32,29
+Sikkim,ER,2020,5,1.19,7.3,30
+Sikkim,ER,2020,6,1.26,10.93,28
+Sikkim,ER,2020,7,1.14,11.89,30
+Sikkim,ER,2020,8,0.89,12.59,18
+Sikkim,ER,2020,9,1.13,10.83,14
+Sikkim,ER,2020,10,1.15,8.57,22
+Sikkim,ER,2020,11,1.45,2.02,26
+Sikkim,ER,2020,12,2.04,0.18,28
+Sikkim,ER,2021,1,1.89,-0.11,31
+Sikkim,ER,2021,2,1.49,-0.56,27
+Sikkim,ER,2021,3,1.18,2.24,30
+Sikkim,ER,2021,4,0.91,3.98,27
+Sikkim,ER,2021,5,1.11,7.61,30
+Sikkim,ER,2021,6,1.28,11.29,27
+Sikkim,ER,2021,7,1.5,12.24,30
+Sikkim,ER,2021,8,1.34,12.13,31
+Sikkim,ER,2021,9,1.42,11.01,28
+Sikkim,ER,2021,10,1.39,8.2,30
+Sikkim,ER,2021,11,1.56,3.27,30
+Sikkim,ER,2021,12,1.74,-1.11,31
+Sikkim,ER,2022,1,1.75,-3.49,31
+Sikkim,ER,2022,2,1.84,-3.08,28
+Sikkim,ER,2022,3,1.64,3.75,31
+Sikkim,ER,2022,4,1.56,6.86,29
+Sikkim,ER,2022,5,1.47,8.78,31
+Sikkim,ER,2022,6,1.45,11.28,29
+Sikkim,ER,2022,7,1.45,12.43,31
+Sikkim,ER,2022,8,1.46,12.47,31
+Sikkim,ER,2022,9,1.57,11.21,30
+Sikkim,ER,2022,10,1.35,6.88,31
+Sikkim,ER,2022,11,1.64,3.02,29
+Sikkim,ER,2022,12,1.8,0.84,30
+Sikkim,ER,2023,1,1.91,-0.94,31
+Sikkim,ER,2023,2,1.88,1.03,28
+Sikkim,ER,2023,3,1.46,1.97,30
+Sikkim,ER,2023,4,1.41,4.66,30
+Sikkim,ER,2023,5,1.47,6.79,31
+Sikkim,ER,2023,6,1.42,10.93,30
+Sikkim,ER,2023,7,1.21,12.44,31
+Sikkim,ER,2023,8,1.13,12.54,31
+Sikkim,ER,2023,9,1.25,11.31,30
+Sikkim,ER,2023,10,1.0,6.63,31
+Sikkim,ER,2023,11,1.3,2.42,30
+Sikkim,ER,2023,12,1.68,0.2,31
+Sikkim,ER,2024,1,1.9,-3.39,31
+Sikkim,ER,2024,2,1.95,-1.2,29
+Sikkim,ER,2024,3,1.7,2.24,31
+Sikkim,ER,2024,4,1.58,5.56,28
+Tamil Nadu,SR,2013,1,251.39,25.88,7
+Tamil Nadu,SR,2013,3,223.2,30.56,1
+Tamil Nadu,SR,2013,4,233.45,30.75,30
+Tamil Nadu,SR,2013,5,246.68,31.05,30
+Tamil Nadu,SR,2013,6,249.87,28.44,27
+Tamil Nadu,SR,2013,7,249.73,28.19,29
+Tamil Nadu,SR,2013,8,240.55,27.99,28
+Tamil Nadu,SR,2013,9,242.99,27.53,27
+Tamil Nadu,SR,2013,10,244.51,27.65,30
+Tamil Nadu,SR,2013,11,214.49,25.94,30
+Tamil Nadu,SR,2013,12,234.91,24.51,31
+Tamil Nadu,SR,2014,1,245.23,24.67,24
+Tamil Nadu,SR,2014,2,254.15,25.95,28
+Tamil Nadu,SR,2014,3,264.41,28.27,31
+Tamil Nadu,SR,2014,4,273.48,30.69,28
+Tamil Nadu,SR,2014,5,265.36,30.46,31
+Tamil Nadu,SR,2014,6,280.41,30.78,30
+Tamil Nadu,SR,2014,7,275.22,29.28,31
+Tamil Nadu,SR,2014,8,258.54,28.42,31
+Tamil Nadu,SR,2014,9,264.12,28.82,30
+Tamil Nadu,SR,2014,10,232.65,26.86,31
+Tamil Nadu,SR,2014,11,230.24,25.26,30
+Tamil Nadu,SR,2014,12,237.69,24.67,30
+Tamil Nadu,SR,2015,1,246.76,24.48,31
+Tamil Nadu,SR,2015,2,266.23,25.74,28
+Tamil Nadu,SR,2015,3,279.9,28.18,30
+Tamil Nadu,SR,2015,4,269.14,28.86,28
+Tamil Nadu,SR,2015,5,263.63,29.21,30
+Tamil Nadu,SR,2015,6,275.32,29.08,27
+Tamil Nadu,SR,2015,7,286.79,29.31,28
+Tamil Nadu,SR,2015,8,274.48,28.91,31
+Tamil Nadu,SR,2015,9,279.21,28.65,27
+Tamil Nadu,SR,2015,10,268.31,27.43,30
+Tamil Nadu,SR,2015,11,216.79,25.3,30
+Tamil Nadu,SR,2015,12,231.42,25.05,31
+Tamil Nadu,SR,2016,1,262.9,24.83,31
+Tamil Nadu,SR,2016,2,289.04,26.69,28
+Tamil Nadu,SR,2016,3,312.13,29.18,28
+Tamil Nadu,SR,2016,4,328.41,31.56,29
+Tamil Nadu,SR,2016,5,299.11,30.37,30
+Tamil Nadu,SR,2016,6,292.78,28.76,27
+Tamil Nadu,SR,2016,7,290.4,28.41,29
+Tamil Nadu,SR,2016,8,297.0,28.97,31
+Tamil Nadu,SR,2016,9,292.62,28.62,30
+Tamil Nadu,SR,2016,10,292.15,28.18,30
+Tamil Nadu,SR,2016,11,286.6,26.41,27
+Tamil Nadu,SR,2016,12,259.78,25.18,30
+Tamil Nadu,SR,2017,1,268.32,24.96,29
+Tamil Nadu,SR,2017,2,282.34,25.79,17
+Tamil Nadu,SR,2017,3,300.92,28.32,21
+Tamil Nadu,SR,2017,4,318.27,31.11,28
+Tamil Nadu,SR,2017,5,313.17,30.61,30
+Tamil Nadu,SR,2017,6,305.33,29.35,29
+Tamil Nadu,SR,2017,7,303.14,29.44,30
+Tamil Nadu,SR,2017,8,279.03,28.14,31
+Tamil Nadu,SR,2017,9,276.19,27.65,30
+Tamil Nadu,SR,2017,10,270.51,27.41,31
+Tamil Nadu,SR,2017,11,269.15,25.9,28
+Tamil Nadu,SR,2017,12,274.93,24.81,31
+Tamil Nadu,SR,2018,1,279.81,24.39,31
+Tamil Nadu,SR,2018,2,294.9,25.78,28
+Tamil Nadu,SR,2018,3,317.89,28.05,31
+Tamil Nadu,SR,2018,4,337.28,30.16,30
+Tamil Nadu,SR,2018,5,317.74,29.63,31
+Tamil Nadu,SR,2018,6,315.49,29.04,30
+Tamil Nadu,SR,2018,7,310.11,28.64,31
+Tamil Nadu,SR,2018,8,299.97,28.13,26
+Tamil Nadu,SR,2018,9,304.03,28.43,30
+Tamil Nadu,SR,2018,10,284.79,26.89,31
+Tamil Nadu,SR,2018,11,265.64,25.81,29
+Tamil Nadu,SR,2018,12,283.97,25.35,31
+Tamil Nadu,SR,2019,1,280.13,24.27,31
+Tamil Nadu,SR,2019,2,311.57,27.1,26
+Tamil Nadu,SR,2019,3,340.08,29.25,31
+Tamil Nadu,SR,2019,4,343.59,30.71,30
+Tamil Nadu,SR,2019,5,342.47,31.45,31
+Tamil Nadu,SR,2019,6,335.13,30.62,29
+Tamil Nadu,SR,2019,7,317.35,29.23,31
+Tamil Nadu,SR,2019,8,295.78,28.3,31
+Tamil Nadu,SR,2019,9,287.85,27.89,30
+Tamil Nadu,SR,2019,10,272.32,26.84,30
+Tamil Nadu,SR,2019,11,274.93,26.45,30
+Tamil Nadu,SR,2019,12,261.9,24.84,31
+Tamil Nadu,SR,2020,1,285.86,25.38,31
+Tamil Nadu,SR,2020,2,312.22,26.45,29
+Tamil Nadu,SR,2020,3,309.5,28.61,31
+Tamil Nadu,SR,2020,4,243.48,30.12,29
+Tamil Nadu,SR,2020,5,289.71,30.92,30
+Tamil Nadu,SR,2020,6,300.92,29.52,28
+Tamil Nadu,SR,2020,7,269.0,28.11,30
+Tamil Nadu,SR,2020,8,281.82,28.27,18
+Tamil Nadu,SR,2020,9,284.09,27.42,14
+Tamil Nadu,SR,2020,10,296.51,27.73,22
+Tamil Nadu,SR,2020,11,264.62,26.02,26
+Tamil Nadu,SR,2020,12,260.58,24.35,28
+Tamil Nadu,SR,2021,1,254.42,24.72,31
+Tamil Nadu,SR,2021,2,298.88,25.42,27
+Tamil Nadu,SR,2021,3,340.02,28.08,30
+Tamil Nadu,SR,2021,4,352.98,29.9,27
+Tamil Nadu,SR,2021,5,300.26,29.48,30
+Tamil Nadu,SR,2021,6,313.28,29.14,27
+Tamil Nadu,SR,2021,7,310.36,28.39,30
+Tamil Nadu,SR,2021,8,322.84,28.22,31
+Tamil Nadu,SR,2021,9,316.16,28.1,28
+Tamil Nadu,SR,2021,10,292.54,26.86,30
+Tamil Nadu,SR,2021,11,245.35,25.24,30
+Tamil Nadu,SR,2021,12,277.11,24.97,31
+Tamil Nadu,SR,2022,1,286.24,25.35,31
+Tamil Nadu,SR,2022,2,322.43,26.05,28
+Tamil Nadu,SR,2022,3,343.49,28.36,31
+Tamil Nadu,SR,2022,4,353.02,29.29,29
+Tamil Nadu,SR,2022,5,337.62,29.03,31
+Tamil Nadu,SR,2022,6,345.27,28.76,29
+Tamil Nadu,SR,2022,7,327.18,27.78,31
+Tamil Nadu,SR,2022,8,312.7,27.43,31
+Tamil Nadu,SR,2022,9,319.38,27.71,30
+Tamil Nadu,SR,2022,10,289.93,26.69,31
+Tamil Nadu,SR,2022,11,282.39,25.19,29
+Tamil Nadu,SR,2022,12,285.97,24.92,30
+Tamil Nadu,SR,2023,1,296.91,24.31,31
+Tamil Nadu,SR,2023,2,318.5,25.54,28
+Tamil Nadu,SR,2023,3,349.86,27.8,30
+Tamil Nadu,SR,2023,4,376.17,29.52,30
+Tamil Nadu,SR,2023,5,351.52,29.66,31
+Tamil Nadu,SR,2023,6,368.82,29.65,30
+Tamil Nadu,SR,2023,7,351.84,28.54,31
+Tamil Nadu,SR,2023,8,366.0,29.29,31
+Tamil Nadu,SR,2023,9,339.57,28.1,30
+Tamil Nadu,SR,2023,10,342.5,27.66,31
+Tamil Nadu,SR,2023,11,292.08,26.13,30
+Tamil Nadu,SR,2023,12,299.29,25.67,31
+Tamil Nadu,SR,2024,1,310.64,25.34,31
+Tamil Nadu,SR,2024,2,359.27,26.99,29
+Tamil Nadu,SR,2024,3,392.6,28.82,31
+Tamil Nadu,SR,2024,4,420.31,30.9,28
+Telangana,SR,2014,6,122.21,31.8,29
+Telangana,SR,2014,7,121.93,27.58,31
+Telangana,SR,2014,8,133.2,27.81,31
+Telangana,SR,2014,9,138.87,27.27,30
+Telangana,SR,2014,10,136.85,27.01,31
+Telangana,SR,2014,11,122.24,24.57,30
+Telangana,SR,2014,12,125.56,22.21,30
+Telangana,SR,2015,1,128.08,22.24,31
+Telangana,SR,2015,2,137.41,25.58,28
+Telangana,SR,2015,3,140.9,28.5,30
+Telangana,SR,2015,4,131.8,30.16,28
+Telangana,SR,2015,5,126.5,33.93,30
+Telangana,SR,2015,6,115.74,29.15,27
+Telangana,SR,2015,7,138.93,29.46,28
+Telangana,SR,2015,8,141.63,27.77,31
+Telangana,SR,2015,9,138.03,27.67,27
+Telangana,SR,2015,10,146.01,28.02,30
+Telangana,SR,2015,11,130.34,25.99,30
+Telangana,SR,2015,12,129.46,25.03,31
+Telangana,SR,2016,1,127.9,24.09,31
+Telangana,SR,2016,2,138.91,27.92,28
+Telangana,SR,2016,3,144.07,30.61,28
+Telangana,SR,2016,4,147.01,34.23,29
+Telangana,SR,2016,5,126.03,33.61,30
+Telangana,SR,2016,6,122.47,29.77,27
+Telangana,SR,2016,7,132.99,27.52,29
+Telangana,SR,2016,8,160.53,28.07,31
+Telangana,SR,2016,9,138.67,26.49,30
+Telangana,SR,2016,10,147.69,26.23,30
+Telangana,SR,2016,11,140.88,23.89,27
+Telangana,SR,2016,12,145.45,22.74,30
+Telangana,SR,2017,1,156.56,23.05,29
+Telangana,SR,2017,2,170.98,26.43,17
+Telangana,SR,2017,3,179.09,29.31,21
+Telangana,SR,2017,4,169.24,33.05,28
+Telangana,SR,2017,5,142.95,34.32,30
+Telangana,SR,2017,6,129.52,29.39,29
+Telangana,SR,2017,7,158.28,28.08,30
+Telangana,SR,2017,8,169.26,27.24,31
+Telangana,SR,2017,9,178.14,28.01,30
+Telangana,SR,2017,10,152.71,27.14,31
+Telangana,SR,2017,11,151.02,25.34,28
+Telangana,SR,2017,12,160.27,22.74,31
+Telangana,SR,2018,1,178.94,23.0,31
+Telangana,SR,2018,2,193.53,25.73,28
+Telangana,SR,2018,3,215.21,29.6,31
+Telangana,SR,2018,4,175.44,31.9,30
+Telangana,SR,2018,5,148.83,33.69,31
+Telangana,SR,2018,6,144.44,30.04,30
+Telangana,SR,2018,7,171.01,27.46,31
+Telangana,SR,2018,8,191.3,27.06,26
+Telangana,SR,2018,9,212.85,27.7,30
+Telangana,SR,2018,10,217.48,27.31,31
+Telangana,SR,2018,11,183.68,25.86,29
+Telangana,SR,2018,12,170.64,22.75,31
+Telangana,SR,2019,1,175.83,22.0,31
+Telangana,SR,2019,2,192.98,25.91,26
+Telangana,SR,2019,3,223.53,30.09,31
+Telangana,SR,2019,4,190.49,32.73,30
+Telangana,SR,2019,5,171.55,35.21,31
+Telangana,SR,2019,6,160.75,32.18,29
+Telangana,SR,2019,7,167.88,28.22,31
+Telangana,SR,2019,8,195.84,27.32,31
+Telangana,SR,2019,9,178.7,26.88,30
+Telangana,SR,2019,10,160.98,26.53,30
+Telangana,SR,2019,11,172.78,25.44,30
+Telangana,SR,2019,12,197.87,23.25,31
+Telangana,SR,2020,1,209.59,23.86,31
+Telangana,SR,2020,2,233.06,25.28,29
+Telangana,SR,2020,3,230.11,28.66,31
+Telangana,SR,2020,4,160.67,31.49,29
+Telangana,SR,2020,5,155.72,33.6,30
+Telangana,SR,2020,6,153.17,29.6,28
+Telangana,SR,2020,7,181.64,27.67,30
+Telangana,SR,2020,8,181.67,26.67,18
+Telangana,SR,2020,9,189.24,27.96,14
+Telangana,SR,2020,10,155.26,26.9,22
+Telangana,SR,2020,11,142.47,24.86,26
+Telangana,SR,2020,12,180.5,22.75,28
+Telangana,SR,2021,1,224.33,24.31,31
+Telangana,SR,2021,2,244.3,24.78,27
+Telangana,SR,2021,3,270.94,28.9,30
+Telangana,SR,2021,4,226.35,31.12,27
+Telangana,SR,2021,5,157.16,31.7,30
+Telangana,SR,2021,6,176.55,28.61,27
+Telangana,SR,2021,7,189.91,27.44,30
+Telangana,SR,2021,8,213.45,27.65,31
+Telangana,SR,2021,9,186.42,26.99,28
+Telangana,SR,2021,10,192.12,27.11,30
+Telangana,SR,2021,11,152.67,25.4,30
+Telangana,SR,2021,12,177.97,23.18,31
+Telangana,SR,2022,1,197.92,22.61,31
+Telangana,SR,2022,2,223.5,24.95,28
+Telangana,SR,2022,3,261.45,29.57,31
+Telangana,SR,2022,4,241.31,32.24,29
+Telangana,SR,2022,5,185.42,32.76,31
+Telangana,SR,2022,6,176.94,30.54,29
+Telangana,SR,2022,7,171.79,26.46,31
+Telangana,SR,2022,8,201.95,27.44,31
+Telangana,SR,2022,9,205.41,26.99,30
+Telangana,SR,2022,10,175.27,25.9,31
+Telangana,SR,2022,11,169.16,24.06,29
+Telangana,SR,2022,12,200.9,24.21,30
+Telangana,SR,2023,1,230.45,23.39,31
+Telangana,SR,2023,2,267.61,25.75,28
+Telangana,SR,2023,3,276.12,27.4,30
+Telangana,SR,2023,4,234.49,30.37,30
+Telangana,SR,2023,5,183.57,31.63,31
+Telangana,SR,2023,6,202.5,32.01,30
+Telangana,SR,2023,7,209.33,27.28,31
+Telangana,SR,2023,8,254.51,28.28,31
+Telangana,SR,2023,9,231.87,27.29,30
+Telangana,SR,2023,10,267.73,27.48,31
+Telangana,SR,2023,11,207.32,25.94,30
+Telangana,SR,2023,12,210.51,22.92,31
+Telangana,SR,2024,1,246.51,24.12,31
+Telangana,SR,2024,2,274.77,26.88,29
+Telangana,SR,2024,3,290.57,29.78,31
+Telangana,SR,2024,4,244.14,32.41,28
+Total,,2013,1,2707.29,,7
+Total,,2013,3,2526.1,,1
+Total,,2013,4,2609.89,,30
+Total,,2013,5,2771.32,,30
+Total,,2013,6,2607.08,,26
+Total,,2013,7,2658.86,,29
+Total,,2013,8,2623.24,,28
+Total,,2013,9,2759.84,,27
+Total,,2013,10,2556.1,,30
+Total,,2013,11,2552.27,,30
+Total,,2013,12,2657.58,,31
+Total,,2014,1,2695.43,,24
+Total,,2014,2,2727.03,,28
+Total,,2014,3,2716.77,,31
+Total,,2014,4,2877.26,,28
+Total,,2014,5,2889.17,,31
+Total,,2014,6,3040.81,,30
+Total,,2014,7,2979.1,,31
+Total,,2014,8,2934.57,,31
+Total,,2014,9,2880.24,,30
+Total,,2014,10,2862.19,,31
+Total,,2014,11,2791.02,,30
+Total,,2014,12,2786.83,,28
+Total,,2015,1,2743.11,,31
+Total,,2015,2,2890.31,,28
+Total,,2015,3,2799.05,,30
+Total,,2015,4,2878.38,,28
+Total,,2015,5,3082.89,,30
+Total,,2015,6,2997.7,,27
+Total,,2015,7,3108.55,,28
+Total,,2015,8,3107.39,,31
+Total,,2015,9,3167.37,,27
+Total,,2015,10,3154.92,,30
+Total,,2015,11,2829.59,,30
+Total,,2015,12,2882.26,,31
+Total,,2016,1,2933.4,,31
+Total,,2016,2,3037.68,,28
+Total,,2016,3,3086.48,,28
+Total,,2016,4,3291.57,,29
+Total,,2016,5,3238.7,,30
+Total,,2016,6,3267.13,,27
+Total,,2016,7,3118.15,,29
+Total,,2016,8,3154.95,,31
+Total,,2016,9,3291.5,,30
+Total,,2016,10,3139.21,,30
+Total,,2016,11,3021.88,,27
+Total,,2016,12,2990.2,,30
+Total,,2017,1,3056.02,,29
+Total,,2017,2,3178.32,,17
+Total,,2017,3,3244.68,,21
+Total,,2017,4,3439.99,,28
+Total,,2017,5,3473.27,,30
+Total,,2017,6,3339.16,,29
+Total,,2017,7,3328.34,,30
+Total,,2017,8,3402.19,,31
+Total,,2017,9,3390.48,,30
+Total,,2017,10,3256.55,,31
+Total,,2017,11,3145.36,,28
+Total,,2017,12,3140.24,,31
+Total,,2018,1,3246.65,,31
+Total,,2018,2,3286.23,,28
+Total,,2018,3,3430.16,,31
+Total,,2018,4,3506.22,,30
+Total,,2018,5,3643.22,,31
+Total,,2018,6,3661.71,,30
+Total,,2018,7,3560.58,,31
+Total,,2018,8,3668.6,,26
+Total,,2018,9,3677.76,,30
+Total,,2018,10,3677.31,,31
+Total,,2018,11,3352.5,,29
+Total,,2018,12,3323.3,,31
+Total,,2019,1,3323.14,,31
+Total,,2019,2,3371.42,,26
+Total,,2019,3,3559.07,,31
+Total,,2019,4,3732.96,,30
+Total,,2019,5,3921.28,,31
+Total,,2019,6,3962.84,,29
+Total,,2019,7,3763.76,,31
+Total,,2019,8,3644.62,,31
+Total,,2019,9,3617.84,,30
+Total,,2019,10,3193.36,,30
+Total,,2019,11,3168.67,,30
+Total,,2019,12,3296.15,,31
+Total,,2020,1,3430.98,,31
+Total,,2020,2,3615.33,,29
+Total,,2020,3,3232.36,,31
+Total,,2020,4,2838.55,,29
+Total,,2020,5,3326.15,,30
+Total,,2020,6,3536.13,,28
+Total,,2020,7,3654.95,,30
+Total,,2020,8,3537.7,,18
+Total,,2020,9,3788.11,,14
+Total,,2020,10,3577.33,,22
+Total,,2020,11,3277.14,,26
+Total,,2020,12,3467.3,,28
+Total,,2021,1,3594.66,,31
+Total,,2021,2,3738.26,,27
+Total,,2021,3,3969.04,,30
+Total,,2021,4,3984.93,,27
+Total,,2021,5,3557.55,,30
+Total,,2021,6,3874.47,,27
+Total,,2021,7,4041.05,,30
+Total,,2021,8,4178.07,,31
+Total,,2021,9,3820.33,,28
+Total,,2021,10,3689.93,,30
+Total,,2021,11,3347.53,,30
+Total,,2021,12,3559.54,,31
+Total,,2022,1,3634.72,,31
+Total,,2022,2,3908.97,,28
+Total,,2022,3,4202.11,,31
+Total,,2022,4,4433.69,,29
+Total,,2022,5,4388.93,,31
+Total,,2022,6,4466.2,,29
+Total,,2022,7,4141.75,,31
+Total,,2022,8,4205.11,,31
+Total,,2022,9,4246.46,,30
+Total,,2022,10,3707.15,,31
+Total,,2022,11,3756.86,,29
+Total,,2022,12,3911.24,,30
+Total,,2023,1,4069.83,,31
+Total,,2023,2,4208.95,,28
+Total,,2023,3,4111.23,,30
+Total,,2023,4,4352.46,,30
+Total,,2023,5,4373.25,,31
+Total,,2023,6,4664.6,,30
+Total,,2023,7,4483.98,,31
+Total,,2023,8,4892.3,,31
+Total,,2023,9,4683.36,,30
+Total,,2023,10,4482.42,,31
+Total,,2023,11,3988.32,,30
+Total,,2023,12,3973.48,,31
+Total,,2024,1,4317.44,,31
+Total,,2024,2,4406.88,,29
+Total,,2024,3,4489.18,,31
+Total,,2024,4,4789.23,,28
+Tripura,NER,2013,1,2.74,16.75,7
+Tripura,NER,2013,3,3.5,27.84,1
+Tripura,NER,2013,4,3.01,27.49,30
+Tripura,NER,2013,5,2.6,26.52,30
+Tripura,NER,2013,6,2.89,29.07,27
+Tripura,NER,2013,7,3.24,28.34,30
+Tripura,NER,2013,8,3.26,27.76,28
+Tripura,NER,2013,9,3.28,27.66,27
+Tripura,NER,2013,10,3.39,26.14,30
+Tripura,NER,2013,11,3.33,22.51,30
+Tripura,NER,2013,12,3.2,18.79,31
+Tripura,NER,2014,1,2.88,18.15,24
+Tripura,NER,2014,2,2.77,19.95,28
+Tripura,NER,2014,3,2.95,24.68,31
+Tripura,NER,2014,4,2.77,28.51,28
+Tripura,NER,2014,5,2.99,28.31,31
+Tripura,NER,2014,6,3.02,28.11,30
+Tripura,NER,2014,7,2.94,28.72,31
+Tripura,NER,2014,8,3.08,27.7,31
+Tripura,NER,2014,9,3.12,27.84,30
+Tripura,NER,2014,10,3.1,26.55,31
+Tripura,NER,2014,11,2.65,23.03,30
+Tripura,NER,2014,12,2.64,18.86,30
+Tripura,NER,2015,1,2.69,18.69,31
+Tripura,NER,2015,2,2.77,20.93,28
+Tripura,NER,2015,3,2.73,25.29,30
+Tripura,NER,2015,4,2.74,26.11,28
+Tripura,NER,2015,5,3.05,28.21,30
+Tripura,NER,2015,6,3.39,27.66,27
+Tripura,NER,2015,7,3.26,27.23,28
+Tripura,NER,2015,8,3.4,27.92,31
+Tripura,NER,2015,9,3.36,28.06,27
+Tripura,NER,2015,10,3.78,26.55,30
+Tripura,NER,2015,11,3.6,22.98,30
+Tripura,NER,2015,12,3.2,18.62,28
+Tripura,NER,2016,1,3.15,17.34,31
+Tripura,NER,2016,2,3.23,22.38,28
+Tripura,NER,2016,3,3.96,25.56,28
+Tripura,NER,2016,4,3.66,28.17,29
+Tripura,NER,2016,5,3.26,27.32,30
+Tripura,NER,2016,6,3.9,28.46,27
+Tripura,NER,2016,7,3.8,27.59,29
+Tripura,NER,2016,8,3.91,28.56,31
+Tripura,NER,2016,9,4.17,28.12,30
+Tripura,NER,2016,10,4.27,27.32,30
+Tripura,NER,2016,11,3.54,22.47,27
+Tripura,NER,2016,12,3.47,20.36,30
+Tripura,NER,2017,1,3.36,18.52,29
+Tripura,NER,2017,2,3.38,21.42,17
+Tripura,NER,2017,3,3.21,23.88,21
+Tripura,NER,2017,4,3.17,26.3,28
+Tripura,NER,2017,5,4.0,28.49,30
+Tripura,NER,2017,6,4.33,27.93,29
+Tripura,NER,2017,7,4.0,27.85,30
+Tripura,NER,2017,8,4.06,28.11,31
+Tripura,NER,2017,9,4.36,27.85,30
+Tripura,NER,2017,10,4.15,26.72,31
+Tripura,NER,2017,11,3.55,23.79,28
+Tripura,NER,2017,12,3.54,19.9,31
+Tripura,NER,2018,1,3.52,16.77,31
+Tripura,NER,2018,2,3.64,21.7,28
+Tripura,NER,2018,3,3.75,25.55,31
+Tripura,NER,2018,4,3.54,26.15,30
+Tripura,NER,2018,5,3.53,26.45,31
+Tripura,NER,2018,6,4.12,27.98,30
+Tripura,NER,2018,7,4.56,28.33,31
+Tripura,NER,2018,8,4.65,28.62,26
+Tripura,NER,2018,9,4.66,28.5,30
+Tripura,NER,2018,10,4.25,25.8,31
+Tripura,NER,2018,11,3.94,22.41,29
+Tripura,NER,2018,12,3.65,19.16,31
+Tripura,NER,2019,1,3.76,18.99,31
+Tripura,NER,2019,2,3.75,21.61,26
+Tripura,NER,2019,3,3.72,25.13,31
+Tripura,NER,2019,4,4.07,27.59,30
+Tripura,NER,2019,5,4.55,29.29,31
+Tripura,NER,2019,6,5.19,28.87,29
+Tripura,NER,2019,7,4.78,28.09,31
+Tripura,NER,2019,8,5.08,28.96,31
+Tripura,NER,2019,9,4.86,28.14,30
+Tripura,NER,2019,10,4.36,26.8,30
+Tripura,NER,2019,11,3.75,23.61,30
+Tripura,NER,2019,12,3.44,18.45,31
+Tripura,NER,2020,1,3.6,17.54,31
+Tripura,NER,2020,2,3.48,19.81,29
+Tripura,NER,2020,3,3.62,24.96,31
+Tripura,NER,2020,4,3.42,26.56,29
+Tripura,NER,2020,5,3.91,27.72,30
+Tripura,NER,2020,6,4.44,28.04,28
+Tripura,NER,2020,7,4.63,28.18,30
+Tripura,NER,2020,8,4.8,28.52,18
+Tripura,NER,2020,9,4.96,28.08,14
+Tripura,NER,2020,10,4.8,27.91,22
+Tripura,NER,2020,11,3.78,23.69,26
+Tripura,NER,2020,12,3.55,18.67,28
+Tripura,NER,2021,1,3.67,18.32,31
+Tripura,NER,2021,2,3.62,21.21,27
+Tripura,NER,2021,3,4.11,26.6,30
+Tripura,NER,2021,4,4.8,28.82,27
+Tripura,NER,2021,5,4.67,28.73,30
+Tripura,NER,2021,6,4.62,27.59,27
+Tripura,NER,2021,7,4.79,28.07,30
+Tripura,NER,2021,8,4.93,27.99,31
+Tripura,NER,2021,9,5.07,28.41,28
+Tripura,NER,2021,10,4.97,27.73,30
+Tripura,NER,2021,11,3.76,23.22,30
+Tripura,NER,2021,12,3.47,19.88,31
+Tripura,NER,2022,1,3.59,18.41,31
+Tripura,NER,2022,2,3.62,19.74,28
+Tripura,NER,2022,3,4.16,26.18,31
+Tripura,NER,2022,4,4.94,28.65,29
+Tripura,NER,2022,5,4.6,27.66,31
+Tripura,NER,2022,6,4.66,27.61,29
+Tripura,NER,2022,7,5.4,29.22,31
+Tripura,NER,2022,8,5.53,29.09,31
+Tripura,NER,2022,9,5.26,28.18,30
+Tripura,NER,2022,10,4.8,27.09,31
+Tripura,NER,2022,11,4.1,24.12,29
+Tripura,NER,2022,12,3.71,20.01,30
+Tripura,NER,2023,1,3.88,18.43,31
+Tripura,NER,2023,2,3.89,22.06,28
+Tripura,NER,2023,3,3.96,24.79,30
+Tripura,NER,2023,4,5.03,28.35,30
+Tripura,NER,2023,5,5.3,28.6,31
+Tripura,NER,2023,6,5.4,28.57,30
+Tripura,NER,2023,7,5.78,29.27,31
+Tripura,NER,2023,8,5.43,28.0,31
+Tripura,NER,2023,9,5.72,28.86,30
+Tripura,NER,2023,10,5.23,26.98,31
+Tripura,NER,2023,11,4.16,24.1,30
+Tripura,NER,2023,12,3.91,20.62,31
+Tripura,NER,2024,1,3.96,17.07,31
+Tripura,NER,2024,2,3.78,20.86,29
+Tripura,NER,2024,3,4.05,24.49,31
+Tripura,NER,2024,4,5.44,29.44,28
+Uttar Pradesh,NR,2013,1,222.03,10.08,7
+Uttar Pradesh,NR,2013,3,195.0,25.87,1
+Uttar Pradesh,NR,2013,4,211.35,29.64,30
+Uttar Pradesh,NR,2013,5,246.51,33.61,30
+Uttar Pradesh,NR,2013,6,225.81,30.65,27
+Uttar Pradesh,NR,2013,7,237.81,29.39,30
+Uttar Pradesh,NR,2013,8,235.28,28.82,28
+Uttar Pradesh,NR,2013,9,233.59,29.11,27
+Uttar Pradesh,NR,2013,10,209.74,25.64,30
+Uttar Pradesh,NR,2013,11,206.02,19.51,30
+Uttar Pradesh,NR,2013,12,211.12,16.09,31
+Uttar Pradesh,NR,2014,1,221.99,14.26,24
+Uttar Pradesh,NR,2014,2,219.94,16.77,28
+Uttar Pradesh,NR,2014,3,223.25,22.79,31
+Uttar Pradesh,NR,2014,4,244.8,28.86,28
+Uttar Pradesh,NR,2014,5,260.91,32.6,31
+Uttar Pradesh,NR,2014,6,268.44,34.21,30
+Uttar Pradesh,NR,2014,7,256.84,30.3,31
+Uttar Pradesh,NR,2014,8,252.65,30.04,31
+Uttar Pradesh,NR,2014,9,240.48,28.81,30
+Uttar Pradesh,NR,2014,10,228.63,25.96,31
+Uttar Pradesh,NR,2014,11,216.62,20.64,30
+Uttar Pradesh,NR,2014,12,222.28,14.36,28
+Uttar Pradesh,NR,2015,1,232.54,13.59,31
+Uttar Pradesh,NR,2015,2,226.5,19.33,28
+Uttar Pradesh,NR,2015,3,214.75,22.78,30
+Uttar Pradesh,NR,2015,4,232.39,28.33,28
+Uttar Pradesh,NR,2015,5,273.53,33.42,30
+Uttar Pradesh,NR,2015,6,278.84,33.01,27
+Uttar Pradesh,NR,2015,7,276.7,29.92,28
+Uttar Pradesh,NR,2015,8,276.73,29.68,31
+Uttar Pradesh,NR,2015,9,281.66,30.04,27
+Uttar Pradesh,NR,2015,10,263.63,27.22,30
+Uttar Pradesh,NR,2015,11,230.13,22.42,30
+Uttar Pradesh,NR,2015,12,228.68,16.3,31
+Uttar Pradesh,NR,2016,1,235.81,15.62,31
+Uttar Pradesh,NR,2016,2,236.94,19.66,28
+Uttar Pradesh,NR,2016,3,242.68,25.36,28
+Uttar Pradesh,NR,2016,4,286.0,32.11,29
+Uttar Pradesh,NR,2016,5,294.71,32.6,30
+Uttar Pradesh,NR,2016,6,318.1,33.22,27
+Uttar Pradesh,NR,2016,7,294.99,29.28,29
+Uttar Pradesh,NR,2016,8,296.07,29.42,31
+Uttar Pradesh,NR,2016,9,311.7,29.08,30
+Uttar Pradesh,NR,2016,10,290.17,26.51,30
+Uttar Pradesh,NR,2016,11,258.17,20.78,27
+Uttar Pradesh,NR,2016,12,263.33,16.27,30
+Uttar Pradesh,NR,2017,1,276.09,15.18,29
+Uttar Pradesh,NR,2017,2,269.09,18.84,17
+Uttar Pradesh,NR,2017,3,283.86,23.76,21
+Uttar Pradesh,NR,2017,4,318.29,31.24,28
+Uttar Pradesh,NR,2017,5,351.99,32.99,30
+Uttar Pradesh,NR,2017,6,364.17,32.85,29
+Uttar Pradesh,NR,2017,7,342.63,29.4,30
+Uttar Pradesh,NR,2017,8,360.51,29.5,31
+Uttar Pradesh,NR,2017,9,361.74,29.66,30
+Uttar Pradesh,NR,2017,10,333.85,27.21,31
+Uttar Pradesh,NR,2017,11,273.96,20.82,28
+Uttar Pradesh,NR,2017,12,277.33,16.47,31
+Uttar Pradesh,NR,2018,1,296.28,13.7,31
+Uttar Pradesh,NR,2018,2,286.19,19.27,28
+Uttar Pradesh,NR,2018,3,289.7,25.52,31
+Uttar Pradesh,NR,2018,4,307.39,29.99,30
+Uttar Pradesh,NR,2018,5,364.55,32.91,31
+Uttar Pradesh,NR,2018,6,394.04,33.67,30
+Uttar Pradesh,NR,2018,7,370.51,30.22,31
+Uttar Pradesh,NR,2018,8,342.64,28.83,26
+Uttar Pradesh,NR,2018,9,336.74,28.55,30
+Uttar Pradesh,NR,2018,10,318.09,25.97,31
+Uttar Pradesh,NR,2018,11,269.72,20.99,29
+Uttar Pradesh,NR,2018,12,270.47,15.17,31
+Uttar Pradesh,NR,2019,1,276.69,14.81,31
+Uttar Pradesh,NR,2019,2,255.09,17.57,26
+Uttar Pradesh,NR,2019,3,278.55,23.02,31
+Uttar Pradesh,NR,2019,4,336.49,30.39,30
+Uttar Pradesh,NR,2019,5,408.6,33.52,31
+Uttar Pradesh,NR,2019,6,423.28,33.85,29
+Uttar Pradesh,NR,2019,7,385.28,30.18,31
+Uttar Pradesh,NR,2019,8,395.55,29.72,31
+Uttar Pradesh,NR,2019,9,373.38,28.39,30
+Uttar Pradesh,NR,2019,10,304.81,25.75,30
+Uttar Pradesh,NR,2019,11,264.47,21.56,30
+Uttar Pradesh,NR,2019,12,260.71,14.01,31
+Uttar Pradesh,NR,2020,1,283.09,14.21,31
+Uttar Pradesh,NR,2020,2,276.04,17.38,29
+Uttar Pradesh,NR,2020,3,232.02,22.46,31
+Uttar Pradesh,NR,2020,4,266.24,28.7,29
+Uttar Pradesh,NR,2020,5,331.85,31.08,30
+Uttar Pradesh,NR,2020,6,391.8,30.61,28
+Uttar Pradesh,NR,2020,7,416.79,29.94,30
+Uttar Pradesh,NR,2020,8,396.55,29.62,18
+Uttar Pradesh,NR,2020,9,440.0,29.6,14
+Uttar Pradesh,NR,2020,10,348.25,26.54,22
+Uttar Pradesh,NR,2020,11,258.63,19.79,26
+Uttar Pradesh,NR,2020,12,288.79,15.19,28
+Uttar Pradesh,NR,2021,1,297.03,14.43,31
+Uttar Pradesh,NR,2021,2,289.33,19.53,27
+Uttar Pradesh,NR,2021,3,317.18,25.51,30
+Uttar Pradesh,NR,2021,4,337.47,29.87,27
+Uttar Pradesh,NR,2021,5,338.51,29.65,30
+Uttar Pradesh,NR,2021,6,403.92,30.54,27
+Uttar Pradesh,NR,2021,7,448.36,30.49,30
+Uttar Pradesh,NR,2021,8,423.85,29.37,31
+Uttar Pradesh,NR,2021,9,385.91,28.91,28
+Uttar Pradesh,NR,2021,10,333.59,26.42,30
+Uttar Pradesh,NR,2021,11,270.74,20.0,30
+Uttar Pradesh,NR,2021,12,297.5,16.01,31
+Uttar Pradesh,NR,2022,1,311.95,13.69,31
+Uttar Pradesh,NR,2022,2,307.85,17.2,28
+Uttar Pradesh,NR,2022,3,352.71,25.71,31
+Uttar Pradesh,NR,2022,4,418.82,31.71,29
+Uttar Pradesh,NR,2022,5,454.33,32.54,31
+Uttar Pradesh,NR,2022,6,497.83,33.37,29
+Uttar Pradesh,NR,2022,7,480.95,31.03,31
+Uttar Pradesh,NR,2022,8,475.01,29.82,31
+Uttar Pradesh,NR,2022,9,437.27,28.78,30
+Uttar Pradesh,NR,2022,10,324.24,25.44,31
+Uttar Pradesh,NR,2022,11,300.68,20.85,29
+Uttar Pradesh,NR,2022,12,316.27,16.01,30
+Uttar Pradesh,NR,2023,1,343.42,13.83,31
+Uttar Pradesh,NR,2023,2,322.6,19.73,28
+Uttar Pradesh,NR,2023,3,312.36,23.84,30
+Uttar Pradesh,NR,2023,4,369.43,28.44,30
+Uttar Pradesh,NR,2023,5,425.39,30.53,31
+Uttar Pradesh,NR,2023,6,503.88,33.02,30
+Uttar Pradesh,NR,2023,7,494.05,30.36,31
+Uttar Pradesh,NR,2023,8,505.56,29.73,31
+Uttar Pradesh,NR,2023,9,486.77,29.45,30
+Uttar Pradesh,NR,2023,10,391.11,26.09,31
+Uttar Pradesh,NR,2023,11,314.8,21.45,30
+Uttar Pradesh,NR,2023,12,316.08,16.74,31
+Uttar Pradesh,NR,2024,1,373.95,12.56,31
+Uttar Pradesh,NR,2024,2,320.39,17.7,29
+Uttar Pradesh,NR,2024,3,336.74,23.36,31
+Uttar Pradesh,NR,2024,4,431.44,30.47,28
+Uttarakhand,NR,2013,1,33.29,-0.37,7
+Uttarakhand,NR,2013,3,27.3,9.79,1
+Uttarakhand,NR,2013,4,30.57,12.73,30
+Uttarakhand,NR,2013,5,33.8,16.98,30
+Uttarakhand,NR,2013,6,30.73,17.64,27
+Uttarakhand,NR,2013,7,32.36,18.9,30
+Uttarakhand,NR,2013,8,31.81,18.65,28
+Uttarakhand,NR,2013,9,31.17,16.78,27
+Uttarakhand,NR,2013,10,30.28,13.4,30
+Uttarakhand,NR,2013,11,28.97,6.31,30
+Uttarakhand,NR,2013,12,30.29,3.2,31
+Uttarakhand,NR,2014,1,33.24,1.59,24
+Uttarakhand,NR,2014,2,32.87,2.87,28
+Uttarakhand,NR,2014,3,30.49,6.99,31
+Uttarakhand,NR,2014,4,31.11,11.41,28
+Uttarakhand,NR,2014,5,32.99,15.45,31
+Uttarakhand,NR,2014,6,36.04,18.91,30
+Uttarakhand,NR,2014,7,34.05,18.75,31
+Uttarakhand,NR,2014,8,33.76,18.95,31
+Uttarakhand,NR,2014,9,34.03,16.93,30
+Uttarakhand,NR,2014,10,29.91,11.58,31
+Uttarakhand,NR,2014,11,31.64,7.86,30
+Uttarakhand,NR,2014,12,32.92,3.15,29
+Uttarakhand,NR,2015,1,35.17,1.41,31
+Uttarakhand,NR,2015,2,33.65,4.8,28
+Uttarakhand,NR,2015,3,31.53,7.5,30
+Uttarakhand,NR,2015,4,33.22,11.87,28
+Uttarakhand,NR,2015,5,36.87,16.56,30
+Uttarakhand,NR,2015,6,38.14,17.84,27
+Uttarakhand,NR,2015,7,37.48,19.0,28
+Uttarakhand,NR,2015,8,35.9,18.64,31
+Uttarakhand,NR,2015,9,35.91,17.15,27
+Uttarakhand,NR,2015,10,33.55,13.05,30
+Uttarakhand,NR,2015,11,32.07,8.67,30
+Uttarakhand,NR,2015,12,34.47,3.28,31
+Uttarakhand,NR,2016,1,35.36,2.35,31
+Uttarakhand,NR,2016,2,34.57,5.29,28
+Uttarakhand,NR,2016,3,32.16,8.93,28
+Uttarakhand,NR,2016,4,36.14,14.25,29
+Uttarakhand,NR,2016,5,36.45,16.37,30
+Uttarakhand,NR,2016,6,39.54,18.68,27
+Uttarakhand,NR,2016,7,37.11,18.93,29
+Uttarakhand,NR,2016,8,37.55,19.01,31
+Uttarakhand,NR,2016,9,38.43,17.67,30
+Uttarakhand,NR,2016,10,35.27,13.59,30
+Uttarakhand,NR,2016,11,31.88,9.02,27
+Uttarakhand,NR,2016,12,32.06,6.73,30
+Uttarakhand,NR,2017,1,33.83,2.07,29
+Uttarakhand,NR,2017,2,33.84,5.47,17
+Uttarakhand,NR,2017,3,32.69,7.77,21
+Uttarakhand,NR,2017,4,34.87,13.81,28
+Uttarakhand,NR,2017,5,38.84,15.92,30
+Uttarakhand,NR,2017,6,39.88,18.1,29
+Uttarakhand,NR,2017,7,37.78,19.22,30
+Uttarakhand,NR,2017,8,37.9,19.13,31
+Uttarakhand,NR,2017,9,38.34,17.41,30
+Uttarakhand,NR,2017,10,34.22,13.5,31
+Uttarakhand,NR,2017,11,33.21,7.11,28
+Uttarakhand,NR,2017,12,34.75,4.26,31
+Uttarakhand,NR,2018,1,37.52,2.49,31
+Uttarakhand,NR,2018,2,35.29,5.16,28
+Uttarakhand,NR,2018,3,34.0,8.87,31
+Uttarakhand,NR,2018,4,35.72,12.71,30
+Uttarakhand,NR,2018,5,39.58,15.69,31
+Uttarakhand,NR,2018,6,43.37,18.66,30
+Uttarakhand,NR,2018,7,41.59,19.26,31
+Uttarakhand,NR,2018,8,37.35,18.76,26
+Uttarakhand,NR,2018,9,38.37,16.87,30
+Uttarakhand,NR,2018,10,34.98,10.99,31
+Uttarakhand,NR,2018,11,33.73,7.16,29
+Uttarakhand,NR,2018,12,37.18,2.45,31
+Uttarakhand,NR,2019,1,38.14,1.14,31
+Uttarakhand,NR,2019,2,37.01,3.55,26
+Uttarakhand,NR,2019,3,34.07,6.92,31
+Uttarakhand,NR,2019,4,37.56,13.44,30
+Uttarakhand,NR,2019,5,42.76,15.81,31
+Uttarakhand,NR,2019,6,44.89,18.39,29
+Uttarakhand,NR,2019,7,41.69,18.77,31
+Uttarakhand,NR,2019,8,40.45,19.36,31
+Uttarakhand,NR,2019,9,39.78,18.11,30
+Uttarakhand,NR,2019,10,33.7,12.62,30
+Uttarakhand,NR,2019,11,33.4,7.81,30
+Uttarakhand,NR,2019,12,36.83,1.67,31
+Uttarakhand,NR,2020,1,39.07,0.83,31
+Uttarakhand,NR,2020,2,36.71,3.7,29
+Uttarakhand,NR,2020,3,28.03,6.99,31
+Uttarakhand,NR,2020,4,20.94,11.52,29
+Uttarakhand,NR,2020,5,29.28,14.95,30
+Uttarakhand,NR,2020,6,38.21,17.87,28
+Uttarakhand,NR,2020,7,39.75,19.13,30
+Uttarakhand,NR,2020,8,39.11,19.76,18
+Uttarakhand,NR,2020,9,41.46,18.16,14
+Uttarakhand,NR,2020,10,36.51,13.95,22
+Uttarakhand,NR,2020,11,34.31,6.91,26
+Uttarakhand,NR,2020,12,38.98,2.68,28
+Uttarakhand,NR,2021,1,40.65,3.14,31
+Uttarakhand,NR,2021,2,38.93,5.99,27
+Uttarakhand,NR,2021,3,36.84,9.45,30
+Uttarakhand,NR,2021,4,36.85,11.84,27
+Uttarakhand,NR,2021,5,34.44,14.45,30
+Uttarakhand,NR,2021,6,41.34,17.85,27
+Uttarakhand,NR,2021,7,43.69,19.35,30
+Uttarakhand,NR,2021,8,42.46,19.15,31
+Uttarakhand,NR,2021,9,42.38,18.08,28
+Uttarakhand,NR,2021,10,36.88,13.59,30
+Uttarakhand,NR,2021,11,33.92,7.74,30
+Uttarakhand,NR,2021,12,39.38,2.13,31
+Uttarakhand,NR,2022,1,41.85,1.11,31
+Uttarakhand,NR,2022,2,40.04,2.67,28
+Uttarakhand,NR,2022,3,37.4,10.84,31
+Uttarakhand,NR,2022,4,41.26,15.69,29
+Uttarakhand,NR,2022,5,44.94,16.64,31
+Uttarakhand,NR,2022,6,49.17,19.35,29
+Uttarakhand,NR,2022,7,46.62,19.81,31
+Uttarakhand,NR,2022,8,46.17,19.86,31
+Uttarakhand,NR,2022,9,43.41,17.5,30
+Uttarakhand,NR,2022,10,36.02,11.98,31
+Uttarakhand,NR,2022,11,36.17,7.71,29
+Uttarakhand,NR,2022,12,39.99,4.28,30
+Uttarakhand,NR,2023,1,42.74,2.12,31
+Uttarakhand,NR,2023,2,39.68,6.13,28
+Uttarakhand,NR,2023,3,37.56,8.04,30
+Uttarakhand,NR,2023,4,40.22,11.31,30
+Uttarakhand,NR,2023,5,43.3,13.86,31
+Uttarakhand,NR,2023,6,49.7,17.89,30
+Uttarakhand,NR,2023,7,43.9,19.23,31
+Uttarakhand,NR,2023,8,45.18,19.21,31
+Uttarakhand,NR,2023,9,46.58,17.88,30
+Uttarakhand,NR,2023,10,40.01,12.23,31
+Uttarakhand,NR,2023,11,37.15,7.66,30
+Uttarakhand,NR,2023,12,41.19,4.03,31
+Uttarakhand,NR,2024,1,45.75,1.78,31
+Uttarakhand,NR,2024,2,42.47,3.09,29
+Uttarakhand,NR,2024,3,39.34,8.1,31
+Uttarakhand,NR,2024,4,43.2,12.76,28
+West Bengal,ER,2013,1,105.76,17.41,7
+West Bengal,ER,2013,3,126.6,28.58,1
+West Bengal,ER,2013,4,129.09,29.06,30
+West Bengal,ER,2013,5,123.56,29.47,30
+West Bengal,ER,2013,6,126.91,29.37,27
+West Bengal,ER,2013,7,129.86,29.01,30
+West Bengal,ER,2013,8,124.54,28.44,28
+West Bengal,ER,2013,9,126.24,28.44,27
+West Bengal,ER,2013,10,113.78,26.16,30
+West Bengal,ER,2013,11,101.27,22.02,30
+West Bengal,ER,2013,12,99.59,18.7,31
+West Bengal,ER,2014,1,106.9,17.24,24
+West Bengal,ER,2014,2,108.54,19.89,28
+West Bengal,ER,2014,3,123.06,25.2,31
+West Bengal,ER,2014,4,147.84,30.2,28
+West Bengal,ER,2014,5,134.46,30.59,31
+West Bengal,ER,2014,6,135.84,30.1,30
+West Bengal,ER,2014,7,139.04,28.88,31
+West Bengal,ER,2014,8,139.68,28.62,31
+West Bengal,ER,2014,9,135.88,28.38,30
+West Bengal,ER,2014,10,130.59,26.6,31
+West Bengal,ER,2014,11,111.81,22.39,30
+West Bengal,ER,2014,12,106.37,17.93,30
+West Bengal,ER,2015,1,107.71,17.68,31
+West Bengal,ER,2015,2,119.28,21.79,28
+West Bengal,ER,2015,3,135.98,25.85,30
+West Bengal,ER,2015,4,129.39,27.66,28
+West Bengal,ER,2015,5,143.98,30.4,30
+West Bengal,ER,2015,6,135.75,29.37,27
+West Bengal,ER,2015,7,132.46,28.43,28
+West Bengal,ER,2015,8,140.81,28.94,31
+West Bengal,ER,2015,9,146.21,29.14,27
+West Bengal,ER,2015,10,146.97,27.36,30
+West Bengal,ER,2015,11,124.02,23.82,30
+West Bengal,ER,2015,12,118.45,19.33,31
+West Bengal,ER,2016,1,117.08,17.87,31
+West Bengal,ER,2016,2,124.2,22.86,28
+West Bengal,ER,2016,3,139.55,26.84,28
+West Bengal,ER,2016,4,154.26,31.16,29
+West Bengal,ER,2016,5,142.87,29.44,30
+West Bengal,ER,2016,6,151.32,29.95,27
+West Bengal,ER,2016,7,145.71,28.55,29
+West Bengal,ER,2016,8,146.24,29.05,31
+West Bengal,ER,2016,9,145.77,28.43,30
+West Bengal,ER,2016,10,137.97,27.29,30
+West Bengal,ER,2016,11,106.12,22.76,27
+West Bengal,ER,2016,12,99.04,19.37,30
+West Bengal,ER,2017,1,106.16,18.22,29
+West Bengal,ER,2017,2,115.98,21.72,17
+West Bengal,ER,2017,3,123.91,25.3,21
+West Bengal,ER,2017,4,150.24,29.06,28
+West Bengal,ER,2017,5,141.4,29.82,30
+West Bengal,ER,2017,6,144.33,30.04,29
+West Bengal,ER,2017,7,142.91,28.55,30
+West Bengal,ER,2017,8,146.48,29.0,31
+West Bengal,ER,2017,9,149.88,29.12,30
+West Bengal,ER,2017,10,134.6,27.15,31
+West Bengal,ER,2017,11,110.83,22.72,28
+West Bengal,ER,2017,12,98.5,19.44,31
+West Bengal,ER,2018,1,105.25,16.21,31
+West Bengal,ER,2018,2,121.05,22.15,28
+West Bengal,ER,2018,3,145.38,26.51,31
+West Bengal,ER,2018,4,149.54,27.68,30
+West Bengal,ER,2018,5,156.69,28.8,31
+West Bengal,ER,2018,6,166.26,29.93,30
+West Bengal,ER,2018,7,164.93,28.99,31
+West Bengal,ER,2018,8,165.1,29.04,26
+West Bengal,ER,2018,9,162.46,28.91,30
+West Bengal,ER,2018,10,146.04,26.51,31
+West Bengal,ER,2018,11,118.27,23.09,29
+West Bengal,ER,2018,12,110.29,18.24,31
+West Bengal,ER,2019,1,117.08,18.01,31
+West Bengal,ER,2019,2,125.55,21.3,26
+West Bengal,ER,2019,3,138.33,25.36,31
+West Bengal,ER,2019,4,163.18,28.58,30
+West Bengal,ER,2019,5,174.73,30.27,31
+West Bengal,ER,2019,6,174.35,30.41,29
+West Bengal,ER,2019,7,172.52,29.39,31
+West Bengal,ER,2019,8,166.19,29.26,31
+West Bengal,ER,2019,9,162.07,28.21,30
+West Bengal,ER,2019,10,137.21,26.5,30
+West Bengal,ER,2019,11,113.86,23.52,30
+West Bengal,ER,2019,12,109.96,18.21,31
+West Bengal,ER,2020,1,112.36,17.4,31
+West Bengal,ER,2020,2,119.75,19.84,29
+West Bengal,ER,2020,3,119.64,25.01,31
+West Bengal,ER,2020,4,121.91,27.83,29
+West Bengal,ER,2020,5,118.14,28.4,30
+West Bengal,ER,2020,6,150.83,29.14,28
+West Bengal,ER,2020,7,161.17,29.17,30
+West Bengal,ER,2020,8,160.47,29.28,18
+West Bengal,ER,2020,9,168.21,28.9,14
+West Bengal,ER,2020,10,153.72,27.99,22
+West Bengal,ER,2020,11,115.95,23.2,26
+West Bengal,ER,2020,12,112.88,18.51,28
+West Bengal,ER,2021,1,122.77,18.1,31
+West Bengal,ER,2021,2,130.89,21.36,27
+West Bengal,ER,2021,3,164.74,26.82,30
+West Bengal,ER,2021,4,179.37,29.4,27
+West Bengal,ER,2021,5,144.99,28.74,30
+West Bengal,ER,2021,6,154.47,28.9,27
+West Bengal,ER,2021,7,167.72,29.12,30
+West Bengal,ER,2021,8,170.22,28.96,31
+West Bengal,ER,2021,9,160.89,28.41,28
+West Bengal,ER,2021,10,150.21,27.55,30
+West Bengal,ER,2021,11,117.93,22.65,30
+West Bengal,ER,2021,12,111.11,19.15,31
+West Bengal,ER,2022,1,115.55,17.38,31
+West Bengal,ER,2022,2,117.29,19.49,28
+West Bengal,ER,2022,3,153.83,26.67,31
+West Bengal,ER,2022,4,188.8,29.78,29
+West Bengal,ER,2022,5,167.08,29.3,31
+West Bengal,ER,2022,6,180.01,29.71,29
+West Bengal,ER,2022,7,187.84,29.55,31
+West Bengal,ER,2022,8,180.35,29.16,31
+West Bengal,ER,2022,9,181.82,28.75,30
+West Bengal,ER,2022,10,158.37,26.88,31
+West Bengal,ER,2022,11,127.04,22.79,29
+West Bengal,ER,2022,12,120.66,19.56,30
+West Bengal,ER,2023,1,130.72,18.2,31
+West Bengal,ER,2023,2,147.89,22.2,28
+West Bengal,ER,2023,3,159.43,25.65,30
+West Bengal,ER,2023,4,196.7,29.32,30
+West Bengal,ER,2023,5,193.72,29.96,31
+West Bengal,ER,2023,6,213.4,30.98,30
+West Bengal,ER,2023,7,212.63,29.73,31
+West Bengal,ER,2023,8,202.04,29.15,31
+West Bengal,ER,2023,9,199.51,29.02,30
+West Bengal,ER,2023,10,176.57,27.28,31
+West Bengal,ER,2023,11,142.55,23.94,30
+West Bengal,ER,2023,12,130.74,19.63,31
+West Bengal,ER,2024,1,142.86,16.72,31
+West Bengal,ER,2024,2,150.84,21.09,29
+West Bengal,ER,2024,3,169.55,25.24,31
+West Bengal,ER,2024,4,230.55,30.71,28
